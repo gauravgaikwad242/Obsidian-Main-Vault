@@ -1,5 +1,5 @@
 
-1. create table [create table](./TABLE LIFECYCLE.md)
+1. create table [create table]( ./TABLE_LIFECYCLE.md)
 
 ![[Pasted image 20230806204752.png]]
 

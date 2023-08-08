@@ -1,3 +1,5 @@
+
+
 create table without contstraint
 ```
 CREATE TABLE person(
