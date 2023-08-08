@@ -1,3 +1,6 @@
+
+1. create table [create table](./TABLE LIFECYCLE.md)
+
 ![[Pasted image 20230806204752.png]]
 
 ```

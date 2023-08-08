@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "95602ee7404b82c2",
+        "id": "f638fa7b68025452",
         "type": "tabs",
         "children": [
           {
-            "id": "928db12a57682a4a",
+            "id": "56f053368de7c346",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md"
+              }
             }
           },
           {
@@ -149,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "928db12a57682a4a",
+  "active": "56f053368de7c346",
   "lastOpenFiles": [
+    "java/builder pattern.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/TABLE LIFECYCLE.md",
     "postgres/table/_Table.md",
     "postgres/table/INSERT.md",
     "postgres/table/MOCK DATA.md",
     "springboot/Microservices/Circuit Breaker.md",
-    "java/builder pattern.md",
     "Untitled 1.canvas",
     "springboot/jpa/orphanRemoval.md",
     "springboot/_Spring Boot.md",
