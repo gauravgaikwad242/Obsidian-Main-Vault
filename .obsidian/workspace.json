@@ -11,11 +11,10 @@
             "id": "928db12a57682a4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -69,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51283645629883
+    "width": 374.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +121,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "60592059ab1c7ecc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "928db12a57682a4a",
   "lastOpenFiles": [
+    "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/TABLE LIFECYCLE.md",
     "postgres/table/_Table.md",
     "postgres/table/INSERT.md",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/MOCK DATA.md",
     "springboot/Microservices/Circuit Breaker.md",
     "java/builder pattern.md",
