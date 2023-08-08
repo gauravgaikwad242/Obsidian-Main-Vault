@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "1b0ed872c6b1cbb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "95602ee7404b82c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "928db12a57682a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3bc7d9e28ea7991",
+    "type": "split",
+    "children": [
+      {
+        "id": "928f6da5ace93836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d0d93cd202bc02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "805ad737b6538426",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a4aac11eea7cd6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.51283645629883
+  },
+  "right": {
+    "id": "c70907c57a1a0c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabdc1bb829030cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31e979e8c5451e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52ddf188f8e0143f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df48f8182e3c149e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3a7a5fcb16b348f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52d0d93cd202bc02",
+  "lastOpenFiles": [
+    "postgres/table/TABLE LIFECYCLE.md",
+    "postgres/table/_Table.md",
+    "postgres/table/INSERT.md",
+    "postgres/table/TABLE WITH CONTSTRAINTS.md",
+    "postgres/table/MOCK DATA.md",
+    "springboot/Microservices/Circuit Breaker.md",
+    "java/builder pattern.md",
+    "Untitled 1.canvas",
+    "springboot/jpa/orphanRemoval.md",
+    "springboot/_Spring Boot.md",
+    "springboot/@RestControllerAdvice.md",
+    "www.md",
+    "springboot/Spring Boot.md",
+    "springboot/jpa/MapsId.md",
+    "Pasted image 20230806204752.png",
+    "Pasted image 20230806204936.png",
+    "[Mockaroo.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "postgres/table",
+    "postgres",
+    "springboot/Untitled.canvas",
+    "springboot/Microservices",
+    "Untitled 2",
+    "Untitled 1",
+    "java",
+    "springboot/jpa",
+    "springboot"
+  ]
+}
