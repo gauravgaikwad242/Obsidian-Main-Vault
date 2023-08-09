@@ -1,0 +1,10 @@
+- WE WILL GET DUPLICATE ENTRIES
+```
+SELECT country_of_birth FROM PERSON ORDER BY country_of_birth;
+```
+
+- FOR DISTINCT ENTRIES
+- TO REMOVE DUPLICATE ENTRIES
+```
+SELECT DISTINCT country_of_birth FROM PERSON ORDER BY country_of_birth;
+```

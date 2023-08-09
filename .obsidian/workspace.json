@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f638fa7b68025452",
+        "id": "1dee6868b9426df4",
         "type": "tabs",
         "children": [
           {
-            "id": "56f053368de7c346",
+            "id": "b9b4aaa4fce2675d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "postgres/table/TABLE WITH CONTSTRAINTS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,15 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f053368de7c346",
+  "active": "b9b4aaa4fce2675d",
   "lastOpenFiles": [
+    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "postgres/KEYWORDS/COMPARISON.md",
+    "postgres/KEYWORDS/WHERE.md",
+    "ABC.md",
+    "Untitled 1.md",
+    "postgres/KEYWORDS/COMPARISON-OPERATORS",
+    "postgres/KEYWORDS/AND-OR.md",
+    "ANDOR.md",
+    "postgres/KEYWORDS/DISTINCT.md",
+    "postgres/KEYWORDS",
+    "postgres/KEYWORDS/ORDER_BY.md",
+    "Untitled.md",
+    "postgres/KEYWORDS/SELECT.md",
+    "postgres/table/MOCK DATA.md",
+    "postgres/KEYWORDS/INSERT.md",
+    "postgres/table/_Table.md",
     "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "postgres/table/INSERT.md",
-    "postgres/table/MOCK DATA.md",
     "TABLE.md",
     "java/builder pattern.md",
-    "postgres/table/_Table.md",
     "springboot/Microservices/Circuit Breaker.md",
     "Untitled 1.canvas",
     "springboot/jpa/orphanRemoval.md",
@@ -175,7 +180,6 @@
     "Pasted image 20230806204936.png",
     "[Mockaroo.md",
     "Untitled.canvas",
-    "Untitled.md",
     "postgres/table",
     "postgres",
     "springboot/Untitled.canvas",
