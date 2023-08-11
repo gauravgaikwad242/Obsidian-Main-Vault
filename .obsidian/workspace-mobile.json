@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/table/_Table.md",
+                "file": "postgres/KEYWORDS/COMPARISON.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "postgres/table/_Table.md",
+            "file": "postgres/KEYWORDS/COMPARISON.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "postgres/table/_Table.md",
+            "file": "postgres/KEYWORDS/COMPARISON.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "postgres/table/_Table.md"
+            "file": "postgres/KEYWORDS/COMPARISON.md"
           }
         }
       },
@@ -139,9 +139,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d614c6edceff0f",
+  "active": "3075850afc4f279b",
   "lastOpenFiles": [
-    "postgres/table/INSERT.md",
-    "postgres/table/_Table.md"
+    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "postgres/KEYWORDS/WHERE.md",
+    "postgres/KEYWORDS/AND-OR.md",
+    "postgres/table/_Table.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "ABC.md",
+    "postgres/KEYWORDS/SELECT.md",
+    "postgres/KEYWORDS/ORDER_BY.md",
+    "postgres/KEYWORDS/DISTINCT.md",
+    "postgres/KEYWORDS/COMPARISON.md",
+    "/Untitled.md",
+    "/Untitled 1.md",
+    "/ABC.md",
+    "/postgres/KEYWORDS/WHERE.md",
+    "/postgres/KEYWORDS/SELECT.md",
+    "/postgres/KEYWORDS/ORDER_BY.md",
+    "postgres/KEYWORDS/INSERT.md",
+    "/postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "/postgres/KEYWORDS/DISTINCT.md",
+    "/postgres/KEYWORDS/COMPARISON.md",
+    "/postgres/KEYWORDS/AND-OR.md",
+    "/postgres/KEYWORDS/INSERT.md",
+    "postgres/KEYWORDS",
+    "/postgres/KEYWORDS",
+    "postgres/table/INSERT.md"
   ]
 }
