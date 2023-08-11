@@ -11,8 +11,12 @@
             "id": "b9b4aaa4fce2675d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "links/JAVA LINKS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "links/JAVA LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "links/JAVA LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "links/JAVA LINKS.md"
+              }
             }
           },
           {
@@ -148,18 +156,23 @@
   },
   "active": "b9b4aaa4fce2675d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "links/JAVA LINKS.md",
+    "Untitled 2.md",
+    "links",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
     "postgres/KEYWORDS/COMPARISON.md",
     "postgres/KEYWORDS/WHERE.md",
     "ABC.md",
-    "Untitled 1.md",
     "postgres/KEYWORDS/COMPARISON-OPERATORS",
     "postgres/KEYWORDS/AND-OR.md",
     "ANDOR.md",
     "postgres/KEYWORDS/DISTINCT.md",
     "postgres/KEYWORDS",
     "postgres/KEYWORDS/ORDER_BY.md",
-    "Untitled.md",
     "postgres/KEYWORDS/SELECT.md",
     "postgres/table/MOCK DATA.md",
     "postgres/KEYWORDS/INSERT.md",
@@ -169,17 +182,13 @@
     "TABLE.md",
     "java/builder pattern.md",
     "springboot/Microservices/Circuit Breaker.md",
-    "Untitled 1.canvas",
     "springboot/jpa/orphanRemoval.md",
     "springboot/_Spring Boot.md",
     "springboot/@RestControllerAdvice.md",
     "www.md",
     "springboot/Spring Boot.md",
-    "springboot/jpa/MapsId.md",
     "Pasted image 20230806204752.png",
     "Pasted image 20230806204936.png",
-    "[Mockaroo.md",
-    "Untitled.canvas",
     "postgres/table",
     "postgres",
     "springboot/Untitled.canvas",
@@ -187,7 +196,6 @@
     "Untitled 2",
     "Untitled 1",
     "java",
-    "springboot/jpa",
-    "springboot"
+    "springboot/jpa"
   ]
 }
