@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Streams/Operators/foreach-streams.md",
+                "file": "java/INDEX-JAVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Streams/Operators/foreach-streams.md",
+                "file": "java/INDEX-JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Streams/Operators/foreach-streams.md",
+                "file": "java/INDEX-JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Streams/Operators/foreach-streams.md"
+                "file": "java/INDEX-JAVA.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "8c5678433bc6b76c",
   "lastOpenFiles": [
+    "java/Streams/Operators/foreach-streams.md",
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/collect-streams.md",
     "java/Streams/Operators/boxed-streams.md",
@@ -183,7 +184,6 @@
     "RXJS",
     "java/Streams/Operators/peek-streams.md",
     "java/Streams/Operators/limit-skip-streams.md",
-    "java/Streams/Operators/foreach-streams.md",
     "java/Streams/index-streams.md",
     "java/Streams/Operators/to-array-streams.md",
     "java/Streams/Operators/sorted-stream.md",
