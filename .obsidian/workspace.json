@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1dee6868b9426df4",
+        "id": "600fe579cd783638",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b4aaa4fce2675d",
+            "id": "817d5897373c4c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "java/Streams/OPERATORS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c5678433bc6b76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Streams/Operators/foreach-streams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5128364562988
+    "width": 290.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "java/Streams/Operators/foreach-streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "java/Streams/Operators/foreach-streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links/JAVA LINKS.md"
+                "file": "java/Streams/Operators/foreach-streams.md"
               }
             }
           },
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,48 +167,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b4aaa4fce2675d",
+  "active": "8c5678433bc6b76c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "links/JAVA LINKS.md",
-    "Untitled 2.md",
-    "links",
-    "Untitled 1.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
-    "postgres/KEYWORDS/COMPARISON.md",
-    "postgres/KEYWORDS/WHERE.md",
-    "ABC.md",
-    "postgres/KEYWORDS/COMPARISON-OPERATORS",
-    "postgres/KEYWORDS/AND-OR.md",
-    "ANDOR.md",
-    "postgres/KEYWORDS/DISTINCT.md",
-    "postgres/KEYWORDS",
-    "postgres/KEYWORDS/ORDER_BY.md",
-    "postgres/KEYWORDS/SELECT.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "java/Streams/Operators/collect-streams.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
+    "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
+    "java/INDEX-JAVA.md",
+    "Pasted image 20230813084603.png",
+    "Pasted image 20230806204752.png",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "java/Streams/OPERATORS.md",
+    "java/functional-inteface",
+    "RXJS",
+    "java/Streams/Operators/peek-streams.md",
+    "java/Streams/Operators/limit-skip-streams.md",
+    "java/Streams/Operators/foreach-streams.md",
+    "java/Streams/index-streams.md",
+    "java/Streams/Operators/to-array-streams.md",
+    "java/Streams/Operators/sorted-stream.md",
+    "java/Streams/Operators/reduce-streams.md",
+    "java/Streams/Operators/min-max-streams.md",
+    "java/Streams/Operators/joining-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Untitled.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators",
+    "postgres/table/TABLE_LIFECYCLE.md",
+    "postgres/table/_Table.md",
     "postgres/table/MOCK DATA.md",
     "postgres/KEYWORDS/INSERT.md",
-    "postgres/table/_Table.md",
-    "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "TABLE.md",
-    "java/builder pattern.md",
-    "springboot/Microservices/Circuit Breaker.md",
-    "springboot/jpa/orphanRemoval.md",
-    "springboot/_Spring Boot.md",
-    "springboot/@RestControllerAdvice.md",
-    "www.md",
-    "springboot/Spring Boot.md",
-    "Pasted image 20230806204752.png",
+    "java/Streams",
+    "links",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "postgres/KEYWORDS/COMPARISON-OPERATORS",
+    "postgres/KEYWORDS",
     "Pasted image 20230806204936.png",
     "postgres/table",
     "postgres",
     "springboot/Untitled.canvas",
-    "springboot/Microservices",
-    "Untitled 2",
-    "Untitled 1",
-    "java",
-    "springboot/jpa"
+    "springboot/Microservices"
   ]
 }
