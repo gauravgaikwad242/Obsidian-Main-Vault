@@ -11,28 +11,11 @@
             "id": "817d5897373c4c78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Streams/OPERATORS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c5678433bc6b76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/INDEX-JAVA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/INDEX-JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/INDEX-JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "java/INDEX-JAVA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,19 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c5678433bc6b76c",
+  "active": "817d5897373c4c78",
   "lastOpenFiles": [
+    "java/Streams/OPERATORS.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "RXJS/CONCAT-MAP.md",
+    "RXJS/SWITCH-MAP.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/EXHAUST-MAP.md",
+    "java/INDEX-JAVA.md",
     "java/Streams/Operators/foreach-streams.md",
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/collect-streams.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/flatmap-streams.md",
     "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
-    "java/INDEX-JAVA.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "java/functional-inteface/Standard Functional Interface.md",
-    "java/Streams/OPERATORS.md",
     "java/functional-inteface",
     "RXJS",
     "java/Streams/Operators/peek-streams.md",
@@ -195,14 +180,8 @@
     "java/Streams/Operators/groupingby-partitionby-streams.md",
     "java/Streams/Operators",
     "postgres/table/TABLE_LIFECYCLE.md",
-    "postgres/table/_Table.md",
-    "postgres/table/MOCK DATA.md",
-    "postgres/KEYWORDS/INSERT.md",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "java/Streams",
     "links",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "postgres/KEYWORDS/COMPARISON-OPERATORS",
     "postgres/KEYWORDS",
     "Pasted image 20230806204936.png",
