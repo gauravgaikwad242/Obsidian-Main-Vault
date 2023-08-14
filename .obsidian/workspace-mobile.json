@@ -139,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3075850afc4f279b",
+  "active": "22d614c6edceff0f",
   "lastOpenFiles": [
+    "postgres/KEYWORDS/ORDER_BY.md",
+    "postgres/KEYWORDS/COMPARISON.md",
     "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
     "postgres/KEYWORDS/WHERE.md",
     "postgres/KEYWORDS/AND-OR.md",
@@ -149,9 +151,7 @@
     "Untitled 1.md",
     "ABC.md",
     "postgres/KEYWORDS/SELECT.md",
-    "postgres/KEYWORDS/ORDER_BY.md",
     "postgres/KEYWORDS/DISTINCT.md",
-    "postgres/KEYWORDS/COMPARISON.md",
     "/Untitled.md",
     "/Untitled 1.md",
     "/ABC.md",
