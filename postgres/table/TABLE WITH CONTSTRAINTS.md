@@ -14,4 +14,4 @@ email VARCHAR(150)
 );
 ```
 
-> BIGSERIAL -> auto increment
+> [[BIGSERIAL]] -> auto increment

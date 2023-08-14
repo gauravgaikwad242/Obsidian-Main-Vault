@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e12145fb909cad0",
+        "id": "bd3fad7cfa86bc19",
         "type": "tabs",
         "children": [
           {
-            "id": "201a55241a79880a",
+            "id": "ae37b8e5a922ab02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "postgres/KEYWORDS/LIKE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5128364562988
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "postgres/KEYWORDS/LIKE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "postgres/KEYWORDS/LIKE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "postgres/KEYWORDS/LIKE.md"
+              }
             }
           },
           {
@@ -134,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +156,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "201a55241a79880a",
+  "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "java/INDEX-JAVA.md",
+    "postgres/KEYWORDS/BETWEEN.md",
+    "postgres/KEYWORDS/LIKE.md",
+    "postgres/KEYWORDS/IN.md",
+    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "postgres/KEYWORDS/DISTINCT.md",
+    "postgres/KEYWORDS/COMPARISON.md",
+    "postgres/KEYWORDS/SELECT.md",
+    "postgres/table/TABLE WITH CONTSTRAINTS.md",
+    "postgres/DATATYPE/DATATYPES.md",
+    "postgres/KEYWORDS/BIGSERIAL.md",
+    "postgres/DATATYPE",
+    "postgres/KEYWORDS/INSERT.md",
     "RXJS/EXHAUST-MAP.md",
+    "java/INDEX-JAVA.md",
     "RXJS/SWITCH-MAP.md",
     "RXJS/MERGE-MAP.md",
     "RXJS/CONCAT-MAP.md",
@@ -169,18 +191,7 @@
     "java/functional-inteface",
     "RXJS",
     "java/Streams/Operators/peek-streams.md",
-    "java/Streams/Operators/limit-skip-streams.md",
-    "java/Streams/index-streams.md",
-    "java/Streams/Operators/to-array-streams.md",
-    "java/Streams/Operators/sorted-stream.md",
-    "java/Streams/Operators/reduce-streams.md",
-    "java/Streams/Operators/min-max-streams.md",
-    "java/Streams/Operators/joining-streams.md",
-    "java/Streams/Operators/findfirst-findany-streams.md",
-    "java/Streams/Untitled.md",
-    "java/Streams/Operators/groupingby-partitionby-streams.md",
     "java/Streams/Operators",
-    "postgres/table/TABLE_LIFECYCLE.md",
     "java/Streams",
     "links",
     "postgres/KEYWORDS/COMPARISON-OPERATORS",
@@ -188,7 +199,6 @@
     "Pasted image 20230806204936.png",
     "postgres/table",
     "postgres",
-    "springboot/Untitled.canvas",
-    "springboot/Microservices"
+    "springboot/Untitled.canvas"
   ]
 }

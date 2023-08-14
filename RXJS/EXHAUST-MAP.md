@@ -1,6 +1,7 @@
 - SIMILAR TO [[MERGE-MAP]] 
 - SIMILAR TO [[SWITCH-MAP]]
 - BUT IT COMPLETES THE FIRST SUBSCIBER AND IGNORE ALL THE INCOMING SUBSCIPTION
+- This is test for autocomplete but autoco
 ```
   exhaustMapWithSwapi(){
     let searchStrings = of("yoda","a","obi","r2","b")
