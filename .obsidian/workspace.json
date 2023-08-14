@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dee6868b9426df4",
+        "id": "3e12145fb909cad0",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b4aaa4fce2675d",
+            "id": "201a55241a79880a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5128364562988
+    "width": 290.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,48 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b4aaa4fce2675d",
+  "active": "201a55241a79880a",
   "lastOpenFiles": [
-    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
-    "postgres/KEYWORDS/COMPARISON.md",
-    "postgres/KEYWORDS/WHERE.md",
-    "ABC.md",
-    "Untitled 1.md",
-    "postgres/KEYWORDS/COMPARISON-OPERATORS",
-    "postgres/KEYWORDS/AND-OR.md",
-    "ANDOR.md",
-    "postgres/KEYWORDS/DISTINCT.md",
-    "postgres/KEYWORDS",
-    "postgres/KEYWORDS/ORDER_BY.md",
-    "Untitled.md",
-    "postgres/KEYWORDS/SELECT.md",
-    "postgres/table/MOCK DATA.md",
-    "postgres/KEYWORDS/INSERT.md",
-    "postgres/table/_Table.md",
-    "postgres/table/TABLE_LIFECYCLE.md",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "TABLE.md",
-    "java/builder pattern.md",
-    "springboot/Microservices/Circuit Breaker.md",
+    "java/INDEX-JAVA.md",
+    "RXJS/EXHAUST-MAP.md",
+    "RXJS/SWITCH-MAP.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/CONCAT-MAP.md",
+    "links/JAVA LINKS.md",
+    "java/Streams/OPERATORS.md",
     "Untitled 1.canvas",
-    "springboot/jpa/orphanRemoval.md",
-    "springboot/_Spring Boot.md",
-    "springboot/@RestControllerAdvice.md",
-    "www.md",
-    "springboot/Spring Boot.md",
-    "springboot/jpa/MapsId.md",
-    "Pasted image 20230806204752.png",
-    "Pasted image 20230806204936.png",
-    "[Mockaroo.md",
     "Untitled.canvas",
+    "java/Streams/Operators/foreach-streams.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "java/Streams/Operators/collect-streams.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
+    "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
+    "Pasted image 20230813084603.png",
+    "Pasted image 20230806204752.png",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "java/functional-inteface",
+    "RXJS",
+    "java/Streams/Operators/peek-streams.md",
+    "java/Streams/Operators/limit-skip-streams.md",
+    "java/Streams/index-streams.md",
+    "java/Streams/Operators/to-array-streams.md",
+    "java/Streams/Operators/sorted-stream.md",
+    "java/Streams/Operators/reduce-streams.md",
+    "java/Streams/Operators/min-max-streams.md",
+    "java/Streams/Operators/joining-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Untitled.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators",
+    "postgres/table/TABLE_LIFECYCLE.md",
+    "java/Streams",
+    "links",
+    "postgres/KEYWORDS/COMPARISON-OPERATORS",
+    "postgres/KEYWORDS",
+    "Pasted image 20230806204936.png",
     "postgres/table",
     "postgres",
     "springboot/Untitled.canvas",
-    "springboot/Microservices",
-    "Untitled 2",
-    "Untitled 1",
-    "java",
-    "springboot/jpa",
-    "springboot"
+    "springboot/Microservices"
   ]
 }
