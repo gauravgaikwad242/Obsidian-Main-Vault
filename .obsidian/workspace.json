@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
+                "file": "RXJS/MERGE-MAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
+                "file": "RXJS/MERGE-MAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
+                "file": "RXJS/MERGE-MAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/DEBOUNCE-TIME-RXJS.md"
+                "file": "RXJS/MERGE-MAP.md"
               }
             }
           },
@@ -156,12 +156,13 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
-    "RXJS/DEBOUNCE-TIME-RXJS.md",
-    "RXJS/MERGE-MAP.md",
-    "RXJS/EXHAUST-MAP.md",
     "RXJS/SWITCH-MAP.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/FORK-JOIN-RXJS.md",
     "RXJS/ZIP-RXJS.md",
+    "RXJS/DEBOUNCE-TIME-RXJS.md",
+    "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
+    "RXJS/EXHAUST-MAP.md",
     "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
     "postgres/KEYWORDS/LIKE.md",
     "postgres/KEYWORDS/BETWEEN.md",
@@ -184,7 +185,6 @@
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/collect-streams.md",
     "java/Streams/Operators/boxed-streams.md",
-    "java/Streams/Operators/flatmap-streams.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "java/functional-inteface",

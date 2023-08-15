@@ -1,9 +1,10 @@
+- **PARALLEL**
 - WORKS WITH OBSERVABLE OF OBSERVABLE
 - mergemap get observable of observable and subscribes it and returns data  
 - in simple words map will return observable object which we will have to subscribes again  
 	but mergemap will subscribe the inner observables
 - PARALLEL EXECUTION
--  BUT IT COMPLETES THE LAST SUBSCIBER AND CANCELLS ALL THE PREVIOUS SUBSCIPTION
+
 
 ```
   mergeMapWithSwapi(){
