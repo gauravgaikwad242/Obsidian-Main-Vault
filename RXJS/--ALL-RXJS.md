@@ -1,0 +1,5 @@
+- MERGEALL
+- SWITCHLL
+- EXHAUSTALL
+- CONCATALL
+- Are similar to their map counterpart [[MERGE-MAP]] etc

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "RXJS/--ALL-RXJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "RXJS/--ALL-RXJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "RXJS/--ALL-RXJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/MERGE-MAP.md"
+                "file": "RXJS/--ALL-RXJS.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "RXJS/SWITCH-MAP.md",
     "RXJS/MERGE-MAP.md",
+    "RXJS/--ALL-RXJS.md",
+    "RXJS/SWITCH-MAP.md",
     "RXJS/FORK-JOIN-RXJS.md",
     "RXJS/ZIP-RXJS.md",
     "RXJS/DEBOUNCE-TIME-RXJS.md",
@@ -184,7 +185,6 @@
     "java/Streams/Operators/foreach-streams.md",
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/collect-streams.md",
-    "java/Streams/Operators/boxed-streams.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "java/functional-inteface",
