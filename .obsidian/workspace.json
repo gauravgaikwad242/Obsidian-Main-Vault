@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/ZIP-RXJS.md",
+                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/ZIP-RXJS.md",
+                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/ZIP-RXJS.md",
+                "file": "RXJS/DEBOUNCE-TIME-RXJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/ZIP-RXJS.md"
+                "file": "RXJS/DEBOUNCE-TIME-RXJS.md"
               }
             }
           },
@@ -156,8 +156,13 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
+    "RXJS/DEBOUNCE-TIME-RXJS.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/EXHAUST-MAP.md",
+    "RXJS/SWITCH-MAP.md",
     "RXJS/ZIP-RXJS.md",
+    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
     "postgres/KEYWORDS/LIKE.md",
     "postgres/KEYWORDS/BETWEEN.md",
     "postgres/KEYWORDS/IN.md",
@@ -169,10 +174,7 @@
     "postgres/KEYWORDS/BIGSERIAL.md",
     "postgres/DATATYPE",
     "postgres/KEYWORDS/INSERT.md",
-    "RXJS/EXHAUST-MAP.md",
     "java/INDEX-JAVA.md",
-    "RXJS/SWITCH-MAP.md",
-    "RXJS/MERGE-MAP.md",
     "RXJS/CONCAT-MAP.md",
     "links/JAVA LINKS.md",
     "java/Streams/OPERATORS.md",
@@ -183,10 +185,8 @@
     "java/Streams/Operators/collect-streams.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/flatmap-streams.md",
-    "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
-    "java/functional-inteface/Standard Functional Interface.md",
     "java/functional-inteface",
     "RXJS",
     "java/Streams/Operators",
