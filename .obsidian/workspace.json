@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/KEYWORDS/LIKE.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 279.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres/KEYWORDS/LIKE.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres/KEYWORDS/LIKE.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgres/KEYWORDS/LIKE.md"
+                "file": "RXJS/ZIP-RXJS.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +156,11 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "postgres/KEYWORDS/BETWEEN.md",
-    "postgres/KEYWORDS/LIKE.md",
-    "postgres/KEYWORDS/IN.md",
     "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
+    "RXJS/ZIP-RXJS.md",
+    "postgres/KEYWORDS/LIKE.md",
+    "postgres/KEYWORDS/BETWEEN.md",
+    "postgres/KEYWORDS/IN.md",
     "postgres/KEYWORDS/DISTINCT.md",
     "postgres/KEYWORDS/COMPARISON.md",
     "postgres/KEYWORDS/SELECT.md",
@@ -190,7 +189,6 @@
     "java/functional-inteface/Standard Functional Interface.md",
     "java/functional-inteface",
     "RXJS",
-    "java/Streams/Operators/peek-streams.md",
     "java/Streams/Operators",
     "java/Streams",
     "links",
