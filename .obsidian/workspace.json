@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/--ALL-RXJS.md",
+                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/--ALL-RXJS.md",
+                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/--ALL-RXJS.md",
+                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/--ALL-RXJS.md"
+                "file": "springboot/Microservices/CIRCUIT-BREAKER.md"
               }
             }
           },
@@ -156,35 +156,35 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "RXJS/MERGE-MAP.md",
-    "RXJS/--ALL-RXJS.md",
-    "RXJS/SWITCH-MAP.md",
-    "RXJS/FORK-JOIN-RXJS.md",
+    "springboot/Microservices/LOAD-BALANCING.md",
+    "springboot/Microservices/CIRCUIT-BREAKER.md",
     "RXJS/ZIP-RXJS.md",
-    "RXJS/DEBOUNCE-TIME-RXJS.md",
+    "RXJS/--ALL-RXJS.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
-    "RXJS/EXHAUST-MAP.md",
-    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
-    "postgres/KEYWORDS/LIKE.md",
-    "postgres/KEYWORDS/BETWEEN.md",
-    "postgres/KEYWORDS/IN.md",
-    "postgres/KEYWORDS/DISTINCT.md",
-    "postgres/KEYWORDS/COMPARISON.md",
-    "postgres/KEYWORDS/SELECT.md",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "postgres/DATATYPE/DATATYPES.md",
-    "postgres/KEYWORDS/BIGSERIAL.md",
-    "postgres/DATATYPE",
-    "postgres/KEYWORDS/INSERT.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/SWITCH-MAP.md",
+    "java/Streams/Operators/to-array-streams.md",
+    "java/Streams/Operators/sorted-stream.md",
+    "java/Streams/Operators/reduce-streams.md",
+    "java/Streams/Operators/min-max-streams.md",
+    "java/Streams/Operators/limit-skip-streams.md",
+    "java/Streams/Operators/joining-streams.md",
+    "java/Streams/Operators/foreach-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
+    "java/builder pattern.md",
     "java/INDEX-JAVA.md",
-    "RXJS/CONCAT-MAP.md",
-    "links/JAVA LINKS.md",
-    "java/Streams/OPERATORS.md",
+    "java/Streams/Operators/peek-streams.md",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "RXJS/FORK-JOIN-RXJS.md",
+    "RXJS/DEBOUNCE-TIME-RXJS.md",
+    "RXJS/EXHAUST-MAP.md",
+    "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "java/Streams/Operators/foreach-streams.md",
-    "java/Streams/Operators/distinct-streams.md",
-    "java/Streams/Operators/collect-streams.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "java/functional-inteface",
