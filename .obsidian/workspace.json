@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
+                "file": "springboot/jpa/orphanRemoval.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
+                "file": "springboot/jpa/orphanRemoval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/Microservices/CIRCUIT-BREAKER.md",
+                "file": "springboot/jpa/orphanRemoval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/Microservices/CIRCUIT-BREAKER.md"
+                "file": "springboot/jpa/orphanRemoval.md"
               }
             }
           },
@@ -156,8 +156,13 @@
   },
   "active": "ae37b8e5a922ab02",
   "lastOpenFiles": [
-    "springboot/Microservices/LOAD-BALANCING.md",
+    "springboot/jpa/MapsId.md",
+    "springboot/jpa/multiple-database.md",
+    "java/Streams/Untitled.md",
+    "java/Streams/Operators/peek-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
+    "springboot/Microservices/LOAD-BALANCING.md",
     "RXJS/ZIP-RXJS.md",
     "RXJS/--ALL-RXJS.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
@@ -170,18 +175,13 @@
     "java/Streams/Operators/limit-skip-streams.md",
     "java/Streams/Operators/joining-streams.md",
     "java/Streams/Operators/foreach-streams.md",
-    "java/Streams/Operators/flatmap-streams.md",
     "java/Streams/Operators/findfirst-findany-streams.md",
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
     "java/builder pattern.md",
     "java/INDEX-JAVA.md",
-    "java/Streams/Operators/peek-streams.md",
     "java/functional-inteface/Standard Functional Interface.md",
-    "RXJS/FORK-JOIN-RXJS.md",
-    "RXJS/DEBOUNCE-TIME-RXJS.md",
-    "RXJS/EXHAUST-MAP.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
