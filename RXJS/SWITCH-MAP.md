@@ -4,7 +4,7 @@
 -  everything same as mergemap but  
 - instead of parallel execution it instantly switches to next data
 -  BUT IT COMPLETES THE LAST SUBSCIBER AND CANCELLS ALL THE PREVIOUS SUBSCIPTION
- ```
+ ```js
    switchMapWithSwapi(){
     let searchStrings = of("a","yoda","obi","r2","b")
     let pipedSearch = searchStrings.pipe(

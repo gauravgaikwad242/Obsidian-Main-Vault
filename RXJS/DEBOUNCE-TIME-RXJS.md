@@ -7,7 +7,7 @@
 
 - USED IN SEARCH
 - THE VALUES EMMITED IN BETWEEN IS LOST
-```
+```js
     this.searchGroup
     .get('debounceTimeDemo')?.valueChanges
     .pipe(

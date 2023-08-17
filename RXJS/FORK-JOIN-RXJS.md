@@ -5,7 +5,7 @@
 - **PARALLEL**
 - **emmits data as all are completed**
 
-```
+```js
     //
     forkJoin([this.runObservable(5000),this.runObservable(2000)]).subscribe((data)=>{
       console.log('forkjoin',data);

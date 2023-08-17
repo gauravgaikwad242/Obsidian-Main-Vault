@@ -2,7 +2,7 @@
 - It helps ensure that only distinct, non-repeating values are emitted, making it useful for scenarios where you want to react to changes in data without being overwhelmed by repeated identical values.
 - **How it Works:** The `distinctUntilChanged` operator compares each emitted value with the previously emitted value. If the current value is the same as the previous one, it's filtered out and not emitted. Only when a new, distinct value is encountered will it be emitted.
 
-```
+```js
 this.searchGroup
     .get('distinctUntilChangedDemo')?.valueChanges
     .pipe(

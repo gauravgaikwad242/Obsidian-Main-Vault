@@ -6,7 +6,7 @@
 - PARALLEL EXECUTION
 
 
-```
+```js
   mergeMapWithSwapi(){
     let searchStrings = of("a","yoda","obi","r2","b")
     let pipedSearch = searchStrings.pipe(
