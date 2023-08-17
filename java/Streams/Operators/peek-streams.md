@@ -2,7 +2,7 @@
 - non terminal
 - The `peek` operation in the Java Stream API is an intermediate operation that allows you to apply a specified action to each element of the stream while still keeping the original elements intact. 
 - It's often used for debugging, logging, or observing the elements as they flow through the stream pipeline.
-```
+```java
 import java.util.Arrays;
 import java.util.List;
 
@@ -21,3 +21,4 @@ public class PeekExample {
 }
 
 ```
+
