@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/KEYWORDS/COMPARISON.md",
+                "file": "java/Streams/Operators/groupingby-partitionby-streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "postgres/KEYWORDS/COMPARISON.md",
+            "file": "java/Streams/Operators/groupingby-partitionby-streams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "postgres/KEYWORDS/COMPARISON.md",
+            "file": "java/Streams/Operators/groupingby-partitionby-streams.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "postgres/KEYWORDS/COMPARISON.md"
+            "file": "java/Streams/Operators/groupingby-partitionby-streams.md"
           }
         }
       },
@@ -141,31 +141,44 @@
   },
   "active": "22d614c6edceff0f",
   "lastOpenFiles": [
-    "postgres/KEYWORDS/ORDER_BY.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "RXJS/CONCAT-MAP.md",
     "postgres/KEYWORDS/COMPARISON.md",
-    "postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
-    "postgres/KEYWORDS/WHERE.md",
-    "postgres/KEYWORDS/AND-OR.md",
-    "postgres/table/_Table.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "ABC.md",
-    "postgres/KEYWORDS/SELECT.md",
-    "postgres/KEYWORDS/DISTINCT.md",
-    "/Untitled.md",
-    "/Untitled 1.md",
-    "/ABC.md",
-    "/postgres/KEYWORDS/WHERE.md",
-    "/postgres/KEYWORDS/SELECT.md",
-    "/postgres/KEYWORDS/ORDER_BY.md",
-    "postgres/KEYWORDS/INSERT.md",
-    "/postgres/KEYWORDS/LIMIT, OFFSET & FETCH.md",
-    "/postgres/KEYWORDS/DISTINCT.md",
-    "/postgres/KEYWORDS/COMPARISON.md",
-    "/postgres/KEYWORDS/AND-OR.md",
-    "/postgres/KEYWORDS/INSERT.md",
-    "postgres/KEYWORDS",
-    "/postgres/KEYWORDS",
-    "postgres/table/INSERT.md"
+    "links/JAVA LINKS.md",
+    "java/INDEX-JAVA.md",
+    "RXJS/SWITCH-MAP.md",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "java/Streams/index-streams.md",
+    "java/Streams/Operators/peek-streams.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "java/Streams/OPERATORS.md",
+    "RXJS/MERGE-MAP.md",
+    "RXJS/EXHAUST-MAP.md",
+    "Pasted image 20230813084603.png",
+    "java/Streams/Untitled.md",
+    "java/Streams/Operators/to-array-streams.md",
+    "java/Streams/Operators/sorted-stream.md",
+    "java/Streams/Operators/reduce-streams.md",
+    "java/Streams/Operators/min-max-streams.md",
+    "java/Streams/Operators/limit-skip-streams.md",
+    "java/Streams/Operators/joining-streams.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators/foreach-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Operators/collect-streams.md",
+    "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
+    "/Pasted image 20230813084603.png",
+    "/Untitled 1.canvas",
+    "links",
+    "java/functional-inteface",
+    "java/Streams/Operators",
+    "java/Streams",
+    "RXJS",
+    "/links",
+    "/java/functional-inteface",
+    "/java/Streams/Operators",
+    "/java/Streams",
+    "/RXJS"
   ]
 }
