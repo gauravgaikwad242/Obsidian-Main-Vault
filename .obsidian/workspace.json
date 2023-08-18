@@ -11,12 +11,8 @@
             "id": "c6c42f426c8bddd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/jpa/Attribute-converter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/jpa/Attribute-converter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/jpa/Attribute-converter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "springboot/jpa/Attribute-converter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,8 @@
   },
   "active": "c6c42f426c8bddd1",
   "lastOpenFiles": [
-    "links/JAVA LINKS.md",
     "springboot/jpa/Attribute-converter.md",
+    "links/JAVA LINKS.md",
     "java/INDEX-JAVA.md",
     "java/builder pattern.md",
     "postgres/KEYWORDS/SELECT.md",
