@@ -11,7 +11,7 @@
             "id": "c6c42f426c8bddd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "c6c42f426c8bddd1",
   "lastOpenFiles": [
+    "springboot/jpa/Attribute-converter.md",
+    "links/JAVA LINKS.md",
+    "java/INDEX-JAVA.md",
+    "java/builder pattern.md",
     "postgres/KEYWORDS/SELECT.md",
     "RXJS/ZIP-RXJS.md",
     "RXJS/SWITCH-MAP.md",
@@ -170,10 +174,6 @@
     "java/Streams/Operators/sorted-stream.md",
     "java/Streams/Operators/reduce-streams.md",
     "java/Streams/Operators/min-max-streams.md",
-    "java/Streams/Operators/limit-skip-streams.md",
-    "java/Streams/Operators/joining-streams.md",
-    "java/Streams/Operators/foreach-streams.md",
-    "java/Streams/Operators/findfirst-findany-streams.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
