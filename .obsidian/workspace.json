@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfe31e9dd60ce04f",
+        "id": "e7760b2ba4b6ec5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c42f426c8bddd1",
+            "id": "f0e8063649336072",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "links/JAVA LINKS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "links/JAVA LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "links/JAVA LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "links/JAVA LINKS.md"
+              }
             }
           },
           {
@@ -146,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6c42f426c8bddd1",
+  "active": "f0e8063649336072",
   "lastOpenFiles": [
+    "java/INDEX-JAVA.md",
+    "java/functional-inteface/Standard Functional Interface.md",
     "springboot/jpa/Attribute-converter.md",
     "links/JAVA LINKS.md",
-    "java/INDEX-JAVA.md",
     "java/builder pattern.md",
     "postgres/KEYWORDS/SELECT.md",
     "RXJS/ZIP-RXJS.md",
@@ -173,7 +182,6 @@
     "java/Streams/Operators/to-array-streams.md",
     "java/Streams/Operators/sorted-stream.md",
     "java/Streams/Operators/reduce-streams.md",
-    "java/Streams/Operators/min-max-streams.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
