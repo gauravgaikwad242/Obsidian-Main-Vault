@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "rabbitmq/Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "rabbitmq/Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "rabbitmq/Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrentmapcache.md"
+                "file": "rabbitmq/Concepts.md"
               }
             }
           },
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +169,15 @@
   },
   "active": "54f1671f2463fcc9",
   "lastOpenFiles": [
-    "links/JAVA LINKS.md",
+    "rabbitmq/Exchanges.md",
+    "rabbitmq/Concepts.md",
+    "rabbitmq/Integration with SpringBoot-1. basic.md",
+    "rabbitmq/Installation.md",
+    "rabbitmq/commands.md",
+    "Untitled.md",
     "Concurrentmapcache.md",
+    "rabbitmq",
+    "links/JAVA LINKS.md",
     "springboot/Caching",
     "java/INDEX-JAVA.md",
     "java/functional-inteface/Standard Functional Interface.md",
@@ -191,12 +197,6 @@
     "springboot/jpa/multiple-database.md",
     "java/Streams/Untitled.md",
     "java/Streams/Operators/peek-streams.md",
-    "java/Streams/Operators/flatmap-streams.md",
-    "springboot/Microservices/CIRCUIT-BREAKER.md",
-    "springboot/Microservices/LOAD-BALANCING.md",
-    "RXJS/--ALL-RXJS.md",
-    "java/Streams/Operators/to-array-streams.md",
-    "java/Streams/Operators/sorted-stream.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -210,7 +210,6 @@
     "postgres/KEYWORDS/COMPARISON-OPERATORS",
     "postgres/KEYWORDS",
     "Pasted image 20230806204936.png",
-    "postgres/table",
     "springboot/Untitled.canvas"
   ]
 }
