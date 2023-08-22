@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54f1671f2463fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrentmapcache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5128364562988
+    "width": 248.51283645629883
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "Concurrentmapcache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "Concurrentmapcache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links/JAVA LINKS.md"
+                "file": "Concurrentmapcache.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0e8063649336072",
+  "active": "54f1671f2463fcc9",
   "lastOpenFiles": [
+    "links/JAVA LINKS.md",
+    "Concurrentmapcache.md",
+    "springboot/Caching",
     "java/INDEX-JAVA.md",
     "java/functional-inteface/Standard Functional Interface.md",
     "springboot/jpa/Attribute-converter.md",
-    "links/JAVA LINKS.md",
     "java/builder pattern.md",
     "postgres/KEYWORDS/SELECT.md",
     "RXJS/ZIP-RXJS.md",
@@ -181,7 +197,6 @@
     "RXJS/--ALL-RXJS.md",
     "java/Streams/Operators/to-array-streams.md",
     "java/Streams/Operators/sorted-stream.md",
-    "java/Streams/Operators/reduce-streams.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -196,7 +211,6 @@
     "postgres/KEYWORDS",
     "Pasted image 20230806204936.png",
     "postgres/table",
-    "postgres",
     "springboot/Untitled.canvas"
   ]
 }
