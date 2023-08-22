@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rabbitmq/Concepts.md",
+                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.51283645629883
+    "width": 334.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Concepts.md",
+                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Concepts.md",
+                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Concepts.md"
+                "file": "rabbitmq/Integration with SpringBoot-1. basic.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "54f1671f2463fcc9",
   "lastOpenFiles": [
-    "rabbitmq/Exchanges.md",
     "rabbitmq/Concepts.md",
+    "rabbitmq/Exchanges.md",
     "rabbitmq/Integration with SpringBoot-1. basic.md",
     "rabbitmq/Installation.md",
     "rabbitmq/commands.md",
