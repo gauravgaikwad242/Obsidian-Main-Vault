@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
+                "file": "springboot/swagger/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
+                "file": "springboot/swagger/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Integration with SpringBoot-1. basic.md",
+                "file": "springboot/swagger/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Integration with SpringBoot-1. basic.md"
+                "file": "springboot/swagger/Intro.md"
               }
             }
           },
@@ -151,11 +151,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +170,13 @@
   },
   "active": "54f1671f2463fcc9",
   "lastOpenFiles": [
-    "rabbitmq/Concepts.md",
     "rabbitmq/Exchanges.md",
-    "rabbitmq/Integration with SpringBoot-1. basic.md",
+    "springboot/swagger/Intro.md",
+    "springboot/swagger",
     "rabbitmq/Installation.md",
+    "rabbitmq/Concepts.md",
     "rabbitmq/commands.md",
+    "rabbitmq/Integration with SpringBoot-1. basic.md",
     "Untitled.md",
     "Concurrentmapcache.md",
     "rabbitmq",
@@ -196,7 +199,6 @@
     "springboot/jpa/MapsId.md",
     "springboot/jpa/multiple-database.md",
     "java/Streams/Untitled.md",
-    "java/Streams/Operators/peek-streams.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -208,7 +210,6 @@
     "java/Streams",
     "links",
     "postgres/KEYWORDS/COMPARISON-OPERATORS",
-    "postgres/KEYWORDS",
     "Pasted image 20230806204936.png",
     "springboot/Untitled.canvas"
   ]
