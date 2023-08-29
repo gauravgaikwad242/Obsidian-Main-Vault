@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7760b2ba4b6ec5a",
+        "id": "7034021ec0f07265",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e8063649336072",
+            "id": "aeab7ff964b98894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links/JAVA LINKS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54f1671f2463fcc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "rabbitmq/Multi-Instances.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "rabbitmq/Multi-Instances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "rabbitmq/Multi-Instances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Exchanges.md"
+                "file": "rabbitmq/Multi-Instances.md"
               }
             }
           },
@@ -151,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,19 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54f1671f2463fcc9",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "springboot/swagger/Intro.md",
+    "Round Robin.md",
+    "rabbitmq/Multi-Instances.md",
+    "links/JAVA LINKS.md",
+    "java/commands.md",
     "rabbitmq/Exchanges.md",
+    "rabbitmq/commands.md",
+    "springboot/swagger/Intro.md",
     "springboot/swagger",
     "rabbitmq/Installation.md",
     "rabbitmq/Concepts.md",
-    "rabbitmq/commands.md",
     "rabbitmq/Integration with SpringBoot-1. basic.md",
     "Untitled.md",
     "Concurrentmapcache.md",
     "rabbitmq",
-    "links/JAVA LINKS.md",
     "springboot/Caching",
     "java/INDEX-JAVA.md",
     "java/functional-inteface/Standard Functional Interface.md",
@@ -196,9 +185,6 @@
     "RXJS/DEBOUNCE-TIME-RXJS.md",
     "RXJS/CONCAT-MAP.md",
     "springboot/jpa/orphanRemoval.md",
-    "springboot/jpa/MapsId.md",
-    "springboot/jpa/multiple-database.md",
-    "java/Streams/Untitled.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
