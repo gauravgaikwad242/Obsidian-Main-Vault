@@ -1,4 +1,5 @@
 
+- [official docs]([AMQP 0-9-1 Model Explained — RabbitMQ](https://www.rabbitmq.com/tutorials/amqp-concepts.html))
 
 1. **Producer**:
    - A producer is a component or application that sends messages to a messaging system (like RabbitMQ). It generates messages and pushes them into the messaging system for further processing and delivery to consumers.

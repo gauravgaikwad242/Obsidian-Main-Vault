@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rabbitmq/Multi-Instances.md",
+                "file": "rabbitmq/Exchanges.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Multi-Instances.md",
+                "file": "rabbitmq/Exchanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Multi-Instances.md",
+                "file": "rabbitmq/Exchanges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Multi-Instances.md"
+                "file": "rabbitmq/Exchanges.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "aeab7ff964b98894",
   "lastOpenFiles": [
-    "Round Robin.md",
+    "rabbitmq/Concepts.md",
     "rabbitmq/Multi-Instances.md",
+    "Round Robin.md",
     "links/JAVA LINKS.md",
     "java/commands.md",
     "rabbitmq/Exchanges.md",
@@ -165,7 +166,6 @@
     "springboot/swagger/Intro.md",
     "springboot/swagger",
     "rabbitmq/Installation.md",
-    "rabbitmq/Concepts.md",
     "rabbitmq/Integration with SpringBoot-1. basic.md",
     "Untitled.md",
     "Concurrentmapcache.md",
