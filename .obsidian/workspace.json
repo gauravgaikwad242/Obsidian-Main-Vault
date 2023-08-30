@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "links/JAVA LINKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "links/JAVA LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Exchanges.md",
+                "file": "links/JAVA LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Exchanges.md"
+                "file": "links/JAVA LINKS.md"
               }
             }
           },
@@ -156,12 +156,14 @@
   },
   "active": "aeab7ff964b98894",
   "lastOpenFiles": [
+    "RXJS/MERGE-MAP.md",
+    "RXJS/CONCAT-MAP.md",
+    "rabbitmq/Exchanges.md",
     "rabbitmq/Concepts.md",
     "rabbitmq/Multi-Instances.md",
     "Round Robin.md",
     "links/JAVA LINKS.md",
     "java/commands.md",
-    "rabbitmq/Exchanges.md",
     "rabbitmq/commands.md",
     "springboot/swagger/Intro.md",
     "springboot/swagger",
@@ -178,12 +180,10 @@
     "postgres/KEYWORDS/SELECT.md",
     "RXJS/ZIP-RXJS.md",
     "RXJS/SWITCH-MAP.md",
-    "RXJS/MERGE-MAP.md",
     "RXJS/FORK-JOIN-RXJS.md",
     "RXJS/EXHAUST-MAP.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/DEBOUNCE-TIME-RXJS.md",
-    "RXJS/CONCAT-MAP.md",
     "springboot/jpa/orphanRemoval.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
