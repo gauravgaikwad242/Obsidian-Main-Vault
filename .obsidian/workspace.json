@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links/JAVA LINKS.md",
+                "file": "RXJS/ZIP-RXJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links/JAVA LINKS.md"
+                "file": "RXJS/ZIP-RXJS.md"
               }
             }
           },
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +157,13 @@
   "active": "aeab7ff964b98894",
   "lastOpenFiles": [
     "RXJS/MERGE-MAP.md",
+    "Concurrentmapcache.md",
+    "links/JAVA LINKS.md",
     "RXJS/CONCAT-MAP.md",
     "rabbitmq/Exchanges.md",
     "rabbitmq/Concepts.md",
     "rabbitmq/Multi-Instances.md",
     "Round Robin.md",
-    "links/JAVA LINKS.md",
     "java/commands.md",
     "rabbitmq/commands.md",
     "springboot/swagger/Intro.md",
@@ -170,7 +171,6 @@
     "rabbitmq/Installation.md",
     "rabbitmq/Integration with SpringBoot-1. basic.md",
     "Untitled.md",
-    "Concurrentmapcache.md",
     "rabbitmq",
     "springboot/Caching",
     "java/INDEX-JAVA.md",
