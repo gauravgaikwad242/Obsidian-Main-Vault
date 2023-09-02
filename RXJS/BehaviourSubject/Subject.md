@@ -1,0 +1,3 @@
+- subjects are hot observable
+- we can emit data from later in the time line
+- we can emit data even after the observable is subscribed
