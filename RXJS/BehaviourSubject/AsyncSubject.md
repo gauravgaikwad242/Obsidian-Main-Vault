@@ -1,0 +1,1 @@
+- only last value will be published on complete
