@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "Project-Reactor/Operators/takeLast.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "Project-Reactor/Operators/takeLast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/MERGE-MAP.md",
+                "file": "Project-Reactor/Operators/takeLast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/MERGE-MAP.md"
+                "file": "Project-Reactor/Operators/takeLast.md"
               }
             }
           },
@@ -156,6 +156,14 @@
   },
   "active": "aeab7ff964b98894",
   "lastOpenFiles": [
+    "Project-Reactor/Operators/next.md",
+    "Project-Reactor/Operators/takeLast.md",
+    "Project-Reactor/Operators/distinct.md",
+    "Project-Reactor/Operators/ofType.md",
+    "Project-Reactor/Operators/Scan.md",
+    "RXJS/MERGE-MAP.md",
+    "Project-Reactor/Operators",
+    "Project-Reactor",
     "springboot/jpa/Attribute-converter.md",
     "rabbitmq/Concepts.md",
     "rabbitmq/Exchanges.md",
@@ -172,20 +180,14 @@
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/FORK-JOIN-RXJS.md",
     "RXJS/EXHAUST-MAP.md",
-    "RXJS/MERGE-MAP.md",
     "RXJS/ZIP-RXJS.md",
     "Concurrentmapcache.md",
     "links/JAVA LINKS.md",
     "rabbitmq/Multi-Instances.md",
     "Round Robin.md",
-    "java/commands.md",
-    "springboot/swagger/Intro.md",
     "springboot/swagger",
-    "rabbitmq/Integration with SpringBoot-1. basic.md",
-    "Untitled.md",
     "rabbitmq",
     "springboot/Caching",
-    "java/INDEX-JAVA.md",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -194,8 +196,6 @@
     "java/functional-inteface",
     "RXJS",
     "java/Streams/Operators",
-    "java/Streams",
-    "links",
     "Pasted image 20230806204936.png",
     "springboot/Untitled.canvas"
   ]
