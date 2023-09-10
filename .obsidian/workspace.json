@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7034021ec0f07265",
+        "id": "b2c029c0ce4aeab1",
         "type": "tabs",
         "children": [
           {
-            "id": "aeab7ff964b98894",
+            "id": "902abb688a88a647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-Reactor/Operators/takeLast.md",
+                "file": "rabbitmq/Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Reactor/Operators/takeLast.md",
+                "file": "rabbitmq/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-Reactor/Operators/takeLast.md",
+                "file": "rabbitmq/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-Reactor/Operators/takeLast.md"
+                "file": "rabbitmq/Installation.md"
               }
             }
           },
@@ -154,10 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeab7ff964b98894",
+  "active": "902abb688a88a647",
   "lastOpenFiles": [
-    "Project-Reactor/Operators/next.md",
+    "untitled/Untitled.md",
+    "Project-Reactor/creation/Mono.justOrEmpty.md",
+    "untitled",
+    "springboot/Microservices/LOAD-BALANCING.md",
+    "Project-Reactor/creation",
+    "RXJS/Operators",
+    "springboot/Microservices/CIRCUIT-BREAKER.md",
+    "springboot/Microservices/Circuit Breaker.md",
+    "Pasted image 20230813084603.png",
+    "Pasted image 20230806204752.png",
     "Project-Reactor/Operators/takeLast.md",
+    "Project-Reactor/Operators/next.md",
     "Project-Reactor/Operators/distinct.md",
     "Project-Reactor/Operators/ofType.md",
     "Project-Reactor/Operators/Scan.md",
@@ -180,22 +190,12 @@
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/FORK-JOIN-RXJS.md",
     "RXJS/EXHAUST-MAP.md",
-    "RXJS/ZIP-RXJS.md",
-    "Concurrentmapcache.md",
-    "links/JAVA LINKS.md",
-    "rabbitmq/Multi-Instances.md",
-    "Round Robin.md",
     "springboot/swagger",
     "rabbitmq",
     "springboot/Caching",
     "postgres/DATATYPE",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Pasted image 20230813084603.png",
-    "Pasted image 20230806204752.png",
-    "java/functional-inteface",
-    "RXJS",
-    "java/Streams/Operators",
     "Pasted image 20230806204936.png",
     "springboot/Untitled.canvas"
   ]
