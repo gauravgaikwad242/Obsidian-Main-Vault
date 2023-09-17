@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rabbitmq/Installation.md",
+                "file": "links/JAVA LINKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rabbitmq/Installation.md",
+                "file": "links/JAVA LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rabbitmq/Installation.md",
+                "file": "links/JAVA LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rabbitmq/Installation.md"
+                "file": "links/JAVA LINKS.md"
               }
             }
           },
@@ -156,7 +156,9 @@
   },
   "active": "902abb688a88a647",
   "lastOpenFiles": [
+    "java/commands.md",
     "untitled/Untitled.md",
+    "rabbitmq/Installation.md",
     "Project-Reactor/creation/Mono.justOrEmpty.md",
     "untitled",
     "springboot/Microservices/LOAD-BALANCING.md",
@@ -177,7 +179,6 @@
     "springboot/jpa/Attribute-converter.md",
     "rabbitmq/Concepts.md",
     "rabbitmq/Exchanges.md",
-    "rabbitmq/Installation.md",
     "rabbitmq/commands.md",
     "RXJS/BehaviourSubject/Subject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
@@ -189,7 +190,6 @@
     "RXJS/DEBOUNCE-TIME-RXJS.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/FORK-JOIN-RXJS.md",
-    "RXJS/EXHAUST-MAP.md",
     "springboot/swagger",
     "rabbitmq",
     "springboot/Caching",
