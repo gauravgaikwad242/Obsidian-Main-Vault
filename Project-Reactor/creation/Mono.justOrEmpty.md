@@ -1,5 +1,6 @@
 
 - used to handle empty and null values
+- if the emitted value is null it emits empty. flux
 ```java
 /**  
  * Emit potentially null value that you already have. */@Test  
