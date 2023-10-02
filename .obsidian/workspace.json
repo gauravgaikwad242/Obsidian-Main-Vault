@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-Reactor/Operators/cast.md",
+                "file": "DSA/DataStructures/array/delete.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Reactor/Operators/cast.md",
+                "file": "DSA/DataStructures/array/delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-Reactor/Operators/cast.md",
+                "file": "DSA/DataStructures/array/delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-Reactor/Operators/cast.md"
+                "file": "DSA/DataStructures/array/delete.md"
               }
             }
           },
@@ -179,8 +179,13 @@
   },
   "active": "902abb688a88a647",
   "lastOpenFiles": [
-    "Project-Reactor/Operators/Scan.md",
+    "DSA/DataStructures/array/insert.md",
+    "DSA/DataStructures/array/delete.md",
     "Project-Reactor/Operators/cast.md",
+    "DSA/DataStructures/array",
+    "DSA/DataStructures",
+    "DSA",
+    "Project-Reactor/Operators/Scan.md",
     "Project-Reactor/CombiningOperators",
     "Project-Reactor/Operators/next.md",
     "Project-Reactor/Operators/limitRate.md",
@@ -210,13 +215,8 @@
     "springboot/Microservices/Circuit Breaker.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
-    "RXJS/MERGE-MAP.md",
     "Project-Reactor/Operators",
     "Project-Reactor",
-    "springboot/jpa/Attribute-converter.md",
-    "RXJS/BehaviourSubject",
-    "springboot/swagger",
-    "rabbitmq",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230806204936.png",
