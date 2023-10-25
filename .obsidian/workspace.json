@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f96c1ceb2262e17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RXJS/Operators/groupBy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f4b515f9027bc1c2",
             "type": "leaf",
             "pinned": true,
@@ -31,7 +43,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md",
+                "file": "RXJS/Operators/groupBy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md",
+                "file": "RXJS/Operators/groupBy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md"
+                "file": "RXJS/Operators/groupBy.md"
               }
             }
           },
@@ -177,8 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902abb688a88a647",
+  "active": "f96c1ceb2262e17f",
   "lastOpenFiles": [
+    "untitled/Untitled.md",
+    "RXJS/Operators/groupBy.md",
     "DSA/DataStructures/array/insert.md",
     "DSA/DataStructures/array/delete.md",
     "Project-Reactor/Operators/cast.md",
@@ -205,14 +220,12 @@
     "Project-Reactor/Operators/distinct.md",
     "links/JAVA LINKS.md",
     "java/commands.md",
-    "untitled/Untitled.md",
     "rabbitmq/Installation.md",
     "untitled",
     "springboot/Microservices/LOAD-BALANCING.md",
     "Project-Reactor/creation",
     "RXJS/Operators",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
-    "springboot/Microservices/Circuit Breaker.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "Project-Reactor/Operators",
