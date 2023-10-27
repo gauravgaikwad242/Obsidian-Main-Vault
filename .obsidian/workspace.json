@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/Operators/groupBy.md",
+                "file": "postgres/KEYWORDS/IN.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2eb2d3c5b197cadd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           },
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/Operators/groupBy.md",
+                "file": "postgres/KEYWORDS/IN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/Operators/groupBy.md",
+                "file": "postgres/KEYWORDS/IN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/Operators/groupBy.md"
+                "file": "postgres/KEYWORDS/IN.md"
               }
             }
           },
@@ -190,10 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f96c1ceb2262e17f",
+  "active": "2eb2d3c5b197cadd",
   "lastOpenFiles": [
-    "untitled/Untitled.md",
+    "postgres/KEYWORDS/LIKE.md",
+    "postgres/KEYWORDS/WHERE.md",
+    "postgres/KEYWORDS/SELECT.md",
+    "postgres/KEYWORDS/ORDER_BY.md",
     "RXJS/Operators/groupBy.md",
+    "untitled/Untitled.md",
     "DSA/DataStructures/array/insert.md",
     "DSA/DataStructures/array/delete.md",
     "Project-Reactor/Operators/cast.md",
@@ -219,13 +233,9 @@
     "Project-Reactor/Operators/error handler operators.md",
     "Project-Reactor/Operators/distinct.md",
     "links/JAVA LINKS.md",
-    "java/commands.md",
-    "rabbitmq/Installation.md",
     "untitled",
-    "springboot/Microservices/LOAD-BALANCING.md",
     "Project-Reactor/creation",
     "RXJS/Operators",
-    "springboot/Microservices/CIRCUIT-BREAKER.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "Project-Reactor/Operators",
