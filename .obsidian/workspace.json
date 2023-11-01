@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "beb355b531d1c467",
+        "id": "e1f044dc8fd513db",
         "type": "tabs",
         "children": [
           {
-            "id": "50f1af9fe86c06a5",
+            "id": "0dc18ccef64280f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "HTML/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5128364562988
+    "width": 276.5128364562988,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "HTML/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrentmapcache.md",
+                "file": "HTML/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrentmapcache.md"
+                "file": "HTML/tags.md"
               }
             }
           },
@@ -152,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f1af9fe86c06a5",
+  "active": "0dc18ccef64280f2",
   "lastOpenFiles": [
+    "HTML/Entities.md",
+    "HTML/tags.md",
+    "core-java/Intro.md",
+    "Concurrentmapcache.md",
+    "HTML/freecodecamp",
+    "HTML",
     "DSA/DataStructures/array/delete.md",
     "rabbitmq/Exchanges.md",
     "rabbitmq/Concepts.md",
-    "core-java/Intro.md",
     "core-java",
     "postgres/KEYWORDS/IN.md",
     "postgres/KEYWORDS/LIKE.md",
@@ -195,15 +202,10 @@
     "Project-Reactor/Operators/Untitled",
     "Project-Reactor/Operators/defaultIfEmpty.md",
     "Project-Reactor/creation/Mono.justOrEmpty.md",
-    "Project-Reactor/Operators/ofType.md",
-    "Project-Reactor/Operators/takeLast.md",
-    "Project-Reactor/Operators/Timeout.md",
     "untitled",
     "Project-Reactor/creation",
-    "RXJS/Operators",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
-    "Project-Reactor/Operators",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230806204936.png",
