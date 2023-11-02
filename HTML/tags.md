@@ -179,4 +179,36 @@
 	- src = "" - source of images
 	- alt = "" like tooltip for images
 	- title = "" if image doesnt load it will show this text
-	- 
+	- width
+	- height
+	- loading = "lazy" or "eager" - eager by default , with lazy image only loads when we scroll down to it
+	```html
+	    <img src="img/download.jpg" alt="image of nature" title="image of nature" width="400" height="300" loading="lazy">
+```
+
+- #figure 
+	- it doesnt change the structure or look but gives semantic meaning to image or other things
+	- #figcaption
+		- it gives caption to the element in figure tag
+```
+    <figure>
+        <!-- figure is nothis special but it will tell browser that the figcaption is for image -->
+        <img src="img/OIP (3).jpg" alt="image of nature" title="image of nature" width="400" height="300"
+            loading="lazy">
+        <figcaption>
+            this is the icon for page
+        </figcaption>
+    </figure>
+```
+
+- resouces:: via.palceholder.com
+- unsplash.com lincesed free images
+- pexels.com 
+- gratiscography.com
+- pixabay.com
+
+- softwares:
+- irfanview for resizing or editing
+- canva
+
+- tinypng.com or tinyjpg.com will minimise images
