@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b78c66905e41d674",
+        "id": "71e4d8bdd0b0de00",
         "type": "tabs",
         "children": [
           {
-            "id": "caa326e9465ceb5e",
+            "id": "a83df1afcb997dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "core-java/Intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5128364562988,
-    "collapsed": true
+    "width": 276.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "core-java/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "core-java/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "core-java/Intro.md"
+              }
             }
           },
           {
@@ -145,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa326e9465ceb5e",
+  "active": "a83df1afcb997dfa",
   "lastOpenFiles": [
+    "core-java/programms/1st programm.md",
+    "core-java/Intro.md",
+    "core-java/programms",
     "HTML/tags.md",
     "HTML/Entities.md",
-    "core-java/Intro.md",
     "www.google.com.md",
     "springboot/Microservices/LOAD-BALANCING.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
@@ -190,14 +200,12 @@
     "postgres/KEYWORDS/ORDER_BY.md",
     "RXJS/Operators/groupBy.md",
     "DSA/DataStructures/array/insert.md",
-    "Project-Reactor/Operators/cast.md",
     "DSA/DataStructures/array",
     "DSA/DataStructures",
     "DSA",
     "Project-Reactor/CombiningOperators",
     "Project-Reactor/Operators/Untitled",
     "untitled",
-    "Project-Reactor/creation",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "Pasted image 20230806204936.png",

@@ -140,6 +140,33 @@ void method2() {
 - #question what is difference between create and initialize the object?
 - *there is a method which can be executed even without calling it, it is #main method.*
 
-- *NOTE: if we want to see the output of the java program we need to perform tow tasks.*
+
+- NOTE: *every java program execution starts from main method and ends with main method without writing main() in our program we cannot run our java program*
+
+- #codewriting [[1st programm]]
+
+- *NOTE: if we want to see the output of the java program we need to perform two tasks.*
 	- compilation
-	- runnning
+	- running
+- `Compilation` : 
+	- `done by java compiler`
+	-  checking the code if we followed syntax , else we get error that error is created by compiler.
+	- How to i know if my code is compiled ?
+	- command for compilation : - `javac FileName.java`
+	- Generated File is .class file
+	- the .class file name will be `SAME AS CLASSNAME`
+	- the code is #byteCode instructions, which is only understandable by machine.
+- `Running` :
+	- run by `Java Virtual Machinge (JVM) `
+	- command :- `java generated.classFileName`
+```cmd
+    javac ClassA.java //compilation
+	java ClassA       //Running
+```
+
+1) In order to run our Java program we need to provide the generated .class file
+as an input to the JVM.
+2) JVM is going to check whether all the byte code instructions present in the
+.class file are correct or not, if those are correct we'll be getting our output
+if those are wrong we'll be getting an Exception.
+
