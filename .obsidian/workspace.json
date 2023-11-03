@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71e4d8bdd0b0de00",
+        "id": "aaacd8516d2d8ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "a83df1afcb997dfa",
+            "id": "0d91f6895e93ba69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a83df1afcb997dfa",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
-    "core-java/programms/1st programm.md",
+    "core-java/images/anatomyofclass.png",
     "core-java/Intro.md",
+    "core-java/images/anatomyofclass 1.png",
+    "core-java/programms/1st programm.md",
+    "postgres/table/TABLE WITH CONTSTRAINTS.md",
+    "postgres/table/TABLE_LIFECYCLE.md",
+    "postgres/table/MOCK DATA.md",
+    "postgres/table/_Table.md",
+    "Pasted image 20230806204752.png",
+    "core-java/images",
     "core-java/programms",
     "HTML/tags.md",
     "HTML/Entities.md",
@@ -195,19 +201,12 @@
     "core-java",
     "postgres/KEYWORDS/IN.md",
     "postgres/KEYWORDS/LIKE.md",
-    "postgres/KEYWORDS/WHERE.md",
-    "postgres/KEYWORDS/SELECT.md",
-    "postgres/KEYWORDS/ORDER_BY.md",
-    "RXJS/Operators/groupBy.md",
-    "DSA/DataStructures/array/insert.md",
     "DSA/DataStructures/array",
     "DSA/DataStructures",
     "DSA",
     "Project-Reactor/CombiningOperators",
     "Project-Reactor/Operators/Untitled",
-    "untitled",
     "Pasted image 20230813084603.png",
-    "Pasted image 20230806204752.png",
     "Pasted image 20230806204936.png",
     "springboot/Untitled.canvas"
   ]

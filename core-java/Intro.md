@@ -170,3 +170,5 @@ as an input to the JVM.
 .class file are correct or not, if those are correct we'll be getting our output
 if those are wrong we'll be getting an Exception.
 
+- `ANATOMY OF class`
+![[anatomyofclass 1.png]]
