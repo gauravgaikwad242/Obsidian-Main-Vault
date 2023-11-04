@@ -172,3 +172,7 @@ if those are wrong we'll be getting an Exception.
 
 - `ANATOMY OF class`
 ![[anatomyofclass 1.png]]
+
+
+#codewriting [[2nd programm]]
+#codewriting [[3Intro]]

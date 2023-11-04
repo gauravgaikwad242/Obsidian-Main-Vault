@@ -114,6 +114,8 @@ FC
 Fqq
 Fn
 Fh
+Flux
+Finding
 elements
 enum
 else
@@ -195,6 +197,13 @@ ek
 eC
 ep
 eV
+events
+element
+examples
+entire
+emitted
+event
+emitting
 in
 interface
 interview
@@ -267,6 +276,11 @@ iE
 iP
 inserting
 increment
+insights
+into
+internal
+integers
+instead
 java
 javascript
 jc
@@ -314,6 +328,7 @@ jmaz
 jjj
 jmk
 jhh
+judiciously
 to
 than
 tools
@@ -419,6 +434,9 @@ tha
 te
 table
 tables
+todo
+transform
+transformations
 code
 class
 constants
@@ -548,6 +566,19 @@ crDIV
 cK
 constraint
 contstraint
+changes
+certain
+conditions
+current
+calculating
+computations
+case
+condition
+change
+conditionally
+checks
+continues
+conditional
 we
 when
 want
@@ -613,6 +644,7 @@ wb
 wr
 wQ
 wdC
+way
 need
 necessary
 never
@@ -744,6 +776,8 @@ Esp
 EQS
 Em
 Efy
+Example
+Explanation
 use
 universal
 user
@@ -868,6 +902,13 @@ oQ
 oii
 oA
 oD
+official
+operator
+observe
+onNext
+onComplete
+onError
+original
 project
 public
 private
@@ -959,6 +1000,8 @@ pAV
 pAU
 pD
 pAv
+powerful
+publisher
 less
 lower
 letter
@@ -1027,6 +1070,7 @@ liim
 lQb
 lN
 lP
+looks
 syntax
 set
 security
@@ -1145,6 +1189,17 @@ szN
 sL
 sj
 sI
+stream
+signature
+stateful
+sure
+study
+satisfied
+something
+switch
+signal
+switches
+source
 rules
 restrictions
 returning
@@ -1237,6 +1292,8 @@ rEG
 rFCH
 riS
 ru
+returns
+represents
 follow
 for
 from
@@ -1305,6 +1362,8 @@ fFD
 fy
 fQ
 fL
+function
+few
 get
 gap
 general
@@ -1431,6 +1490,10 @@ SW
 Sa
 Sah
 SEE
+STREAM
+Sum
+Signal
+Syntax
 Developement
 Data
 DataSource
@@ -1493,6 +1556,7 @@ Dq
 Dx
 DELETE
 DETAILS
+Description
 Life
 Logic
 Let
@@ -1622,6 +1686,7 @@ Cia
 Cmax
 CBX
 CX
+Calculating
 devops
 default
 data
@@ -1711,6 +1776,8 @@ dX
 dc
 dA
 du
+during
+dynamically
 make
 more
 method
@@ -1792,6 +1859,9 @@ ml
 mi
 mH
 mocking
+met
+manipulate
+mind
 ACCESS
 Abstraction
 Angular
@@ -1874,6 +1944,9 @@ AJhK
 AX
 AP
 AbXC
+AVALABLE
+Accumulate
+Average
 MODIFIERS
 My
 Material
@@ -1923,6 +1996,7 @@ MR
 Mf
 Mt
 MOCKAROO
+Maximum
 accessModifiers
 access
 around
@@ -2034,6 +2108,14 @@ ai
 aXD
 ah
 auto
+actions
+accumulates
+arguments
+accumulated
+arriving
+average
+adds
+alter
 NOTE
 Name
 New
@@ -2089,6 +2171,7 @@ NQR
 Nv
 NY
 Nh
+Note
 has
 have
 hiding
@@ -2275,6 +2358,9 @@ OIJ
 Ovx
 Oa
 Operations
+OPERATOR
+Output
+Operator
 Powers
 Polymorphism
 Postgres
@@ -2335,6 +2421,9 @@ PXR
 Pg
 Pv
 Pq
+Programming
+Parameters
+Publisher
 Java
 JPA
 JCA
@@ -2514,6 +2603,7 @@ bj
 bt
 bX
 bdI
+but
 Business
 By
 Boot
@@ -2628,6 +2718,9 @@ RQq
 Rb
 Rr
 RECORDS
+Reactive
+RabbitMq
+Running
 value
 void
 vanilla
@@ -2841,6 +2934,7 @@ yUjkk
 yv
 ycH
 yA
+yet
 VARCHAR
 VR
 Vf
@@ -2883,6 +2977,7 @@ Vr
 Vs
 VY
 VW
+Value
 You
 Yes
 Yv
@@ -3088,6 +3183,7 @@ Gj
 GjP
 Gax
 Gz
+GOOD
 zf
 zq
 zt
@@ -3322,6 +3418,8 @@ Kn
 KN
 KH
 KrB
+KNOW
+Keep
 XT
 XZ
 XJ

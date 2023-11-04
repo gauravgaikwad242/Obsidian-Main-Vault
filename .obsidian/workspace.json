@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aaacd8516d2d8ff6",
+        "id": "e631b2a991e3ba07",
         "type": "tabs",
         "children": [
           {
-            "id": "0d91f6895e93ba69",
+            "id": "9d1d1682e7605058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "core-java/Intro.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,11 +147,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,12 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "9d1d1682e7605058",
   "lastOpenFiles": [
-    "core-java/images/anatomyofclass.png",
-    "core-java/Intro.md",
-    "core-java/images/anatomyofclass 1.png",
+    "core-java/programms/3Intro.md",
     "core-java/programms/1st programm.md",
+    "core-java/programms/2nd programm.md",
+    "core-java/Intro.md",
+    "Project-Reactor/Operators/switchIfEmpty.md",
+    "Project-Reactor/Operators/switchOnFirst.md",
+    "Project-Reactor/Operators/Scan.md",
+    "core-java/images/anatomyofclass 1.png",
+    "images/anatomyofclass.md",
+    "images",
+    "links/JAVA LINKS.md",
+    "core-java/images/anatomyofclass.png",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/table/MOCK DATA.md",
@@ -190,22 +200,15 @@
     "Concurrentmapcache.md",
     "2023-11-01.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "HTML/freecodecamp",
     "HTML",
-    "DSA/DataStructures/array/delete.md",
-    "rabbitmq/Exchanges.md",
-    "rabbitmq/Concepts.md",
     "core-java",
-    "postgres/KEYWORDS/IN.md",
-    "postgres/KEYWORDS/LIKE.md",
     "DSA/DataStructures/array",
     "DSA/DataStructures",
     "DSA",
     "Project-Reactor/CombiningOperators",
-    "Project-Reactor/Operators/Untitled",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204936.png",
     "springboot/Untitled.canvas"
