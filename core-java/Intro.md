@@ -176,3 +176,34 @@ if those are wrong we'll be getting an Exception.
 
 #codewriting [[2nd programm]]
 #codewriting [[3Intro]]
+
+<hr>
+LAST DEMO SESSION
+<hr>
+
+- Java Class ( two types)
+	- Predefined Classes 
+		- Every Java predefined classes always starts with a CAPITAL letter 
+		- eg.., System and String 
+	- Userdefined Classes
+		- java userdefined classes can start with both small letter or capital letter
+		- NOTE : *it is advisable to java class start with Capital letter*
+
+<hr>
+
+- Java Method ( two types)
+	- Predefined Methods 
+		- every java predefined method always starts with a small letters
+		- eg.., main()
+	- Userdefined method
+		- java userdefined methods can starts with Both small and capital letters 
+	- Both Predefined and Userdefined methods are of two types 
+		- Parameterized method
+		- Non-Parameterized method
+
+```java
+int i; // declaration of variable
+i  = 10; //intialization (means assigning some value to the variable)
+
+int i = 10;
+```

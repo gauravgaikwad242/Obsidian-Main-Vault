@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e631b2a991e3ba07",
+        "id": "1b0948871d807ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1d1682e7605058",
+            "id": "f45cd8406e974a74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/Intro.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "core-java/Intro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d1d1682e7605058",
+  "active": "f45cd8406e974a74",
   "lastOpenFiles": [
+    "core-java/JAVA-KEYWORDS.md",
+    "core-java/Intro.md",
     "core-java/programms/3Intro.md",
     "core-java/programms/1st programm.md",
     "core-java/programms/2nd programm.md",
-    "core-java/Intro.md",
     "Project-Reactor/Operators/switchIfEmpty.md",
     "Project-Reactor/Operators/switchOnFirst.md",
     "Project-Reactor/Operators/Scan.md",
@@ -198,7 +190,6 @@
     "springboot/jpa/Attribute-converter.md",
     "untitled/Untitled.md",
     "Concurrentmapcache.md",
-    "2023-11-01.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
