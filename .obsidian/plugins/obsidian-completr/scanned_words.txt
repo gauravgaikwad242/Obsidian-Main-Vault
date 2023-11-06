@@ -216,6 +216,7 @@ executes
 exception
 eager
 editing
+expressions
 in
 interface
 interview
@@ -303,6 +304,7 @@ item
 img
 image
 irfanview
+issue
 java
 javascript
 jc
@@ -621,6 +623,7 @@ caption
 canva
 convey
 comes
+context
 we
 when
 want
@@ -688,6 +691,7 @@ wQ
 wdC
 way
 width
+working
 need
 necessary
 never
@@ -961,6 +965,8 @@ outside
 overridden
 objects
 one
+over
+operations
 project
 public
 private
@@ -1067,6 +1073,7 @@ persistent
 palceholder
 pexels
 pixabay
+preferred
 less
 lower
 letter
@@ -1143,6 +1150,8 @@ loop
 lazy
 lincesed
 links
+large
+lambda
 syntax
 set
 security
@@ -1289,6 +1298,9 @@ scroll
 softwares
 span
 session
+specialised
+substitution
+streams
 rules
 restrictions
 returning
@@ -1389,6 +1401,10 @@ restrict
 rounding
 resouces
 resizing
+references
+recommended
+rule
+raises
 follow
 for
 from
@@ -1466,6 +1482,8 @@ false
 figure
 figcaption
 free
+functional
+following
 get
 gap
 general
@@ -1803,6 +1821,7 @@ CAPITAL
 Capital
 Catches
 Creates
+Current
 devops
 default
 data
@@ -1905,6 +1924,7 @@ defines
 doesnt
 down
 demo
+definitions
 make
 more
 method
@@ -2259,6 +2279,7 @@ asynchronously
 alt
 article
 anchor
+array
 NOTE
 Name
 New
@@ -2573,6 +2594,7 @@ Parameters
 Publisher
 Predefined
 Parameterized
+Preferred
 Java
 JPA
 JCA
@@ -2683,6 +2705,7 @@ IAA
 IWO
 IK
 Indicates
+Interface
 be
 byte
 boolean
@@ -2761,6 +2784,7 @@ block
 branches
 base
 being
+boxing
 Business
 By
 Boot
@@ -3287,6 +3311,7 @@ Wf
 Wn
 Wp
 WITH
+Why
 Generated
 Go
 Gv

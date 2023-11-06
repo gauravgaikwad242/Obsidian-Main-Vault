@@ -215,3 +215,18 @@ int i = 10;
 #codewriting [[4callmethodbyobj]]
 - method return type
 #codewriting [[5methodreturn]]
+
+- Note : *Always analyze code from right side of line in case of '=' sign*
+```java
+public class ClassA {
+int meth1() {
+System.out.println("hi");
+return 1;
+}
+
+public static void main(String[] args) {
+ClassA aobj = new ClassA();
+System.out.println(aobj.meth1()+99);
+}
+}
+```

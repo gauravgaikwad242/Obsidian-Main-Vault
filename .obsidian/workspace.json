@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25d35104b4696d1f",
+        "id": "aa45603d8cea7642",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5043d6ae566250",
+            "id": "4dc36d6439b280a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5043d6ae566250",
+  "active": "4dc36d6439b280a1",
   "lastOpenFiles": [
-    "core-java/programms/5methodreturn.md",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators/joining-streams.md",
+    "java/Streams/Operators/flatmap-streams.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "java/Streams/Operators/collect-streams.md",
     "core-java/Intro.md",
+    "core-java/programms/5methodreturn.md",
     "core-java/programms/4callmethodbyobj.md",
     "core-java/JAVA-KEYWORDS.md",
     "core-java/programms/2nd programm.md",
@@ -198,13 +206,6 @@
     "postgres/table/_Table.md",
     "Pasted image 20230806204752.png",
     "www.google.com.md",
-    "springboot/Microservices/LOAD-BALANCING.md",
-    "springboot/Microservices/CIRCUIT-BREAKER.md",
-    "springboot/Microservices/Circuit Breaker.md",
-    "springboot/jpa/orphanRemoval.md",
-    "springboot/jpa/multiple-database.md",
-    "springboot/jpa/MapsId.md",
-    "springboot/jpa/Attribute-converter.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
