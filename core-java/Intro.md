@@ -207,3 +207,11 @@ i  = 10; //intialization (means assigning some value to the variable)
 
 int i = 10;
 ```
+
+<hr>
+<strong>demo session 9</strong>
+<hr>
+
+#codewriting [[4callmethodbyobj]]
+- method return type
+#codewriting [[5methodreturn]]

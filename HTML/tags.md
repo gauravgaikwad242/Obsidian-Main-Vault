@@ -212,3 +212,28 @@
 - canva
 
 - tinypng.com or tinyjpg.com will minimise images
+
+<hr>
+next
+<hr>
+
+#article 
+- it is like #section but even more symantic meaning to page
+
+#div 
+	- avoid using div
+    - div is like section without semantic meaning
+        to convey meaning we have to add many attribute
+        it is block element
+	- we will use div and span only when it comes down to css 
+
+#span 
+- block element
+- it is like div , not much semantic meaning
+
+<hr>
+some more semantic tags
+<hr>
+
+#a - anchor tag
+- used to give links

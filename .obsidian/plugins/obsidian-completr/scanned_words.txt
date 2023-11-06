@@ -214,6 +214,8 @@ extends
 expression
 executes
 exception
+eager
+editing
 in
 interface
 interview
@@ -298,6 +300,9 @@ instance
 integer
 indicates
 item
+img
+image
+irfanview
 java
 javascript
 jc
@@ -462,6 +467,8 @@ throws
 thrown
 transient
 tested
+tinypng
+tinyjpg
 code
 class
 constants
@@ -610,6 +617,10 @@ catch
 constant
 calculations
 critical
+caption
+canva
+convey
+comes
 we
 when
 want
@@ -676,6 +687,7 @@ wr
 wQ
 wdC
 way
+width
 need
 necessary
 never
@@ -815,15 +827,12 @@ Every
 Enumerations
 use
 universal
-user
 used
 useful
 up
 using
-username
 unresponsive
 unsuccessful
-users
 usually
 utilization
 us
@@ -878,6 +887,7 @@ uH
 uvvJ
 userdefined
 unsigned
+unsplash
 our
 of
 or
@@ -1054,6 +1064,9 @@ precision
 portability
 part
 persistent
+palceholder
+pexels
+pixabay
 less
 lower
 letter
@@ -1127,6 +1140,9 @@ letters
 later
 loops
 loop
+lazy
+lincesed
+links
 syntax
 set
 security
@@ -1267,6 +1283,12 @@ strictfp
 super
 synchronized
 sections
+src
+show
+scroll
+softwares
+span
+session
 rules
 restrictions
 returning
@@ -1365,6 +1387,8 @@ reference
 refer
 restrict
 rounding
+resouces
+resizing
 follow
 for
 from
@@ -1439,6 +1463,9 @@ floating
 final
 finally
 false
+figure
+figcaption
+free
 get
 gap
 general
@@ -1498,6 +1525,8 @@ gm
 gQJ
 gh
 geu
+gives
+gratiscography
 SDLC
 Software
 Super
@@ -1873,6 +1902,9 @@ derived
 does
 declared
 defines
+doesnt
+down
+demo
 make
 more
 method
@@ -1959,6 +1991,7 @@ manipulate
 mind
 may
 multithreaded
+minimise
 ACCESS
 Abstraction
 Angular
@@ -2223,6 +2256,9 @@ another
 accessed
 accessible
 asynchronously
+alt
+article
+anchor
 NOTE
 Name
 New
@@ -2279,6 +2315,7 @@ Nv
 NY
 Nh
 Note
+Non
 has
 have
 hiding
@@ -2357,6 +2394,7 @@ hCi
 hPxX
 hold
 holds
+height
 keyword
 keywork
 kafka
@@ -2534,6 +2572,7 @@ Programming
 Parameters
 Publisher
 Predefined
+Parameterized
 Java
 JPA
 JCA
@@ -2896,6 +2935,7 @@ vHKs
 variable
 variables
 volatile
+via
 qoutes
 question
 qIron
