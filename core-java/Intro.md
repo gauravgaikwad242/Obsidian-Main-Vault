@@ -219,14 +219,86 @@ int i = 10;
 - Note : *Always analyze code from right side of line in case of '=' sign*
 ```java
 public class ClassA {
-int meth1() {
-System.out.println("hi");
-return 1;
-}
-
-public static void main(String[] args) {
-ClassA aobj = new ClassA();
-System.out.println(aobj.meth1()+99);
-}
+	int meth1() {
+		System.out.println("hi");
+		return 1;
+	}
+	
+	public static void main(String[] args) {
+		ClassA aobj = new ClassA();
+		System.out.println(aobj.meth1()+99);
+	}
 }
 ```
+
+<hr>
+demo class 10
+<hr>
+
+```java
+public class ClassA {
+	int meth1() {
+		System.out.println("meth1() called");
+		return new ClassA().meth2(); //400
+	}
+	int meth2() {
+		System.out.println("meth2() called");
+		return 400;
+	}
+	public static void main(String[] args) {
+		System.out.println(new ClassA().meth1() + new ClassA().meth2());
+	}
+}
+```
+
+```java
+public class ClassB {
+
+    void meth1() {
+        System.out.println(10);
+        System.out.println(64);
+        System.out.println("End");
+    }
+
+    int meth2(int a, int b, int c) { // 4 50 50 50
+        System.out.println(a);
+        ClassB bobj = new ClassB();
+        String s = bobj.meth5(100, "Java is awesome");
+        System.out.println(s);
+        return a - b;
+    }
+
+    String meth3(String s, int b, int d) { // 5 Hi 15 10
+        System.out.println(b + d);
+        return s;
+    }
+
+    int meth4(int c, int k) { // MAIN 20 10
+        System.out.println(k);
+        ClassB bobj = new ClassB();
+        int result = bobj.meth2(50, 50, 50);
+        System.out.println(result);
+        return k + 10;
+    }
+
+    String meth5(int a, String L) { // 2 100, "Java is awesome"
+        System.out.println(a + a);
+        ClassB bobj = new ClassB();
+        String s = bobj.meth3("Hi", 15, 10);
+        System.out.println(s);
+        return L;
+    }
+
+    public static void main(String[] args) {
+        ClassB bobj = new ClassB();
+        System.out.println("START");
+        int result = bobj.meth4(20, 10);
+        System.out.println(result);
+        bobj.meth1();
+    }
+
+}
+
+```
+
+

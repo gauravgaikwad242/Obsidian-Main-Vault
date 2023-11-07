@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa45603d8cea7642",
+        "id": "0d5a2b82bd6011ce",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc36d6439b280a1",
+            "id": "391b01e88e6f47a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/tags.md",
+                "file": "springboot/Microservices/LOAD-BALANCING.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5128364562988,
-    "collapsed": true
+    "width": 276.5128364562988
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/tags.md",
+                "file": "springboot/Microservices/LOAD-BALANCING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/tags.md",
+                "file": "springboot/Microservices/LOAD-BALANCING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/tags.md"
+                "file": "springboot/Microservices/LOAD-BALANCING.md"
               }
             }
           },
@@ -153,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "391b01e88e6f47a3",
   "lastOpenFiles": [
+    "springboot/Microservices/CIRCUIT-BREAKER.md",
+    "springboot/Microservices/Circuit Breaker.md",
+    "springboot/jpa/orphanRemoval.md",
+    "springboot/jpa/multiple-database.md",
+    "springboot/jpa/Attribute-converter.md",
+    "www.google.com.md",
     "core-java/Intro.md",
+    "core-java/JAVA-KEYWORDS.md",
+    "HTML/tags.md",
     "java/functional-inteface/Standard Functional Interface.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
@@ -177,7 +185,6 @@
     "java/Streams/Operators/collect-streams.md",
     "core-java/programms/5methodreturn.md",
     "core-java/programms/4callmethodbyobj.md",
-    "core-java/JAVA-KEYWORDS.md",
     "core-java/programms/2nd programm.md",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Project-Reactor/code/udemy/sec13",
@@ -190,7 +197,6 @@
     "Project-Reactor/code/udemy/sec11/assignment/SlackRoom.java",
     "Project-Reactor/code/udemy/sec11/assignment/SlackMessage.java",
     "HTML/Entities.md",
-    "HTML/tags.md",
     "core-java/programms/3Intro.md",
     "core-java/programms/1st programm.md",
     "Project-Reactor/Operators/switchIfEmpty.md",
@@ -198,14 +204,8 @@
     "Project-Reactor/Operators/Scan.md",
     "core-java/images/anatomyofclass 1.png",
     "images/anatomyofclass.md",
-    "links/JAVA LINKS.md",
     "core-java/images/anatomyofclass.png",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "postgres/table/TABLE_LIFECYCLE.md",
-    "postgres/table/MOCK DATA.md",
-    "postgres/table/_Table.md",
     "Pasted image 20230806204752.png",
-    "www.google.com.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
