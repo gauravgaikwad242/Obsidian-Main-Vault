@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/Intro.md",
+                "file": "HTML/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nav",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5128364562988
+    "width": 276.5128364562988,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/Intro.md",
+                "file": "HTML/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/Intro.md",
+                "file": "HTML/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/Intro.md"
+                "file": "HTML/tags.md"
               }
             }
           },
@@ -152,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dc36d6439b280a1",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/Intro.md",
     "java/functional-inteface/Standard Functional Interface.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
@@ -174,7 +175,6 @@
     "java/Streams/Operators/flatmap-streams.md",
     "java/Streams/Operators/distinct-streams.md",
     "java/Streams/Operators/collect-streams.md",
-    "core-java/Intro.md",
     "core-java/programms/5methodreturn.md",
     "core-java/programms/4callmethodbyobj.md",
     "core-java/JAVA-KEYWORDS.md",
