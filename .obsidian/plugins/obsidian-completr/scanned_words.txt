@@ -649,6 +649,7 @@ color
 clicking
 center
 container
+changing
 we
 when
 want
@@ -796,6 +797,7 @@ nd
 native
 null
 notspecific
+nth
 Enum
 Encapsulation
 EntityManager
@@ -1112,6 +1114,7 @@ params
 pointer
 properties
 position
+parent
 less
 lower
 letter
@@ -1359,6 +1362,9 @@ sudoclass
 styling
 style
 solving
+sudo
+specificity
+sudoelement
 rules
 restrictions
 returning
@@ -1618,6 +1624,7 @@ grouping
 giving
 gets
 given
+generally
 SDLC
 Software
 Super
@@ -2091,6 +2098,7 @@ mind
 may
 multithreaded
 minimise
+marker
 ACCESS
 Abstraction
 Angular

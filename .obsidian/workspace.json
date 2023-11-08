@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/freecodecamp/08 - list styles.md",
+                "file": "CSS/freecodecamp/07-Styling Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/freecodecamp/08 - list styles.md",
+                "file": "CSS/freecodecamp/07-Styling Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/freecodecamp/08 - list styles.md",
+                "file": "CSS/freecodecamp/07-Styling Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/freecodecamp/08 - list styles.md"
+                "file": "CSS/freecodecamp/07-Styling Links.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "391b01e88e6f47a3",
   "lastOpenFiles": [
+    "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/07-Styling Links.md",
-    "CSS/freecodecamp/08 - list styles.md",
     "HTML/Entities.md",
     "HTML/tags.md",
     "CSS/freecodecamp",
