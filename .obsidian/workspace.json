@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/Microservices/LOAD-BALANCING.md",
+                "file": "CSS/freecodecamp/08 - list styles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/Microservices/LOAD-BALANCING.md",
+                "file": "CSS/freecodecamp/08 - list styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/Microservices/LOAD-BALANCING.md",
+                "file": "CSS/freecodecamp/08 - list styles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/Microservices/LOAD-BALANCING.md"
+                "file": "CSS/freecodecamp/08 - list styles.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,17 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391b01e88e6f47a3",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "CSS/freecodecamp/07-Styling Links.md",
+    "CSS/freecodecamp/08 - list styles.md",
+    "HTML/Entities.md",
+    "HTML/tags.md",
+    "CSS/freecodecamp",
+    "core-java/Intro.md",
+    "CSS",
+    "springboot/Microservices/LOAD-BALANCING.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
     "springboot/Microservices/Circuit Breaker.md",
     "springboot/jpa/orphanRemoval.md",
     "springboot/jpa/multiple-database.md",
     "springboot/jpa/Attribute-converter.md",
     "www.google.com.md",
-    "core-java/Intro.md",
     "core-java/JAVA-KEYWORDS.md",
-    "HTML/tags.md",
     "java/functional-inteface/Standard Functional Interface.md",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
@@ -194,16 +199,10 @@
     "Project-Reactor/code/udemy/sec12/Lec01Ctx.java",
     "Project-Reactor/code/udemy/sec12/helper",
     "Project-Reactor/code/udemy/sec12",
-    "Project-Reactor/code/udemy/sec11/assignment/SlackRoom.java",
-    "Project-Reactor/code/udemy/sec11/assignment/SlackMessage.java",
-    "HTML/Entities.md",
     "core-java/programms/3Intro.md",
     "core-java/programms/1st programm.md",
     "Project-Reactor/Operators/switchIfEmpty.md",
-    "Project-Reactor/Operators/switchOnFirst.md",
-    "Project-Reactor/Operators/Scan.md",
     "core-java/images/anatomyofclass 1.png",
-    "images/anatomyofclass.md",
     "core-java/images/anatomyofclass.png",
     "Pasted image 20230806204752.png",
     "Untitled.canvas",

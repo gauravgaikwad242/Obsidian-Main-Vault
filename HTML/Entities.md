@@ -2,3 +2,4 @@
 &gt; - greater than
 &lt; - less than
 &copy - copyright symbol
+&apos; - apostrophy  '  
