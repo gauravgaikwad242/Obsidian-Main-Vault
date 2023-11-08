@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/freecodecamp/07-Styling Links.md",
+                "file": "CSS/freecodecamp/06-typography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/freecodecamp/07-Styling Links.md",
+                "file": "CSS/freecodecamp/06-typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/freecodecamp/07-Styling Links.md",
+                "file": "CSS/freecodecamp/06-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/freecodecamp/07-Styling Links.md"
+                "file": "CSS/freecodecamp/06-typography.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391b01e88e6f47a3",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/07-Styling Links.md",
+    "CSS/freecodecamp/06-typography.md",
+    "CSS/freecodecamp/08-Styling Lists.md",
     "HTML/Entities.md",
     "HTML/tags.md",
     "CSS/freecodecamp",
@@ -202,7 +202,6 @@
     "Project-Reactor/code/udemy/sec12",
     "core-java/programms/3Intro.md",
     "core-java/programms/1st programm.md",
-    "Project-Reactor/Operators/switchIfEmpty.md",
     "core-java/images/anatomyofclass 1.png",
     "core-java/images/anatomyofclass.png",
     "Pasted image 20230806204752.png",
