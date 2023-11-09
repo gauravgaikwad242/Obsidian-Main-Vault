@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5a2b82bd6011ce",
+        "id": "7de7634b57f8c407",
         "type": "tabs",
         "children": [
           {
-            "id": "391b01e88e6f47a3",
+            "id": "7777ca61350c10ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/freecodecamp/06-typography.md",
+                "file": "CSS/freecodecamp/11-column.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5128364562988
+    "width": 208.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/freecodecamp/06-typography.md",
+                "file": "CSS/freecodecamp/11-column.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/freecodecamp/06-typography.md",
+                "file": "CSS/freecodecamp/11-column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/freecodecamp/06-typography.md"
+                "file": "CSS/freecodecamp/11-column.md"
               }
             }
           },
@@ -166,13 +166,21 @@
   },
   "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "CSS/freecodecamp/07-Styling Links.md",
-    "CSS/freecodecamp/06-typography.md",
+    "CSS/freecodecamp/image1.png",
+    "freecodecamp/image1.md",
+    "CSS/freecodecamp/11-column.md",
+    "freecodecamp",
+    "links/JAVA LINKS.md",
+    "CSS/freecodecamp/image",
+    "CSS/freecodecamp/10-Floats.md",
+    "core-java/Intro.md",
+    "CSS/freecodecamp/09-display type.md",
     "CSS/freecodecamp/08-Styling Lists.md",
+    "CSS/freecodecamp/06-typography.md",
+    "CSS/freecodecamp/07-Styling Links.md",
     "HTML/Entities.md",
     "HTML/tags.md",
     "CSS/freecodecamp",
-    "core-java/Intro.md",
     "CSS",
     "springboot/Microservices/LOAD-BALANCING.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
@@ -188,20 +196,12 @@
     "java/Streams/Operators/joining-streams.md",
     "java/Streams/Operators/flatmap-streams.md",
     "java/Streams/Operators/distinct-streams.md",
-    "java/Streams/Operators/collect-streams.md",
-    "core-java/programms/5methodreturn.md",
-    "core-java/programms/4callmethodbyobj.md",
-    "core-java/programms/2nd programm.md",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Project-Reactor/code/udemy/sec13",
     "Project-Reactor/code/udemy/sec12/helper/UserService.java",
     "Project-Reactor/code/udemy/sec12/helper/BookService.java",
     "Project-Reactor/code/udemy/sec12/Lec02CtxRateLimiterDemo.java",
     "Project-Reactor/code/udemy/sec12/Lec01Ctx.java",
-    "Project-Reactor/code/udemy/sec12/helper",
-    "Project-Reactor/code/udemy/sec12",
-    "core-java/programms/3Intro.md",
-    "core-java/programms/1st programm.md",
     "core-java/images/anatomyofclass 1.png",
     "core-java/images/anatomyofclass.png",
     "Pasted image 20230806204752.png",
