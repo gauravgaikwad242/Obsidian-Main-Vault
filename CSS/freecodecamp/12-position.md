@@ -1,46 +1,24 @@
-- Wrapping of text around the containers or images like in newspaper
-#watchagain
+`position: absolute `
+`position: relative `
+`position: fixed `
+`position: sticky `
+#position 
 
-#CSSProperties 
+1. ABSOLUTE
+- this will position with respect to parent element absolutely
+- if parent element is position relative it will position according to it
 
-#float
-- applying this property to the block or image will wrap other elements around it
-```css
-.left {
-	float: right;
-    float: left;
-    margin-right: 1rem;
-}
-```
+2. RELATIVE
+-  
+4. FIXED
+- this will fix the element on screen even after scrolling the position will remain same 
+- used for header and footers
+1. STICKY
+- this will fix the element even after scroll but once the parent element passes the screen it will be scrolled
+- can be used for header and footer 
+- better than postion  fixed for header and footers
 
-#clear
-
-```css
-.clear {
-    clear:right;
-    /* this will make the paragraph wrapped around , 
-    if it ends then next paragraph will not wrap but it will start after the float body */
-    clear: both;
-    /* this is old way we have used section tag for this */
-}
-```
-
-#display 
-- 
-```css
-section {
-     background-color: bisque;
-     border: 1px solid #333;
-     padding: 1rem;
-     /* but if the text is samll th flaot box overflows */
-     /* this will fix but is old way */
-     /* overflow: auto; */
-     /* this is new way modern way */
-     display: flow-root;
-}
-```
-
-```html
+```html 
 <body>
     <div class="outer-container">
         <div class="inner-container">

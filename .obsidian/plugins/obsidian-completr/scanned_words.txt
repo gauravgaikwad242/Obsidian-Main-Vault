@@ -145,6 +145,7 @@ FOF
 Ffreecodecamp
 Fimage
 FPasted
+FIXED
 elements
 enum
 else
@@ -786,6 +787,7 @@ cR
 cE
 count
 crete
+clear
 we
 when
 want
@@ -874,6 +876,8 @@ wjv
 wß
 wWB
 wUcH
+watchagain
+wrap
 need
 necessary
 never
@@ -973,6 +977,7 @@ nE
 nFUq
 nTe
 nHq
+nowrap
 Enum
 Encapsulation
 EntityManager
@@ -1230,6 +1235,7 @@ oe
 okiD
 oC
 obsidian
+once
 project
 public
 private
@@ -1372,6 +1378,8 @@ pEH
 ps
 pgy
 png
+passes
+postion
 less
 lower
 letter
@@ -1659,6 +1667,9 @@ st
 soZHzuQl
 shrink
 splitting
+screen
+scrolling
+scrolled
 rules
 restrictions
 returning
@@ -1785,6 +1796,9 @@ ruq
 rZy
 rHpu
 rdo
+respect
+relative
+remain
 follow
 for
 from
@@ -1890,6 +1904,10 @@ fgP
 fK
 ffm
 fLNCvF
+fix
+footers
+footer
+fixed
 get
 gap
 general
@@ -2052,6 +2070,7 @@ SP
 Sdc
 STu
 SB
+STICKY
 Developement
 Data
 DataSource
@@ -2646,6 +2665,7 @@ AB
 Ab
 AQ
 Aap
+ABSOLUTE
 MODIFIERS
 My
 Material
@@ -2875,6 +2895,10 @@ ak
 aWU
 aw
 arrange
+applying
+absolutely
+according
+after
 NOTE
 Name
 New
@@ -3696,6 +3720,7 @@ Rwt
 Rf
 Rky
 RWa
+RELATIVE
 value
 void
 vanilla

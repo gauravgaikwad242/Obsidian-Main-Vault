@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/freecodecamp/11-column.md",
+                "file": "CSS/freecodecamp/12.1-position mini project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/freecodecamp/11-column.md",
+                "file": "CSS/freecodecamp/12.1-position mini project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/freecodecamp/11-column.md",
+                "file": "CSS/freecodecamp/12.1-position mini project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/freecodecamp/11-column.md"
+                "file": "CSS/freecodecamp/12.1-position mini project.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,17 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "7777ca61350c10ed",
   "lastOpenFiles": [
+    "CSS/freecodecamp/12-position.md",
+    "CSS/freecodecamp/12.1-position mini project.md",
+    "CSS/freecodecamp/11-column.md",
+    "CSS/freecodecamp/10-Floats.md",
+    "CSS/freecodecamp/09-display type.md",
     "CSS/freecodecamp/image1.png",
     "freecodecamp/image1.md",
-    "CSS/freecodecamp/11-column.md",
     "freecodecamp",
     "links/JAVA LINKS.md",
     "CSS/freecodecamp/image",
-    "CSS/freecodecamp/10-Floats.md",
     "core-java/Intro.md",
-    "CSS/freecodecamp/09-display type.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/06-typography.md",
     "CSS/freecodecamp/07-Styling Links.md",
@@ -195,7 +198,6 @@
     "java/Streams/Operators/groupingby-partitionby-streams.md",
     "java/Streams/Operators/joining-streams.md",
     "java/Streams/Operators/flatmap-streams.md",
-    "java/Streams/Operators/distinct-streams.md",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Project-Reactor/code/udemy/sec13",
     "Project-Reactor/code/udemy/sec12/helper/UserService.java",
