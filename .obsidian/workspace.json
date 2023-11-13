@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/2..md",
+                "file": "CSS/freecodecamp/13-Flex.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/2..md",
+                "file": "CSS/freecodecamp/13-Flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/2..md",
+                "file": "CSS/freecodecamp/13-Flex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/2..md"
+                "file": "CSS/freecodecamp/13-Flex.md"
               }
             }
           },
@@ -165,14 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce15be04e05359bd",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
+    "core-java/2..md",
+    "CSS/freecodecamp/13-Flex.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
     "www.google.com.md",
     "freecodecamp/image1.md",
     "core-java/1. Intro.md",
-    "core-java/2..md",
     "core-java/images/999javaversions.png",
     "core-java/999javaversions 1.png",
     "core-java/JAVA-KEYWORDS.md",
