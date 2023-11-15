@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc787dae2e047ed2",
+        "id": "4491bc0e25348f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "906c811fd199272a",
+            "id": "c15a36497f653a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "906c811fd199272a",
+  "active": "c15a36497f653a1c",
   "lastOpenFiles": [
+    "core-java/4.0 JVM JRE & JDK.md",
+    "core-java/5.0 Class.md",
     "core-java/JAVA-KEYWORDS.md",
     "CSS/freecodecamp/08-Styling Lists.md",
-    "core-java/5.0 Class.md",
-    "core-java/4.0 JVM JRE & JDK.md",
     "core-java/images/javabuzzwords.png",
     "core-java/images/jvmjrejdk.png",
     "core-java/3.0 Internal Architecture of JVM.md",
