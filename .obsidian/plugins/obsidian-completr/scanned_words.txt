@@ -118,6 +118,7 @@ TDJr
 TSC
 TXlZIY
 TCM
+Throwable
 Fundamental
 For
 First
@@ -411,6 +412,9 @@ ej
 eAd
 explain
 enjoy
+either
+equals
+exact
 in
 interface
 interview
@@ -571,6 +575,8 @@ iO
 iHM
 iL
 interpreted
+imported
+important
 java
 javascript
 jc
@@ -858,6 +864,7 @@ thread
 tOxp
 tDRx
 tLN
+toString
 code
 class
 constants
@@ -1091,6 +1098,9 @@ cRg
 choosing
 career
 choice
+comparing
+clone
+creates
 we
 when
 want
@@ -1235,6 +1245,7 @@ wBB
 wZ
 wFrr
 wDhT
+wait
 need
 necessary
 never
@@ -1375,6 +1386,9 @@ nmeFUc
 nZY
 nn
 nCD
+notify
+notifyAll
+nanos
 Enum
 Encapsulation
 EntityManager
@@ -1758,6 +1772,7 @@ oxr
 oQa
 oriented
 optimized
+obj
 project
 public
 private
@@ -1946,6 +1961,7 @@ pDx
 pd
 phw
 purely
+plays
 less
 lower
 letter
@@ -2329,6 +2345,8 @@ sVG
 sLp
 sVU
 speed
+string
+synchronization
 rules
 restrictions
 returning
@@ -2506,6 +2524,8 @@ rm
 rvv
 rCVa
 robust
+representing
+role
 follow
 for
 from
@@ -2659,6 +2679,7 @@ fII
 fBBB
 features
 filename
+finalize
 get
 gap
 general
@@ -2775,6 +2796,8 @@ gDxd
 gKs
 good
 got
+garbage
+getClass
 SDLC
 Software
 Super
@@ -3321,6 +3344,7 @@ CXH
 CHJ
 Compiled
 Can
+CloneNotSupportedException
 devops
 default
 data
@@ -3652,6 +3676,7 @@ mKtp
 mdddddd
 mLE
 mandatory
+means
 ACCESS
 Abstraction
 Angular
@@ -3790,6 +3815,7 @@ AQT
 Abr
 AIq
 AAA
+All
 MODIFIERS
 My
 Material
@@ -4103,6 +4129,8 @@ axZ
 aaaJX
 aax
 areas
+acquiring
+acts
 NOTE
 Name
 New
@@ -4363,6 +4391,10 @@ hddddd
 hgA
 hjU
 hiV
+hence
+hashCode
+hierarchy
+hash
 keyword
 keywork
 kafka
@@ -5361,6 +5393,7 @@ RXT
 Rj
 RVW
 Rxg
+Returns
 value
 void
 vanilla
