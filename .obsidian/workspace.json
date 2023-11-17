@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/6.0 Object Class.md",
+                "file": "core-java/7.0 Object Class Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/6.0 Object Class.md",
+                "file": "core-java/7.0 Object Class Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/6.0 Object Class.md",
+                "file": "core-java/7.0 Object Class Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/6.0 Object Class.md"
+                "file": "core-java/7.0 Object Class Methods.md"
               }
             }
           },
@@ -148,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "c15a36497f653a1c",
   "lastOpenFiles": [
-    "core-java/5.0 Class.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "core-java/7.0 Object Class Methods.md",
     "core-java/6.0 Object Class.md",
+    "core-java/5.0 Class.md",
     "core-java/4.0 JVM JRE & JDK.md",
     "core-java/JAVA-KEYWORDS.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "core-java/images/javabuzzwords.png",
     "core-java/images/jvmjrejdk.png",
-    "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/2..md",
     "core-java/programms/Untitled.canvas",
     "core-java/1. Intro.md",
@@ -206,7 +206,6 @@
     "CSS",
     "springboot/Microservices/LOAD-BALANCING.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
-    "springboot/Microservices/Circuit Breaker.md",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Project-Reactor/code/udemy/sec13",
     "Project-Reactor/code/udemy/sec12/helper/UserService.java",

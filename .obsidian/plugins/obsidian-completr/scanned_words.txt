@@ -119,6 +119,7 @@ TSC
 TXlZIY
 TCM
 Throwable
+THE
 Fundamental
 For
 First
@@ -241,6 +242,7 @@ FeE
 FIR
 FDf
 Fyy
+FULLY
 elements
 enum
 else
@@ -577,6 +579,8 @@ iL
 interpreted
 imported
 important
+identification
+internally
 java
 javascript
 jc
@@ -1101,6 +1105,7 @@ choice
 comparing
 clone
 creates
+compares
 we
 when
 want
@@ -1636,6 +1641,7 @@ uBB
 uDd
 ubH
 unlike
+unique
 our
 of
 or
@@ -1962,6 +1968,7 @@ pd
 phw
 purely
 plays
+printing
 less
 lower
 letter
@@ -2680,6 +2687,7 @@ fBBB
 features
 filename
 finalize
+format
 get
 gap
 general
@@ -2798,6 +2806,7 @@ good
 got
 garbage
 getClass
+generate
 SDLC
 Software
 Super
@@ -3525,6 +3534,7 @@ dDd
 dXj
 defined
 defend
+distinguish
 make
 more
 method
@@ -4247,6 +4257,7 @@ NiQ
 NHB
 NgD
 NKh
+NAME
 has
 have
 hiding
@@ -5277,6 +5288,7 @@ BRr
 Buh
 Bxt
 BMz
+Boolean
 Return
 Reactor
 Remember
@@ -6152,6 +6164,7 @@ UKL
 UFDF
 UKN
 User
+UID
 With
 When
 Works
@@ -6605,6 +6618,7 @@ QM
 QyK
 QDBm
 Qnr
+QUALIFIED
 xN
 xl
 xu
