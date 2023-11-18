@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "core-java/8.0 Naming Convention & Seperators.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -166,6 +166,7 @@
   },
   "active": "481584a5ab0bf22f",
   "lastOpenFiles": [
+    "core-java/images/javamethod.png",
     "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/6.0 Object Class.md",
     "core-java/5.0 Class.md",
@@ -197,14 +198,12 @@
     "CSS/freecodecamp/12-position.md",
     "CSS/freecodecamp/10-Floats.md",
     "CSS/freecodecamp/09-display type.md",
-    "CSS/freecodecamp/image1.png",
     "freecodecamp",
     "links/JAVA LINKS.md",
     "CSS/freecodecamp/image",
     "CSS/freecodecamp/06-typography.md",
     "CSS/freecodecamp/07-Styling Links.md",
     "HTML/Entities.md",
-    "HTML/tags.md",
     "CSS/freecodecamp",
     "CSS",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
