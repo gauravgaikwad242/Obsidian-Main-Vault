@@ -417,6 +417,7 @@ enjoy
 either
 equals
 exact
+eligible
 in
 interface
 interview
@@ -581,6 +582,7 @@ imported
 important
 identification
 internally
+identifier
 java
 javascript
 jc
@@ -1106,6 +1108,7 @@ comparing
 clone
 creates
 compares
+collection
 we
 when
 want
@@ -1779,6 +1782,7 @@ oQa
 oriented
 optimized
 obj
+objectvariable
 project
 public
 private
@@ -3354,6 +3358,7 @@ CHJ
 Compiled
 Can
 CloneNotSupportedException
+Conventions
 devops
 default
 data
@@ -4258,6 +4263,7 @@ NHB
 NgD
 NKh
 NAME
+Naming
 has
 have
 hiding
@@ -4759,6 +4765,7 @@ Pr
 PViQe
 PZZ
 PD
+Pasted
 Java
 JPA
 JCA
@@ -5002,6 +5009,7 @@ INb
 Iiwdv
 IAU
 IhJ
+Identifier
 be
 byte
 boolean
@@ -5406,6 +5414,7 @@ Rj
 RVW
 Rxg
 Returns
+RECOMMENDED
 value
 void
 vanilla
