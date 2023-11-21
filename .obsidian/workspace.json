@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/8.0 Naming Convention & Seperators.md",
+                "file": "core-java/9.0 Returning a Value from a Java Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/8.0 Naming Convention & Seperators.md",
+                "file": "core-java/9.0 Returning a Value from a Java Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/8.0 Naming Convention & Seperators.md",
+                "file": "core-java/9.0 Returning a Value from a Java Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/8.0 Naming Convention & Seperators.md"
+                "file": "core-java/9.0 Returning a Value from a Java Method.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,15 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "481584a5ab0bf22f",
   "lastOpenFiles": [
-    "core-java/images/javamethod.png",
     "core-java/8.0 Naming Convention & Seperators.md",
+    "core-java/9.0 Returning a Value from a Java Method.md",
+    "core-java/7.0 Object Class Methods.md",
+    "CSS/freecodecamp/06-typography.md",
+    "core-java/images/javamethod.png",
     "core-java/6.0 Object Class.md",
     "core-java/5.0 Class.md",
     "Pasted.md",
     "core-java/images/objectvariable.png",
-    "core-java/7.0 Object Class Methods.md",
     "core-java/1. Intro.md",
     "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/4.0 JVM JRE & JDK.md",
@@ -202,7 +203,6 @@
     "freecodecamp",
     "links/JAVA LINKS.md",
     "CSS/freecodecamp/image",
-    "CSS/freecodecamp/06-typography.md",
     "CSS/freecodecamp/07-Styling Links.md",
     "HTML/Entities.md",
     "CSS/freecodecamp",
