@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "481584a5ab0bf22f",
   "lastOpenFiles": [
     "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/9.0 Returning a Value from a Java Method.md",
