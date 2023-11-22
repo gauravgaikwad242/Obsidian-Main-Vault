@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/9.0 Returning a Value from a Java Method.md",
+                "file": "core-java/10. Main() Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#interview",
+                "query": "tag:#accessModifiers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/9.0 Returning a Value from a Java Method.md",
+                "file": "core-java/10. Main() Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/9.0 Returning a Value from a Java Method.md",
+                "file": "core-java/10. Main() Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/9.0 Returning a Value from a Java Method.md"
+                "file": "core-java/10. Main() Method.md"
               }
             }
           },
@@ -164,25 +164,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "481584a5ab0bf22f",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/8.0 Naming Convention & Seperators.md",
+    "core-java/images/maincalled.png",
+    "core-java/5.0 Class.md",
+    "core-java/4.0 JVM JRE & JDK.md",
+    "core-java/10. Main() Method.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "core-java/2..md",
+    "core-java/1. Intro.md",
     "core-java/9.0 Returning a Value from a Java Method.md",
+    "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/7.0 Object Class Methods.md",
     "CSS/freecodecamp/06-typography.md",
     "core-java/images/javamethod.png",
     "core-java/6.0 Object Class.md",
-    "core-java/5.0 Class.md",
     "Pasted.md",
     "core-java/images/objectvariable.png",
-    "core-java/1. Intro.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/4.0 JVM JRE & JDK.md",
     "core-java/JAVA-KEYWORDS.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "core-java/images/javabuzzwords.png",
     "core-java/images/jvmjrejdk.png",
-    "core-java/2..md",
     "core-java/programms/Untitled.canvas",
     "core-java/images/internalarchorjvm.png",
     "RXJS/CONCAT-MAP.md",
@@ -203,8 +205,6 @@
     "freecodecamp",
     "links/JAVA LINKS.md",
     "CSS/freecodecamp/image",
-    "CSS/freecodecamp/07-Styling Links.md",
-    "HTML/Entities.md",
     "CSS/freecodecamp",
     "CSS",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
