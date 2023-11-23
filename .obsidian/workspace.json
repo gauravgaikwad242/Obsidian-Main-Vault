@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/10. Main() Method.md",
+                "file": "core-java/11. Datatypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/10. Main() Method.md",
+                "file": "core-java/11. Datatypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/10. Main() Method.md",
+                "file": "core-java/11. Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/10. Main() Method.md"
+                "file": "core-java/11. Datatypes.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +167,12 @@
   },
   "active": "481584a5ab0bf22f",
   "lastOpenFiles": [
+    "core-java/images/memory1.png",
+    "core-java/10. Main() Method.md",
+    "core-java/11. Datatypes.md",
     "core-java/images/maincalled.png",
     "core-java/5.0 Class.md",
     "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/10. Main() Method.md",
     "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/2..md",
     "core-java/1. Intro.md",
@@ -195,7 +198,6 @@
     "freecodecamp/image1.md",
     "core-java/images/999javaversions.png",
     "core-java/999javaversions 1.png",
-    "core-java/images/anatomyofclass 1.png",
     "999javaversions.md",
     "CSS/freecodecamp/11-column.md",
     "CSS/freecodecamp/12.1-position mini project.md",
@@ -203,7 +205,6 @@
     "CSS/freecodecamp/10-Floats.md",
     "CSS/freecodecamp/09-display type.md",
     "freecodecamp",
-    "links/JAVA LINKS.md",
     "CSS/freecodecamp/image",
     "CSS/freecodecamp",
     "CSS",
