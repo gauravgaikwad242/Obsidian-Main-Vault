@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/11. Datatypes.md",
+                "file": "core-java/12.0 Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/11. Datatypes.md",
+                "file": "core-java/12.0 Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/11. Datatypes.md",
+                "file": "core-java/12.0 Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/11. Datatypes.md"
+                "file": "core-java/12.0 Variables.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +167,15 @@
   },
   "active": "481584a5ab0bf22f",
   "lastOpenFiles": [
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "core-java/12.0 Variables.md",
+    "core-java/11.01 Datatypes.pdf",
+    "core-java/11. Datatypes.md",
     "core-java/images/memory1.png",
     "core-java/10. Main() Method.md",
-    "core-java/11. Datatypes.md",
     "core-java/images/maincalled.png",
     "core-java/5.0 Class.md",
     "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/2..md",
     "core-java/1. Intro.md",
     "core-java/9.0 Returning a Value from a Java Method.md",
@@ -196,13 +199,11 @@
     "www.google.com.md",
     "freecodecamp/image1.md",
     "core-java/images/999javaversions.png",
-    "core-java/999javaversions 1.png",
     "999javaversions.md",
     "CSS/freecodecamp/11-column.md",
     "CSS/freecodecamp/12.1-position mini project.md",
     "CSS/freecodecamp/12-position.md",
     "CSS/freecodecamp/10-Floats.md",
-    "CSS/freecodecamp/09-display type.md",
     "freecodecamp",
     "CSS/freecodecamp/image",
     "CSS/freecodecamp",
@@ -212,7 +213,6 @@
     "Project-Reactor/code/udemy/sec12/helper/UserService.java",
     "Project-Reactor/code/udemy/sec12/helper/BookService.java",
     "Project-Reactor/code/udemy/sec12/Lec02CtxRateLimiterDemo.java",
-    "Project-Reactor/code/udemy/sec12/Lec01Ctx.java",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
