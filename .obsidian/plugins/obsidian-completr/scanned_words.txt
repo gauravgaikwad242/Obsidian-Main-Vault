@@ -2759,6 +2759,7 @@ szq
 sdg
 scenario
 sequential
+simultaneously
 rules
 restrictions
 returning

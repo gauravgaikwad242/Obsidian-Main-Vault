@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/13.0 Constructor.md",
+                "file": "Angular-14/form/Custom Validator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/13.0 Constructor.md",
+                "file": "Angular-14/form/Custom Validator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/13.0 Constructor.md",
+                "file": "Angular-14/form/Custom Validator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/13.0 Constructor.md"
+                "file": "Angular-14/form/Custom Validator.md"
               }
             }
           },
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
+    "Angular-14/form/Reactive Form Error Handling.md",
+    "Angular-14/form/Custom Validator.md",
+    "Angular-14/form/Template Form.md",
+    "Angular-14/form/Reactive Form.md",
+    "core-java/13.0 Constructor.md",
+    "Angular-14/form",
+    "Angular-14",
     "rabbitmq/Multi-Instances.md",
     "untitled/Untitled.md",
     "Pasted image 20230806204752.png",
@@ -174,7 +181,6 @@
     "Concurrentmapcache.md",
     "999javaversions.md",
     "images/anatomyofclass.md",
-    "core-java/13.0 Constructor.md",
     "core-java/JAVA-KEYWORDS.md",
     "core-java/10. Main() Method.md",
     "core-java/9.0 Returning a Value from a Java Method.md",
@@ -201,18 +207,12 @@
     "core-java/images/jvmjrejdk.png",
     "core-java/programms/Untitled.canvas",
     "core-java/images/internalarchorjvm.png",
-    "RXJS/CONCAT-MAP.md",
-    "CSS/freecodecamp/13-Flex.md",
-    "www.google.com.md",
-    "freecodecamp/image1.md",
     "core-java/images/999javaversions.png",
     "freecodecamp",
     "CSS/freecodecamp/image",
     "CSS/freecodecamp",
     "CSS",
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
-    "Project-Reactor/code/udemy/sec13",
-    "Project-Reactor/code/udemy/sec12/helper/UserService.java",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
