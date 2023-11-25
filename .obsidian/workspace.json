@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7644ed32391a3d16",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
     "rabbitmq/Multi-Instances.md",
     "untitled/Untitled.md",
