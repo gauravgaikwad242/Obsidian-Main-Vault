@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6432905befe47c",
+        "id": "3d42905dc03318de",
         "type": "tabs",
         "children": [
           {
-            "id": "481584a5ab0bf22f",
+            "id": "7644ed32391a3d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/12.0 Variables.md",
+                "file": "core-java/13.0 Constructor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/12.0 Variables.md",
+                "file": "core-java/13.0 Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/12.0 Variables.md",
+                "file": "core-java/13.0 Constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/12.0 Variables.md"
+                "file": "core-java/13.0 Constructor.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,13 +165,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "7644ed32391a3d16",
   "lastOpenFiles": [
-    "core-java/11.01 Datatypes.pdf",
+    "rabbitmq/Multi-Instances.md",
+    "untitled/Untitled.md",
+    "Pasted image 20230806204752.png",
+    "Pasted image 20230813084603.png",
+    "Pasted.md",
+    "Concurrentmapcache.md",
+    "999javaversions.md",
+    "images/anatomyofclass.md",
+    "core-java/13.0 Constructor.md",
+    "core-java/JAVA-KEYWORDS.md",
     "core-java/10. Main() Method.md",
+    "core-java/9.0 Returning a Value from a Java Method.md",
+    "core-java/12.1- 24-Nov-2023.pdf",
+    "core-java/24-Nov-2023.pdf",
+    "core-java/12.0 Variables.md",
+    "core-java/11.01 Datatypes.pdf",
     "core-java/7.0 Object Class Methods.md",
     "core-java/6.0 Object Class.md",
-    "core-java/12.0 Variables.md",
     "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/11. Datatypes.md",
     "core-java/images/memory1.png",
@@ -179,13 +193,10 @@
     "core-java/4.0 JVM JRE & JDK.md",
     "core-java/2..md",
     "core-java/1. Intro.md",
-    "core-java/9.0 Returning a Value from a Java Method.md",
     "core-java/8.0 Naming Convention & Seperators.md",
     "CSS/freecodecamp/06-typography.md",
     "core-java/images/javamethod.png",
-    "Pasted.md",
     "core-java/images/objectvariable.png",
-    "core-java/JAVA-KEYWORDS.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "core-java/images/javabuzzwords.png",
     "core-java/images/jvmjrejdk.png",
@@ -193,16 +204,9 @@
     "core-java/images/internalarchorjvm.png",
     "RXJS/CONCAT-MAP.md",
     "CSS/freecodecamp/13-Flex.md",
-    "Pasted image 20230813084603.png",
-    "Pasted image 20230806204752.png",
     "www.google.com.md",
     "freecodecamp/image1.md",
     "core-java/images/999javaversions.png",
-    "999javaversions.md",
-    "CSS/freecodecamp/11-column.md",
-    "CSS/freecodecamp/12.1-position mini project.md",
-    "CSS/freecodecamp/12-position.md",
-    "CSS/freecodecamp/10-Floats.md",
     "freecodecamp",
     "CSS/freecodecamp/image",
     "CSS/freecodecamp",
@@ -210,8 +214,6 @@
     "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Project-Reactor/code/udemy/sec13",
     "Project-Reactor/code/udemy/sec12/helper/UserService.java",
-    "Project-Reactor/code/udemy/sec12/helper/BookService.java",
-    "Project-Reactor/code/udemy/sec12/Lec02CtxRateLimiterDemo.java",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
