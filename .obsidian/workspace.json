@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular-14/form/Custom Validator.md",
+                "file": "Angular-14/form/Reactive Form Error Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/form/Custom Validator.md",
+                "file": "Angular-14/form/Reactive Form Error Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/form/Custom Validator.md",
+                "file": "Angular-14/form/Reactive Form Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/form/Custom Validator.md"
+                "file": "Angular-14/form/Reactive Form Error Handling.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "7644ed32391a3d16",
   "lastOpenFiles": [
+    "Angular-14/form/Reactive Form.md",
+    "Angular-14/form/points to remember.md",
     "Angular-14/form/Reactive Form Error Handling.md",
     "Angular-14/form/Custom Validator.md",
     "Angular-14/form/Template Form.md",
-    "Angular-14/form/Reactive Form.md",
     "core-java/13.0 Constructor.md",
     "Angular-14/form",
     "Angular-14",
@@ -202,7 +204,6 @@
     "CSS/freecodecamp/06-typography.md",
     "core-java/images/javamethod.png",
     "core-java/images/objectvariable.png",
-    "CSS/freecodecamp/08-Styling Lists.md",
     "core-java/images/javabuzzwords.png",
     "core-java/images/jvmjrejdk.png",
     "core-java/programms/Untitled.canvas",
