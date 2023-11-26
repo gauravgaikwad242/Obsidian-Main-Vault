@@ -11,11 +11,9 @@
             "id": "7644ed32391a3d16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Angular-14/form/Reactive Form Error Handling.md",
-                "mode": "source",
-                "source": false
+                "file": "springboot/InterviewPrep_SpringBoot (1).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/form/Reactive Form Error Handling.md",
+                "file": "springboot/InterviewPrep_SpringBoot (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/form/Reactive Form Error Handling.md",
+                "file": "springboot/InterviewPrep_SpringBoot (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/form/Reactive Form Error Handling.md"
+                "file": "springboot/InterviewPrep_SpringBoot (1).pdf"
               }
             }
           },
@@ -152,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7644ed32391a3d16",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "Angular-14/form/Reactive Form Error Handling.md",
+    "springboot/InterviewPrep_SpringBoot (1).pdf",
+    "springboot/~$InterviewPrep_SpringBoot (1).pptx",
+    "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form/Reactive Form.md",
     "Angular-14/form/points to remember.md",
-    "Angular-14/form/Reactive Form Error Handling.md",
     "Angular-14/form/Custom Validator.md",
     "Angular-14/form/Template Form.md",
     "core-java/13.0 Constructor.md",
@@ -201,7 +201,6 @@
     "core-java/2..md",
     "core-java/1. Intro.md",
     "core-java/8.0 Naming Convention & Seperators.md",
-    "CSS/freecodecamp/06-typography.md",
     "core-java/images/javamethod.png",
     "core-java/images/objectvariable.png",
     "core-java/images/javabuzzwords.png",
@@ -211,9 +210,6 @@
     "core-java/images/999javaversions.png",
     "freecodecamp",
     "CSS/freecodecamp/image",
-    "CSS/freecodecamp",
-    "CSS",
-    "Project-Reactor/code/udemy/sec13/Lec01Checkpoint.java",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
