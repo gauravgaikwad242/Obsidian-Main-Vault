@@ -3,14 +3,12 @@
 ```ts
 import { FormControl } from "@angular/forms";
 
-export function MyEmailValidator {
+export function MyEmailValidator (inputBox: FormControl) {
 
-  static isValidEmail(inputBox: FormControl) {
     if (inputBox.value !== 'sanjay@gmail.com') {
       return { invalidMail: true }; //The Control is invalid
     }
     return null; //The control is valid
-  }
 
 }
 ```

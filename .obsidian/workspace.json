@@ -11,8 +11,12 @@
             "id": "5a225cfa28c1b645",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "core-java/15.0 Constructor 2.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inheritance",
+                "query": "protecte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "core-java/15.0 Constructor 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "core-java/15.0 Constructor 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "core-java/15.0 Constructor 2.md"
+              }
             }
           },
           {
@@ -144,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a225cfa28c1b645",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/2. History & c vs c++ vs java.md",
+    "Angular-14/form/points to remember.md",
+    "Angular-14/form/Custom Validator.md",
+    "core-java/15.0 Constructor 2.md",
+    "core-java/13.0 Constructor.md",
+    "core-java/12.1-java keywords & Variables.pdf",
+    "core-java/11.01 Datatypes.pdf",
+    "core-java/JAVA-KEYWORDS.md",
+    "core-java/1. Intro.md",
+    "core-java/6.0 Object Class.md",
+    "core-java/7.0 Object Class Methods.md",
     "core-java/10. Main() Method.md",
+    "core-java/2. History & c vs c++ vs java.md",
     "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/7.0 Object Class Methods.md",
-    "core-java/6.0 Object Class.md",
     "core-java/8.0 Naming Convention & Seperators.md",
-    "core-java/1. Intro.md",
-    "core-java/13.0 Constructor.md",
     "DSA/DataStructures/array/insert.md",
     "DSA/DataStructures/array/delete.md",
     "CSS/freecodecamp/13-Flex.md",
@@ -181,20 +194,13 @@
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form/Reactive Form.md",
-    "Angular-14/form/points to remember.md",
-    "Angular-14/form/Custom Validator.md",
     "Angular-14/form/Template Form.md",
     "Angular-14/form",
     "Angular-14",
     "rabbitmq/Multi-Instances.md",
-    "untitled/Untitled.md",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
-    "Pasted.md",
-    "Concurrentmapcache.md",
-    "core-java/12.1- 24-Nov-2023.pdf",
     "core-java/24-Nov-2023.pdf",
-    "core-java/11.01 Datatypes.pdf",
     "core-java/images/memory1.png",
     "core-java/images/maincalled.png",
     "core-java/images/javamethod.png",

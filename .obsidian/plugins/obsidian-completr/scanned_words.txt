@@ -1108,6 +1108,8 @@ ecH
 eqq
 elz
 eZq
+export
+errors
 in
 interface
 interview
@@ -2663,6 +2665,8 @@ cYs
 ciyYi
 cicj
 cEHz
+constructors
+creation
 we
 when
 want
@@ -3397,6 +3401,7 @@ nLQ
 nmC
 ngw
 npX
+nested
 Enum
 Encapsulation
 EntityManager
@@ -4858,6 +4863,7 @@ pKi
 pnb
 pAu
 prL
+providing
 less
 lower
 letter
@@ -6070,6 +6076,7 @@ rUE
 rPr
 rYK
 required
+red
 follow
 for
 from
@@ -6760,6 +6767,7 @@ ghu
 gmail
 gDR
 gAg
+group
 SDLC
 Software
 Super
@@ -7441,6 +7449,7 @@ DMm
 DSMo
 DqMGS
 DWT
+Difference
 Life
 Logic
 Let
@@ -8194,6 +8203,7 @@ Cxo
 CwX
 CnR
 CXE
+CONTROLS
 devops
 default
 data
@@ -8975,6 +8985,7 @@ mjrx
 msv
 mAU
 move
+manually
 ACCESS
 Abstraction
 Angular
@@ -9621,6 +9632,7 @@ Moyz
 MKa
 Mtfo
 MVAIR
+Modifiers
 accessModifiers
 access
 around
@@ -10040,6 +10052,7 @@ abu
 abuO
 amZ
 aaq
+arrays
 NOTE
 Name
 New
@@ -11439,6 +11452,8 @@ OOI
 OESK
 Oupw
 OCD
+Overloading
+Overriding
 Powers
 Polymorphism
 Postgres
@@ -11750,6 +11765,8 @@ PKD
 PbCC
 POu
 PVAB
+Provided
+Possible
 Java
 JPA
 JCA
@@ -12092,6 +12109,7 @@ JLKd
 JDi
 JXB
 JWV
+Just
 Inheritance
 It
 In
