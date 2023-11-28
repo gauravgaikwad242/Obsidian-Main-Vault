@@ -1,6 +1,6 @@
 - to insert at a position
 - to do this we have to move all the elements on right of the position to one place to right 
-|0|1|2|3|4|5|
+
 - i.e. if we have to insert at position 3 ( i.e. index 2) we have to move from 3 to 4 and 4 to 5 and so on
 ```java
 package array;

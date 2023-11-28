@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d42905dc03318de",
+        "id": "06e685682a94924b",
         "type": "tabs",
         "children": [
           {
-            "id": "7644ed32391a3d16",
+            "id": "5a225cfa28c1b645",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "springboot/InterviewPrep_SpringBoot (1).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#accessModifiers",
+                "query": "inheritance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5004425048828
+    "width": 203.5004425048828
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/InterviewPrep_SpringBoot (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/InterviewPrep_SpringBoot (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "springboot/InterviewPrep_SpringBoot (1).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +157,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "Angular-14/form/Reactive Form Error Handling.md",
+    "core-java/2. History & c vs c++ vs java.md",
+    "core-java/10. Main() Method.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "core-java/4.0 JVM JRE & JDK.md",
+    "core-java/7.0 Object Class Methods.md",
+    "core-java/6.0 Object Class.md",
+    "core-java/8.0 Naming Convention & Seperators.md",
+    "core-java/1. Intro.md",
+    "core-java/13.0 Constructor.md",
+    "DSA/DataStructures/array/insert.md",
+    "DSA/DataStructures/array/delete.md",
+    "CSS/freecodecamp/13-Flex.md",
+    "core-java/11. Datatypes.md",
+    "CSS/freecodecamp/09-display type.md",
+    "CSS/freecodecamp/08-Styling Lists.md",
+    "CSS/freecodecamp/07-Styling Links.md",
+    "CSS/freecodecamp/06-typography.md",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
+    "Angular-14/form/Reactive Form Error Handling.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form/Reactive Form.md",
     "Angular-14/form/points to remember.md",
     "Angular-14/form/Custom Validator.md",
     "Angular-14/form/Template Form.md",
-    "core-java/13.0 Constructor.md",
     "Angular-14/form",
     "Angular-14",
     "rabbitmq/Multi-Instances.md",
@@ -181,26 +192,11 @@
     "Pasted image 20230813084603.png",
     "Pasted.md",
     "Concurrentmapcache.md",
-    "999javaversions.md",
-    "images/anatomyofclass.md",
-    "core-java/JAVA-KEYWORDS.md",
-    "core-java/10. Main() Method.md",
-    "core-java/9.0 Returning a Value from a Java Method.md",
     "core-java/12.1- 24-Nov-2023.pdf",
     "core-java/24-Nov-2023.pdf",
-    "core-java/12.0 Variables.md",
     "core-java/11.01 Datatypes.pdf",
-    "core-java/7.0 Object Class Methods.md",
-    "core-java/6.0 Object Class.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/11. Datatypes.md",
     "core-java/images/memory1.png",
     "core-java/images/maincalled.png",
-    "core-java/5.0 Class.md",
-    "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/2..md",
-    "core-java/1. Intro.md",
-    "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/images/javamethod.png",
     "core-java/images/objectvariable.png",
     "core-java/images/javabuzzwords.png",
