@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
     "Angular-14/form/points to remember.md",
     "Angular-14/form/Custom Validator.md",
