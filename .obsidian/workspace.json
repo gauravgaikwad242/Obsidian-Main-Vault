@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/15.0 Constructor 2.md",
-                "mode": "preview",
+                "file": "core-java/16.0 Constructor 3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5004425048828
+    "width": 235.5004425048828
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/15.0 Constructor 2.md",
+                "file": "core-java/16.0 Constructor 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/15.0 Constructor 2.md",
+                "file": "core-java/16.0 Constructor 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/15.0 Constructor 2.md"
+                "file": "core-java/16.0 Constructor 3.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
+    "core-java/12.0 Variables.md",
+    "core-java/15.0 Constructor 2.md",
+    "core-java/16.0 Constructor 3.md",
+    "core-java/15.1- constructor.pdf",
+    "core-java/28-Nov-2023.pdf",
     "Angular-14/form/points to remember.md",
     "Angular-14/form/Custom Validator.md",
-    "core-java/15.0 Constructor 2.md",
     "core-java/13.0 Constructor.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
@@ -198,7 +201,6 @@
     "Angular-14/form/Template Form.md",
     "Angular-14/form",
     "Angular-14",
-    "rabbitmq/Multi-Instances.md",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
     "core-java/24-Nov-2023.pdf",
@@ -211,8 +213,6 @@
     "core-java/programms/Untitled.canvas",
     "core-java/images/internalarchorjvm.png",
     "core-java/images/999javaversions.png",
-    "freecodecamp",
-    "CSS/freecodecamp/image",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
