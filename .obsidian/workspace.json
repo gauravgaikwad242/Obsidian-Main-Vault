@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/16.0 Constructor 3.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/16.0 Constructor 3.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/16.0 Constructor 3.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/16.0 Constructor 3.md"
+                "file": "core-java/17.0 Operators-Increment & Decrement.md"
               }
             }
           },
@@ -165,12 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "core-java/12.0 Variables.md",
     "core-java/15.0 Constructor 2.md",
-    "core-java/16.0 Constructor 3.md",
+    "core-java/17.0 Operators-Increment & Decrement.md",
     "core-java/15.1- constructor.pdf",
+    "core-java/16.0 Constructor 3.md",
+    "springboot/InterviewPrep_SpringBoot (1).pdf",
+    "core-java/12.0 Variables.md",
     "core-java/28-Nov-2023.pdf",
     "Angular-14/form/points to remember.md",
     "Angular-14/form/Custom Validator.md",
@@ -194,12 +196,10 @@
     "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/07-Styling Links.md",
     "CSS/freecodecamp/06-typography.md",
-    "springboot/InterviewPrep_SpringBoot (1).pdf",
     "Angular-14/form/Reactive Form Error Handling.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form/Reactive Form.md",
-    "Angular-14/form/Template Form.md",
     "Angular-14/form",
     "Angular-14",
     "Pasted image 20230806204752.png",
