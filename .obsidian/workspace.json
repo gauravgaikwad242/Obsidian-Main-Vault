@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/17.0 Operators-Increment & Decrement.md",
+                "file": "core-java/18.0 incr and decr operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/17.0 Operators-Increment & Decrement.md",
+                "file": "core-java/18.0 incr and decr operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/17.0 Operators-Increment & Decrement.md",
+                "file": "core-java/18.0 incr and decr operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/17.0 Operators-Increment & Decrement.md"
+                "file": "core-java/18.0 incr and decr operator.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,9 @@
   },
   "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "core-java/15.0 Constructor 2.md",
     "core-java/17.0 Operators-Increment & Decrement.md",
+    "core-java/18.0 incr and decr operator.md",
+    "core-java/15.0 Constructor 2.md",
     "core-java/15.1- constructor.pdf",
     "core-java/16.0 Constructor 3.md",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
@@ -199,7 +199,6 @@
     "Angular-14/form/Reactive Form Error Handling.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
-    "Angular-14/form/Reactive Form.md",
     "Angular-14/form",
     "Angular-14",
     "Pasted image 20230806204752.png",
