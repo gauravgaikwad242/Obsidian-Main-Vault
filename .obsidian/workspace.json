@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/18.0 incr and decr operator.md",
+                "file": "core-java/20 - logical operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5004425048828
+    "width": 235.5004425048828,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/18.0 incr and decr operator.md",
+                "file": "core-java/20 - logical operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/18.0 incr and decr operator.md",
+                "file": "core-java/20 - logical operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/18.0 incr and decr operator.md"
+                "file": "core-java/20 - logical operator.md"
               }
             }
           },
@@ -166,8 +167,10 @@
   },
   "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "core-java/17.0 Operators-Increment & Decrement.md",
+    "core-java/12.1-java keywords & Variables.pdf",
+    "core-java/20 - logical operator.md",
     "core-java/18.0 incr and decr operator.md",
+    "core-java/17.0 Operators-Increment & Decrement.md",
     "core-java/15.0 Constructor 2.md",
     "core-java/15.1- constructor.pdf",
     "core-java/16.0 Constructor 3.md",
@@ -177,7 +180,6 @@
     "Angular-14/form/points to remember.md",
     "Angular-14/form/Custom Validator.md",
     "core-java/13.0 Constructor.md",
-    "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
     "core-java/JAVA-KEYWORDS.md",
     "core-java/1. Intro.md",
@@ -195,8 +197,6 @@
     "CSS/freecodecamp/09-display type.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/07-Styling Links.md",
-    "CSS/freecodecamp/06-typography.md",
-    "Angular-14/form/Reactive Form Error Handling.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form",
