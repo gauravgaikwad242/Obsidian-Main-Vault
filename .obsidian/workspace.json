@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/table/TABLE_LIFECYCLE.md",
+                "file": "core-java/21.0 Static Keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres/table/TABLE_LIFECYCLE.md",
+                "file": "core-java/21.0 Static Keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres/table/TABLE_LIFECYCLE.md",
+                "file": "core-java/21.0 Static Keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgres/table/TABLE_LIFECYCLE.md"
+                "file": "core-java/21.0 Static Keyword.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +167,10 @@
   "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
     "postgres/table/_Table.md",
+    "postgres/table/TABLE_LIFECYCLE.md",
+    "postgres/DATATYPE/DATATYPES.md",
+    "postgres/KEYWORDS/BIGSERIAL.md",
+    "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "core-java/21.0 Static Keyword.md",
     "core-java/16.0 Constructor 3.md",
     "core-java/20 - logical operator.md",
@@ -194,10 +197,6 @@
     "core-java/8.0 Naming Convention & Seperators.md",
     "DSA/DataStructures/array/insert.md",
     "DSA/DataStructures/array/delete.md",
-    "CSS/freecodecamp/13-Flex.md",
-    "core-java/11. Datatypes.md",
-    "CSS/freecodecamp/09-display type.md",
-    "CSS/freecodecamp/08-Styling Lists.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form",

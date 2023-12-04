@@ -712,6 +712,7 @@ FTHnW
 FRi
 FPgc
 FÖ
+FOR
 elements
 enum
 else
@@ -7552,6 +7553,8 @@ DyD
 Dyx
 Dig
 DPJ
+DATATYPE
+DATA
 Life
 Logic
 Let
@@ -8318,6 +8321,7 @@ CHO
 Cjq
 CKhQ
 CaH
+CREATION
 devops
 default
 data
@@ -9447,6 +9451,7 @@ AmxV
 AoE
 AsG
 AZku
+AUTO
 MODIFIERS
 My
 Material
@@ -9777,6 +9782,7 @@ MPLu
 MXP
 MKk
 Mik
+MENSION
 accessModifiers
 access
 around
@@ -10562,6 +10568,7 @@ Nmt
 NVL
 Nrsi
 Nzb
+NEED
 has
 have
 hiding
@@ -12619,6 +12626,8 @@ IvV
 IqZ
 IRX
 IoI
+INCREMENT
+INSERTING
 be
 byte
 boolean
@@ -16404,6 +16413,7 @@ WMW
 WwM
 Wcz
 Wqv
+WHILE
 Generated
 Go
 Gv
