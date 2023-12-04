@@ -1513,6 +1513,7 @@ iUA
 iFV
 itV
 ignl
+initialized
 java
 javascript
 jc
@@ -2697,6 +2698,7 @@ cEx
 ccmei
 cOJ
 cbi
+changed
 we
 when
 want
@@ -4164,6 +4166,7 @@ uLa
 uzp
 uVx
 uTQh
+updated
 our
 of
 or
@@ -5285,6 +5288,7 @@ lPH
 loC
 loiY
 luWJ
+logical
 syntax
 set
 security
@@ -6157,6 +6161,7 @@ rmH
 rSe
 rtF
 rfnI
+reflected
 follow
 for
 from
@@ -9107,6 +9112,7 @@ manually
 mJn
 mKZ
 maG
+management
 ACCESS
 Abstraction
 Angular

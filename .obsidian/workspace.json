@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "postgres/table/TABLE_LIFECYCLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5004425048828,
-    "collapsed": true
+    "width": 235.5004425048828
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "postgres/table/TABLE_LIFECYCLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "postgres/table/TABLE_LIFECYCLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/20 - logical operator.md"
+                "file": "postgres/table/TABLE_LIFECYCLE.md"
               }
             }
           },
@@ -153,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,13 +167,15 @@
   },
   "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "core-java/12.1-java keywords & Variables.pdf",
+    "postgres/table/_Table.md",
+    "core-java/21.0 Static Keyword.md",
+    "core-java/16.0 Constructor 3.md",
     "core-java/20 - logical operator.md",
+    "core-java/12.1-java keywords & Variables.pdf",
     "core-java/18.0 incr and decr operator.md",
     "core-java/17.0 Operators-Increment & Decrement.md",
     "core-java/15.0 Constructor 2.md",
     "core-java/15.1- constructor.pdf",
-    "core-java/16.0 Constructor 3.md",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
     "core-java/12.0 Variables.md",
     "core-java/28-Nov-2023.pdf",
@@ -196,7 +198,6 @@
     "core-java/11. Datatypes.md",
     "CSS/freecodecamp/09-display type.md",
     "CSS/freecodecamp/08-Styling Lists.md",
-    "CSS/freecodecamp/07-Styling Links.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form",
