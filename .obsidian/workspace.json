@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/21.0 Static Keyword.md",
+                "file": "core-java/22.0 static block.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/21.0 Static Keyword.md",
+                "file": "core-java/22.0 static block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/21.0 Static Keyword.md",
+                "file": "core-java/22.0 static block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/21.0 Static Keyword.md"
+                "file": "core-java/22.0 static block.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +167,14 @@
   },
   "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
+    "core-java/21.0 Static Keyword.md",
+    "core-java/22.0 static block.md",
+    "RXJS/_decision tree link.md",
     "postgres/table/_Table.md",
     "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/DATATYPE/DATATYPES.md",
     "postgres/KEYWORDS/BIGSERIAL.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "core-java/21.0 Static Keyword.md",
     "core-java/16.0 Constructor 3.md",
     "core-java/20 - logical operator.md",
     "core-java/12.1-java keywords & Variables.pdf",
@@ -195,8 +198,6 @@
     "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/4.0 JVM JRE & JDK.md",
     "core-java/8.0 Naming Convention & Seperators.md",
-    "DSA/DataStructures/array/insert.md",
-    "DSA/DataStructures/array/delete.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
     "Angular-14/form",
