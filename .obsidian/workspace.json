@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a225cfa28c1b645",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
     "core-java/21.0 Static Keyword.md",
     "core-java/22.0 static block.md",
