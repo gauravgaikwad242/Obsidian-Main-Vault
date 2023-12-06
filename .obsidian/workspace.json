@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/22.0 static block.md",
+                "file": "core-java/23.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/22.0 static block.md",
+                "file": "core-java/23.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/22.0 static block.md",
+                "file": "core-java/23.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/22.0 static block.md"
+                "file": "core-java/23.0.md"
               }
             }
           },
@@ -164,10 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "5a225cfa28c1b645",
   "lastOpenFiles": [
-    "core-java/21.0 Static Keyword.md",
+    "Angular-14/questions/Unconfirmed 569454.crdownload",
+    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
+    "Angular-14/questions",
+    "Angular-14/New folder",
     "core-java/22.0 static block.md",
+    "core-java/23.0.md",
+    "core-java/21.0 Static Keyword.md",
     "RXJS/_decision tree link.md",
     "postgres/table/_Table.md",
     "postgres/table/TABLE_LIFECYCLE.md",
@@ -195,15 +200,10 @@
     "core-java/10. Main() Method.md",
     "core-java/2. History & c vs c++ vs java.md",
     "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/8.0 Naming Convention & Seperators.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "springboot/InterviewPrep_SpringBoot (1).pptx",
-    "Angular-14/form",
-    "Angular-14",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
-    "core-java/24-Nov-2023.pdf",
     "core-java/images/memory1.png",
     "core-java/images/maincalled.png",
     "core-java/images/javamethod.png",
