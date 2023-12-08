@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44d5e0f504b9ebe6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "Angular-14/questions/100 Angular interview Q&A.pdf",
+    "core-java/images/img1.png",
     "core-java/24.0 Type casting.md",
     "core-java/25. Wrapper Classes.md",
     "core-java/23.0.md",
@@ -201,7 +202,6 @@
     "core-java/6.0 Object Class.md",
     "core-java/7.0 Object Class Methods.md",
     "core-java/10. Main() Method.md",
-    "core-java/2. History & c vs c++ vs java.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
@@ -213,7 +213,6 @@
     "core-java/images/jvmjrejdk.png",
     "core-java/programms/Untitled.canvas",
     "core-java/images/internalarchorjvm.png",
-    "core-java/images/999javaversions.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
