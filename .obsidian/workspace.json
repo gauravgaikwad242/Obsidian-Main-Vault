@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/24.0 Type casting.md",
+                "file": "core-java/25. Wrapper Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/24.0 Type casting.md",
+                "file": "core-java/25. Wrapper Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/24.0 Type casting.md",
+                "file": "core-java/25. Wrapper Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/24.0 Type casting.md"
+                "file": "core-java/25. Wrapper Classes.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +167,9 @@
   },
   "active": "44d5e0f504b9ebe6",
   "lastOpenFiles": [
-    "core-java/23.0.md",
     "core-java/24.0 Type casting.md",
+    "core-java/25. Wrapper Classes.md",
+    "core-java/23.0.md",
     "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "Angular-14/questions/Unconfirmed 569454.crdownload",
     "Angular-14/questions",
@@ -200,7 +202,6 @@
     "core-java/7.0 Object Class Methods.md",
     "core-java/10. Main() Method.md",
     "core-java/2. History & c vs c++ vs java.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
     "springboot/~$InterviewPrep_SpringBoot (1).pptx",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",

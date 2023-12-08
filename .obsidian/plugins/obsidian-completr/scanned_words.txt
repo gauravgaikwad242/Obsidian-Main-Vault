@@ -402,6 +402,8 @@ TxR
 TimesNewRomanPSMT
 TSQ
 TCL
+TypeCasting
+Typecasting
 Fundamental
 For
 First
@@ -1704,6 +1706,7 @@ idVm
 irI
 iGI
 iIh
+implicit
 java
 javascript
 jc
@@ -2534,6 +2537,7 @@ tDgm
 tSd
 twB
 tRe
+typecasting
 code
 class
 constants
@@ -3042,6 +3046,7 @@ cOOu
 cTF
 ccccccccccccccccccccccccccccccccccccccccccccg
 clr
+chance
 we
 when
 want
@@ -3867,6 +3872,7 @@ nTs
 nYöx
 node
 niFO
+narrowing
 Enum
 Encapsulation
 EntityManager
@@ -4280,6 +4286,7 @@ EUt
 Ege
 EbKW
 ElPsF
+Explicit
 use
 universal
 used
@@ -5525,6 +5532,7 @@ pUM
 piL
 pdzV
 paUj
+process
 less
 lower
 letter
@@ -5923,6 +5931,8 @@ ldNx
 lttt
 ljx
 lRaC
+lost
+loss
 syntax
 set
 security
@@ -6869,6 +6879,7 @@ rED
 rusM
 rcwU
 roa
+result
 follow
 for
 from
@@ -8085,6 +8096,7 @@ SxC
 Spw
 SegoeUI
 SXr
+Smaller
 Developement
 Data
 DataSource
@@ -8893,6 +8905,7 @@ LBl
 LfW
 LuQ
 LaX
+Larger
 Cycle
 CONCEPTS
 CLASS
@@ -9333,6 +9346,7 @@ ColSpan
 CgY
 CBC
 CAAAAA
+Casting
 devops
 default
 data
@@ -9777,6 +9791,7 @@ dLCW
 daNL
 dez
 dyY
+datatype
 make
 more
 method
@@ -10225,6 +10240,7 @@ mulS
 mü
 mSW
 maS
+minimumRange
 ACCESS
 Abstraction
 Angular
@@ -10995,6 +11011,8 @@ MqZ
 MdA
 Mqg
 Mqe
+MAY
+MaximumRange
 accessModifiers
 access
 around
@@ -14206,6 +14224,7 @@ Interview
 IDTree
 IYq
 IMK
+Implicit
 be
 byte
 boolean
@@ -18535,6 +18554,7 @@ Wjr
 WpLC
 WYT
 Wlo
+Widening
 Generated
 Go
 Gv
