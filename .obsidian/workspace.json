@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/26. Wrapper Class.md",
+                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0bbdb5e83fda105b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/26. Wrapper Class.md",
+                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/26. Wrapper Class.md",
+                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/26. Wrapper Class.md"
+                "file": "RXJS/BehaviourSubject/ReplaySubject.md"
               }
             }
           },
@@ -152,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +177,23 @@
   },
   "active": "155d2ac00ca98c5e",
   "lastOpenFiles": [
-    "core-java/24.0 Type casting.md",
+    "RXJS/BehaviourSubject/AsyncSubject.md",
+    "RXJS/BehaviourSubject/BehaviourSubject.md",
+    "RXJS/BehaviourSubject/PlainSubject.md",
+    "HTML/tags.md",
+    "HTML/Entities.md",
+    "Angular-14/questions/links.md",
+    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
+    "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/26. Wrapper Class.md",
+    "core-java/24.0 Type casting.md",
     "core-java/images/img2.png",
     "core-java/images/Pasted image 20231209074229.png",
     "core-java/25. Wrapper Classes.md",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
     "core-java/JAVA-KEYWORDS.md",
-    "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/images/img1.png",
     "core-java/23.0.md",
-    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "Angular-14/questions/Unconfirmed 569454.crdownload",
     "Angular-14/questions",
     "Angular-14/New folder",
@@ -198,12 +215,7 @@
     "core-java/12.0 Variables.md",
     "core-java/28-Nov-2023.pdf",
     "Angular-14/form/points to remember.md",
-    "Angular-14/form/Custom Validator.md",
-    "core-java/13.0 Constructor.md",
     "core-java/11.01 Datatypes.pdf",
-    "core-java/1. Intro.md",
-    "core-java/6.0 Object Class.md",
-    "core-java/7.0 Object Class Methods.md",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
     "core-java/images/memory1.png",
