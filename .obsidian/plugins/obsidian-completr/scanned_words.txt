@@ -460,6 +460,7 @@ TTG
 Tzr
 Tyt
 Tyx
+Topic
 Fundamental
 For
 First
@@ -917,6 +918,7 @@ FEEa
 FontMatrix
 FuA
 FiZ
+Fanout
 elements
 enum
 else
@@ -1416,6 +1418,10 @@ eED
 efi
 ejc
 emmitted
+exchange
+exchanges
+execute
+enable
 in
 interface
 interview
@@ -1896,6 +1902,7 @@ ial
 iTI
 iaX
 ifJ
+implementing
 java
 javascript
 jc
@@ -2814,6 +2821,7 @@ tUuG
 tbO
 tQC
 truely
+topic
 code
 class
 constants
@@ -3369,6 +3377,8 @@ cQl
 cQs
 complete
 cached
+consumers
+common
 we
 when
 want
@@ -3846,6 +3856,7 @@ wUWW
 wDQ
 wEQ
 wCGuEc
+wildcards
 need
 necessary
 never
@@ -4743,6 +4754,7 @@ ECx
 EOJ
 EOc
 EwT
+Exchange
 use
 universal
 used
@@ -5190,6 +5202,7 @@ uSL
 ugZ
 ugP
 uec
+upon
 our
 of
 or
@@ -5683,6 +5696,7 @@ oeeR
 oyT
 oRr
 ocv
+offers
 project
 public
 private
@@ -6165,6 +6179,9 @@ pzz
 pJe
 plh
 published
+patterns
+pairs
+programs
 less
 lower
 letter
@@ -6604,6 +6621,7 @@ lYPl
 lXw
 lfX
 lcB
+looping
 syntax
 set
 security
@@ -7159,6 +7177,12 @@ sFL
 subscribed
 subscribing
 subscriber
+sent
+selectively
+simplest
+suitable
+scenarios
+subtracts
 rules
 restrictions
 returning
@@ -7631,6 +7655,12 @@ rXh
 rag
 rRy
 rqh
+routing
+receive
+route
+routed
+regardless
+runtime
 follow
 for
 from
@@ -8115,6 +8145,8 @@ fJO
 fKP
 fHR
 fuX
+flexible
+fanout
 get
 gap
 general
@@ -9003,6 +9035,9 @@ SLrZ
 SPy
 SOP
 SpQ
+Selection
+Statement
+Statements
 Developement
 Data
 DataSource
@@ -9449,6 +9484,10 @@ Diz
 DPL
 DOR
 DSPE
+Direct
+Docket
+Database
+Decrement
 Life
 Logic
 Let
@@ -9912,6 +9951,7 @@ Luv
 LAJ
 Lqf
 LfU
+Logical
 Cycle
 CONCEPTS
 CLASS
@@ -10408,6 +10448,7 @@ CQK
 CpU
 CRZ
 Cqg
+Control
 devops
 default
 data
@@ -10896,6 +10937,13 @@ diiI
 dYW
 dip
 dSQ
+direct
+delivers
+determine
+delivered
+dynamic
+decision
+decrement
 make
 more
 method
@@ -11400,6 +11448,10 @@ mMX
 mLkF
 mJQ
 missed
+messages
+matches
+matching
+matched
 ACCESS
 Abstraction
 Angular
@@ -11825,6 +11877,7 @@ AtZ
 AJFq
 AJCr
 AZR
+Arithmetic
 MODIFIERS
 My
 Material
@@ -12255,6 +12308,7 @@ MCID
 Mxl
 MXAS
 Muc
+Messages
 accessModifiers
 access
 around
@@ -12769,6 +12823,8 @@ ajRq
 aiL
 apos
 apostrophy
+advanced
+against
 NOTE
 Name
 New
@@ -13754,6 +13810,7 @@ hCt
 heh
 hSCKk
 hot
+headers
 keyword
 keywork
 kafka
@@ -14169,6 +14226,7 @@ kgq
 ksT
 kpp
 kiR
+keys
 OOPS
 OBJECT
 Object
@@ -14619,6 +14677,7 @@ Owo
 OQIK
 OOs
 OIE
+Operators
 Powers
 Polymorphism
 Postgres
@@ -15022,6 +15081,7 @@ PYX
 Pas
 PbC
 PvM
+Post
 Java
 JPA
 JCA
@@ -15469,6 +15529,7 @@ JJw
 JKJUx
 JNs
 JEw
+Jump
 Inheritance
 It
 In
@@ -15889,6 +15950,9 @@ IvYZ
 IXn
 IsB
 Ixiix
+Instead
+Iteration
+Increment
 be
 byte
 boolean
@@ -16363,6 +16427,10 @@ bAk
 bTFK
 bCz
 bXfe
+bound
+binding
+broadcasts
+branching
 Business
 By
 Boot
@@ -17251,6 +17319,7 @@ Rä
 RyO
 RIP
 Rza
+Relational
 value
 void
 vanilla
@@ -18124,6 +18193,8 @@ qgv
 qkp
 qlv
 qPT
+queues
+queue
 How
 Here
 Hystrix
@@ -18555,6 +18626,7 @@ HRO
 HZX
 HRpZ
 HmAo
+Headers
 you
 your
 yQsf
@@ -20760,6 +20832,7 @@ WLqG
 WPd
 WoX
 WQBh
+Wildcards
 Generated
 Go
 Gv

@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6439aa4aaaee60a5",
+        "id": "b26d3b82ff2d98af",
         "type": "tabs",
         "children": [
           {
-            "id": "155d2ac00ca98c5e",
+            "id": "c9dbd4cee7edcb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0bbdb5e83fda105b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+                "file": "core-java/17.0 Operators-Increment & Decrement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/BehaviourSubject/ReplaySubject.md"
+                "file": "core-java/17.0 Operators-Increment & Decrement.md"
               }
             }
           },
@@ -175,22 +165,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155d2ac00ca98c5e",
+  "active": "c9dbd4cee7edcb35",
   "lastOpenFiles": [
+    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
+    "core-java/7.0 Object Class Methods.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "springboot/_Spring Boot.md",
+    "springboot/@RestControllerAdvice.md",
+    "springboot/InterviewPrep_SpringBoot (1).pdf",
+    "springboot/Spring Boot.md",
+    "springboot/swagger/Intro.md",
+    "springboot/jpa/MapsId.md",
+    "springboot/jpa/Attribute-converter.md",
+    "core-java/27.0 Control Statements.md",
+    "rabbitmq/Exchanges.md",
+    "core-java/26. Wrapper Class.md",
+    "RXJS/BehaviourSubject/ReplaySubject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/PlainSubject.md",
     "HTML/tags.md",
     "HTML/Entities.md",
     "Angular-14/questions/links.md",
-    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
-    "core-java/26. Wrapper Class.md",
     "core-java/24.0 Type casting.md",
     "core-java/images/img2.png",
     "core-java/images/Pasted image 20231209074229.png",
     "core-java/25. Wrapper Classes.md",
-    "springboot/InterviewPrep_SpringBoot (1).pdf",
     "core-java/JAVA-KEYWORDS.md",
     "core-java/images/img1.png",
     "core-java/23.0.md",
@@ -200,21 +201,9 @@
     "core-java/22.0 static block.md",
     "core-java/21.0 Static Keyword.md",
     "RXJS/_decision tree link.md",
-    "postgres/table/_Table.md",
-    "postgres/table/TABLE_LIFECYCLE.md",
-    "postgres/DATATYPE/DATATYPES.md",
-    "postgres/KEYWORDS/BIGSERIAL.md",
-    "postgres/table/TABLE WITH CONTSTRAINTS.md",
-    "core-java/16.0 Constructor 3.md",
-    "core-java/20 - logical operator.md",
     "core-java/12.1-java keywords & Variables.pdf",
-    "core-java/18.0 incr and decr operator.md",
-    "core-java/17.0 Operators-Increment & Decrement.md",
-    "core-java/15.0 Constructor 2.md",
     "core-java/15.1- constructor.pdf",
-    "core-java/12.0 Variables.md",
     "core-java/28-Nov-2023.pdf",
-    "Angular-14/form/points to remember.md",
     "core-java/11.01 Datatypes.pdf",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
