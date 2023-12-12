@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/27.0 Control Statements.md",
+                "file": "core-java/20 - logical operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/27.0 Control Statements.md",
+                "file": "core-java/20 - logical operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/27.0 Control Statements.md",
+                "file": "core-java/20 - logical operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/27.0 Control Statements.md"
+                "file": "core-java/20 - logical operator.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "c9dbd4cee7edcb35",
   "lastOpenFiles": [
+    "core-java/15.1- constructor.pdf",
+    "core-java/12.1-java keywords & Variables.pdf",
+    "core-java/11.01 Datatypes.pdf",
+    "core-java/27.0 Control Statements.md",
     "core-java/17.0 Operators-Increment & Decrement.md",
     "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "core-java/7.0 Object Class Methods.md",
@@ -177,7 +182,6 @@
     "springboot/swagger/Intro.md",
     "springboot/jpa/MapsId.md",
     "springboot/jpa/Attribute-converter.md",
-    "core-java/27.0 Control Statements.md",
     "rabbitmq/Exchanges.md",
     "core-java/26. Wrapper Class.md",
     "RXJS/BehaviourSubject/ReplaySubject.md",
@@ -200,11 +204,7 @@
     "Angular-14/New folder",
     "core-java/22.0 static block.md",
     "core-java/21.0 Static Keyword.md",
-    "RXJS/_decision tree link.md",
-    "core-java/12.1-java keywords & Variables.pdf",
-    "core-java/15.1- constructor.pdf",
     "core-java/28-Nov-2023.pdf",
-    "core-java/11.01 Datatypes.pdf",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
     "core-java/images/memory1.png",
