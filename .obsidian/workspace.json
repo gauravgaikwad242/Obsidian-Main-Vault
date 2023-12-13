@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b26d3b82ff2d98af",
+        "id": "7cde032b4d1c49e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c9dbd4cee7edcb35",
+            "id": "565e9981b7f7db6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "core-java/28.0 switch case.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "core-java/28.0 switch case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/20 - logical operator.md",
+                "file": "core-java/28.0 switch case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/20 - logical operator.md"
+                "file": "core-java/28.0 switch case.md"
               }
             }
           },
@@ -165,8 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9dbd4cee7edcb35",
+  "active": "565e9981b7f7db6b",
   "lastOpenFiles": [
+    "core-java/images/img3.png",
+    "core-java/28.0 switch case.md",
+    "Angular-14/ngrx/5.0 Effect.md",
+    "Angular-14/ngrx/4.0 raw function.md",
+    "Angular-14/ngrx/3.0 Built In function approach.md",
+    "Angular-14/ngrx/2.0 setup.md",
+    "Angular-14/ngrx/1.0 NgRx.md",
+    "Angular-14/curious.md",
+    "Angular-14/ngrx/I/abc1.png",
+    "Angular-14/ngrx/I",
+    "core-java/20 - logical operator.md",
+    "Angular-14/ngrx",
     "core-java/15.1- constructor.pdf",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
@@ -189,29 +201,17 @@
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/PlainSubject.md",
     "HTML/tags.md",
-    "HTML/Entities.md",
-    "Angular-14/questions/links.md",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
-    "core-java/24.0 Type casting.md",
     "core-java/images/img2.png",
     "core-java/images/Pasted image 20231209074229.png",
-    "core-java/25. Wrapper Classes.md",
-    "core-java/JAVA-KEYWORDS.md",
     "core-java/images/img1.png",
-    "core-java/23.0.md",
     "Angular-14/questions/Unconfirmed 569454.crdownload",
     "Angular-14/questions",
-    "Angular-14/New folder",
-    "core-java/22.0 static block.md",
-    "core-java/21.0 Static Keyword.md",
-    "core-java/28-Nov-2023.pdf",
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
     "core-java/images/memory1.png",
     "core-java/images/maincalled.png",
     "core-java/images/javamethod.png",
-    "core-java/images/objectvariable.png",
-    "core-java/images/javabuzzwords.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -1,0 +1,1 @@
+what is standalone: true in @component directive?
