@@ -11,11 +11,10 @@
             "id": "565e9981b7f7db6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "core-java/28.0 switch case.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/28.0 switch case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/28.0 switch case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "core-java/28.0 switch case.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +161,8 @@
   },
   "active": "565e9981b7f7db6b",
   "lastOpenFiles": [
-    "core-java/images/img3.png",
     "core-java/28.0 switch case.md",
+    "core-java/images/img3.png",
     "Angular-14/ngrx/5.0 Effect.md",
     "Angular-14/ngrx/4.0 raw function.md",
     "Angular-14/ngrx/3.0 Built In function approach.md",
