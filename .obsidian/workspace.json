@@ -11,10 +11,11 @@
             "id": "565e9981b7f7db6b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "core-java/28.0 switch case.md",
-                "staged": false
+                "file": "core-java/29.0 Iteration Statement.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "core-java/29.0 Iteration Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "core-java/29.0 Iteration Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "core-java/29.0 Iteration Statement.md"
+              }
             }
           },
           {
@@ -147,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,6 +168,7 @@
   "active": "565e9981b7f7db6b",
   "lastOpenFiles": [
     "core-java/28.0 switch case.md",
+    "core-java/29.0 Iteration Statement.md",
     "core-java/images/img3.png",
     "Angular-14/ngrx/5.0 Effect.md",
     "Angular-14/ngrx/4.0 raw function.md",
