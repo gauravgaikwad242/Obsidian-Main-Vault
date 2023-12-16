@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/30.0 Understanding for loop.md",
+                "file": "core-java/31.0 for each loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/30.0 Understanding for loop.md",
+                "file": "core-java/31.0 for each loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/30.0 Understanding for loop.md",
+                "file": "core-java/31.0 for each loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/30.0 Understanding for loop.md"
+                "file": "core-java/31.0 for each loop.md"
               }
             }
           },
@@ -167,11 +167,12 @@
   },
   "active": "d70888126c098532",
   "lastOpenFiles": [
+    "core-java/30.0 Understanding for loop.md",
+    "core-java/31.0 for each loop.md",
     "core-java/11. Datatypes.md",
     "Angular-14/questions/links.md",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/question/spring-interview-questions.pdf",
-    "core-java/30.0 Understanding for loop.md",
     "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/29.0 Iteration Statement.md",
     "core-java/28.0 switch case.md",

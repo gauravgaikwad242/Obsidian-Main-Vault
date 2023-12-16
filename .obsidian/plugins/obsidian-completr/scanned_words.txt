@@ -2657,6 +2657,7 @@ iUi
 icc
 iqT
 iRmu
+impact
 java
 javascript
 jc
@@ -4707,6 +4708,7 @@ cmn
 coE
 cuX
 cAF
+consists
 we
 when
 want
@@ -5368,6 +5370,7 @@ wkf
 waa
 wFo
 wobiÖ
+wise
 need
 necessary
 never
@@ -8594,6 +8597,7 @@ paA
 pppxxx
 pebjBo
 pHB
+pre
 less
 lower
 letter
@@ -9994,6 +9998,7 @@ sts
 sotl
 sHpC
 sssa
+semicolons
 rules
 restrictions
 returning
@@ -22215,6 +22220,7 @@ IEb
 IST
 ILFKK
 IWjFBo
+Initialize
 be
 byte
 boolean
