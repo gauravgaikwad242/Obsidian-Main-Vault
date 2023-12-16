@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/31.0 for each loop.md",
+                "file": "core-java/31.1 Jump statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/31.0 for each loop.md",
+                "file": "core-java/31.1 Jump statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/31.0 for each loop.md",
+                "file": "core-java/31.1 Jump statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/31.0 for each loop.md"
+                "file": "core-java/31.1 Jump statements.md"
               }
             }
           },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70888126c098532",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/30.0 Understanding for loop.md",
     "core-java/31.0 for each loop.md",
+    "core-java/31.1 Jump statements.md",
+    "core-java/30.0 Understanding for loop.md",
     "core-java/11. Datatypes.md",
     "Angular-14/questions/links.md",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
@@ -203,7 +203,6 @@
     "springboot/jpa/MapsId.md",
     "springboot/jpa/Attribute-converter.md",
     "rabbitmq/Exchanges.md",
-    "core-java/26. Wrapper Class.md",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/images/img2.png",
     "core-java/images/Pasted image 20231209074229.png",
