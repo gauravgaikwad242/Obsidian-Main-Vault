@@ -3267,6 +3267,7 @@ jte
 jjjT
 jhR
 jNB
+jump
 to
 than
 tools
@@ -3954,6 +3955,7 @@ tbH
 tKO
 tyYk
 tCa
+transfer
 code
 class
 constants
@@ -8598,6 +8600,7 @@ pppxxx
 pebjBo
 pHB
 pre
+parts
 less
 lower
 letter
@@ -9999,6 +10002,7 @@ sotl
 sHpC
 sssa
 semicolons
+stop
 rules
 restrictions
 returning
@@ -17803,6 +17807,7 @@ aEn
 aem
 aiQ
 aHi
+addition
 NOTE
 Name
 New
