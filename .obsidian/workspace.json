@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/32.0 this Keywork.md",
+                "file": "core-java/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/32.0 this Keywork.md",
+                "file": "core-java/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/32.0 this Keywork.md",
+                "file": "core-java/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/32.0 this Keywork.md"
+                "file": "core-java/Untitled.md"
               }
             }
           },
@@ -164,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "d70888126c098532",
   "lastOpenFiles": [
-    "core-java/33.1 access modifiers.md",
     "core-java/32.0 this Keywork.md",
+    "core-java/Untitled.md",
+    "core-java/33.1 access modifiers.md",
     "core-java/1. Intro.md",
     "core-java/33.0 Package.md",
     "core-java/3.0 Internal Architecture of JVM.md",
@@ -201,7 +202,6 @@
     "core-java/27.0 Control Statements.md",
     "core-java/17.0 Operators-Increment & Decrement.md",
     "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
-    "core-java/7.0 Object Class Methods.md",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/images/img2.png",
