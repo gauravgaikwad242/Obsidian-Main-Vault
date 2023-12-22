@@ -2659,6 +2659,8 @@ iqT
 iRmu
 impact
 invoke
+instantiation
+initialization
 java
 javascript
 jc
@@ -3957,6 +3959,7 @@ tKO
 tyYk
 tCa
 transfer
+trickquestion
 code
 class
 constants
@@ -4713,6 +4716,7 @@ cuX
 cAF
 consists
 classified
+collects
 we
 when
 want
@@ -5375,6 +5379,8 @@ waa
 wFo
 wobiÖ
 wise
+whatever
+whereas
 need
 necessary
 never
@@ -8606,6 +8612,8 @@ pHB
 pre
 parts
 packages
+pos
+print
 less
 lower
 letter
@@ -9230,6 +9238,8 @@ lUU
 lKi
 lCMp
 lBa
+length
+lenth
 syntax
 set
 security
@@ -10009,6 +10019,8 @@ sssa
 semicolons
 stop
 sub
+solid
+sout
 rules
 restrictions
 returning
@@ -13269,6 +13281,7 @@ Djo
 DcY
 DmV
 DoHM
+Drawbacks
 Life
 Logic
 Let
@@ -16535,6 +16548,7 @@ Aqt
 AxC
 Awh
 Aof
+Arrays
 MODIFIERS
 My
 Material
@@ -22901,6 +22915,7 @@ bPKKKv
 bMR
 bxi
 bfb
+blue
 Business
 By
 Boot
