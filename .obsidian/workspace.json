@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/34.0 Array.md",
+                "file": "core-java/35.0 keypoints in array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/34.0 Array.md",
+                "file": "core-java/35.0 keypoints in array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/34.0 Array.md",
+                "file": "core-java/35.0 keypoints in array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/34.0 Array.md"
+                "file": "core-java/35.0 keypoints in array.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "d70888126c098532",
   "lastOpenFiles": [
-    "core-java/32.0 this Keywork.md",
     "core-java/34.0 Array.md",
+    "core-java/35.0 keypoints in array.md",
+    "core-java/32.0 this Keywork.md",
     "core-java/33.1 access modifiers.md",
     "core-java/1. Intro.md",
     "core-java/33.0 Package.md",
@@ -200,7 +201,6 @@
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
     "core-java/27.0 Control Statements.md",
-    "core-java/17.0 Operators-Increment & Decrement.md",
     "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
