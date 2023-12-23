@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/35.0 keypoints in array.md",
+                "file": "core-java/35.0 key points in array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/35.0 keypoints in array.md",
+                "file": "core-java/35.0 key points in array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/35.0 keypoints in array.md",
+                "file": "core-java/35.0 key points in array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/35.0 keypoints in array.md"
+                "file": "core-java/35.0 key points in array.md"
               }
             }
           },
@@ -166,8 +166,12 @@
   },
   "active": "d70888126c098532",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20231223083901.png",
+    "core-java/images/img5.png",
+    "core-java/images/img4.png",
+    "core-java/35.0 key points in array.md",
+    "core-java/24.0 Type casting.md",
     "core-java/34.0 Array.md",
-    "core-java/35.0 keypoints in array.md",
     "core-java/32.0 this Keywork.md",
     "core-java/33.1 access modifiers.md",
     "core-java/1. Intro.md",
@@ -195,12 +199,10 @@
     "Angular-14/curious.md",
     "Angular-14/ngrx/I/abc1.png",
     "Angular-14/ngrx/I",
-    "core-java/20 - logical operator.md",
     "Angular-14/ngrx",
     "core-java/15.1- constructor.pdf",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
-    "core-java/27.0 Control Statements.md",
     "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
     "springboot/InterviewPrep_SpringBoot (1).pdf",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
@@ -210,8 +212,6 @@
     "Pasted image 20230806204752.png",
     "Pasted image 20230813084603.png",
     "core-java/images/memory1.png",
-    "core-java/images/maincalled.png",
-    "core-java/images/javamethod.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
