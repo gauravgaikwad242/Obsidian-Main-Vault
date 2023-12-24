@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/jpa/Entity Graph.md",
+                "file": "springboot/webflux/Streaming data with webflux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/jpa/Entity Graph.md",
+                "file": "springboot/webflux/Streaming data with webflux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/jpa/Entity Graph.md",
+                "file": "springboot/webflux/Streaming data with webflux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/jpa/Entity Graph.md"
+                "file": "springboot/webflux/Streaming data with webflux.md"
               }
             }
           },
@@ -164,10 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "d70888126c098532",
   "lastOpenFiles": [
-    "core-java/35.0 key points in array.md",
+    "springboot/Websocket/Intro.md",
+    "springboot/webflux/Streaming data with webflux.md",
+    "springboot/webflux",
+    "Project-Reactor/Untitled",
+    "core-java/images/Pasted image 20231224190453.png",
     "springboot/jpa/Entity Graph.md",
+    "springboot/Websocket",
+    "core-java/35.0 key points in array.md",
     "core-java/images/Pasted image 20231223083901.png",
     "core-java/images/img5.png",
     "core-java/images/img4.png",
@@ -196,22 +202,16 @@
     "Angular-14/ngrx/4.0 raw function.md",
     "Angular-14/ngrx/3.0 Built In function approach.md",
     "Angular-14/ngrx/2.0 setup.md",
-    "Angular-14/ngrx/1.0 NgRx.md",
-    "Angular-14/curious.md",
     "Angular-14/ngrx/I/abc1.png",
     "Angular-14/ngrx/I",
     "Angular-14/ngrx",
     "core-java/15.1- constructor.pdf",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/11.01 Datatypes.pdf",
-    "Angular-14/questions/Top Angular Interview Questions and Answers (2023) - javatpoint.pdf",
-    "springboot/InterviewPrep_SpringBoot (1).pdf",
-    "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/images/img2.png",
     "core-java/images/Pasted image 20231209074229.png",
     "core-java/images/img1.png",
     "Pasted image 20230806204752.png",
-    "Pasted image 20230813084603.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
