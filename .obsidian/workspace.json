@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/webflux/Streaming data with webflux.md",
+                "file": "core-java/35.0 key points in array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/webflux/Streaming data with webflux.md",
+                "file": "core-java/35.0 key points in array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/webflux/Streaming data with webflux.md",
+                "file": "core-java/35.0 key points in array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/webflux/Streaming data with webflux.md"
+                "file": "core-java/35.0 key points in array.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,19 +167,19 @@
   },
   "active": "d70888126c098532",
   "lastOpenFiles": [
-    "springboot/Websocket/Intro.md",
+    "core-java/34.0 Array.md",
+    "core-java/35.0 key points in array.md",
     "springboot/webflux/Streaming data with webflux.md",
+    "springboot/Websocket/Intro.md",
     "springboot/webflux",
     "Project-Reactor/Untitled",
     "core-java/images/Pasted image 20231224190453.png",
     "springboot/jpa/Entity Graph.md",
     "springboot/Websocket",
-    "core-java/35.0 key points in array.md",
     "core-java/images/Pasted image 20231223083901.png",
     "core-java/images/img5.png",
     "core-java/images/img4.png",
     "core-java/24.0 Type casting.md",
-    "core-java/34.0 Array.md",
     "core-java/32.0 this Keywork.md",
     "core-java/33.1 access modifiers.md",
     "core-java/1. Intro.md",
