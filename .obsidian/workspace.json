@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +168,7 @@
   },
   "active": "d70888126c098532",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20231228082324.png",
     "core-java/35.0 key points in array.md",
     "core-java/36.0 String Handling.md",
     "core-java/34.0 Array.md",
@@ -204,7 +204,6 @@
     "core-java/images/img3.png",
     "Angular-14/ngrx/5.0 Effect.md",
     "Angular-14/ngrx/4.0 raw function.md",
-    "Angular-14/ngrx/3.0 Built In function approach.md",
     "Angular-14/ngrx/I/abc1.png",
     "Angular-14/ngrx/I",
     "Angular-14/ngrx",
