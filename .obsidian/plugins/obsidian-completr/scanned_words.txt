@@ -2028,6 +2028,7 @@ eKh
 eGq
 exl
 eKB
+entirely
 in
 interface
 interview
@@ -4802,6 +4803,8 @@ cYt
 cPgNA
 cBbq
 cant
+contents
+concat
 we
 when
 want
@@ -10214,6 +10217,8 @@ stRO
 syaj
 srw
 specifying
+stringvariable
+strings
 rules
 restrictions
 returning
@@ -12876,6 +12881,10 @@ Smx
 SJb
 SRb
 Sui
+StringBuffer
+StringBuilder
+Strings
+STRING
 Developement
 Data
 DataSource
@@ -14884,6 +14893,7 @@ CYq
 CXAT
 CzE
 CLq
+CONTENTS
 devops
 default
 data
@@ -16303,6 +16313,7 @@ mWH
 mRTT
 mcT
 max
+modify
 ACCESS
 Abstraction
 Angular
@@ -18207,6 +18218,7 @@ aaj
 aTUt
 aKwr
 axs
+affected
 NOTE
 Name
 New
@@ -20849,6 +20861,7 @@ OeZO
 OGJf
 OzV
 OvQ
+OLD
 Powers
 Polymorphism
 Postgres
@@ -22722,6 +22735,8 @@ IYn
 IOz
 IcC
 IDATfQVit
+IMMUTABLE
+Immutability
 be
 byte
 boolean
@@ -23399,6 +23414,7 @@ bDG
 byY
 bDzv
 bxxH
+been
 Business
 By
 Boot
@@ -25963,6 +25979,7 @@ qRz
 qtuw
 qawL
 qYQH
+quotes
 How
 Here
 Hystrix
@@ -27291,6 +27308,7 @@ yFEeQ
 yBt
 yFHoI
 yxL
+yellow
 VARCHAR
 VR
 Vf
