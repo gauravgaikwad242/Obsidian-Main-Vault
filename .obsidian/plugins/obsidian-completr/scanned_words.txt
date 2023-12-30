@@ -4805,6 +4805,7 @@ cBbq
 cant
 contents
 concat
+comapre
 we
 when
 want
@@ -9424,6 +9425,7 @@ lgD
 lBeQ
 lindT
 lGoO
+locations
 syntax
 set
 security

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/37.0 String Handling.md",
+                "file": "core-java/38.0 string practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/37.0 String Handling.md",
+                "file": "core-java/38.0 string practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/37.0 String Handling.md",
+                "file": "core-java/38.0 string practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/37.0 String Handling.md"
+                "file": "core-java/38.0 string practice.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   "active": "d70888126c098532",
   "lastOpenFiles": [
     "core-java/37.0 String Handling.md",
+    "core-java/38.0 string practice.md",
+    "core-java/26. Wrapper Class.md",
     "core-java/25. Wrapper Classes.md",
     "core-java/36.0 String Handling.md",
     "core-java/images/Pasted image 20231228082324.png",
@@ -202,9 +204,7 @@
     "springboot/question/spring-interview-questions.pdf",
     "core-java/8.0 Naming Convention & Seperators.md",
     "core-java/29.0 Iteration Statement.md",
-    "core-java/28.0 switch case.md",
     "core-java/images/img3.png",
-    "Angular-14/ngrx/5.0 Effect.md",
     "Angular-14/ngrx/I/abc1.png",
     "Angular-14/ngrx/I",
     "Angular-14/ngrx",
