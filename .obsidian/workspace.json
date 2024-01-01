@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d70888126c098532",
+            "id": "dd6cbd2a8840a41c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/38.0 string practice.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/38.0 string practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/38.0 string practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "core-java/38.0 string practice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70888126c098532",
+  "active": "dd6cbd2a8840a41c",
   "lastOpenFiles": [
-    "core-java/37.0 String Handling.md",
+    "core-java/2. History & c vs c++ vs java.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/38.0 string practice.md",
+    "core-java/37.0 String Handling.md",
     "core-java/26. Wrapper Class.md",
     "core-java/25. Wrapper Classes.md",
     "core-java/36.0 String Handling.md",
@@ -191,7 +186,6 @@
     "core-java/33.1 access modifiers.md",
     "core-java/1. Intro.md",
     "core-java/33.0 Package.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/4.0 JVM JRE & JDK.md",
     "core-java/32.0 Scanner Class.md",
     "core-java/31.1 Jump statements.md",
@@ -203,7 +197,6 @@
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/question/spring-interview-questions.pdf",
     "core-java/8.0 Naming Convention & Seperators.md",
-    "core-java/29.0 Iteration Statement.md",
     "core-java/images/img3.png",
     "Angular-14/ngrx/I/abc1.png",
     "Angular-14/ngrx/I",
