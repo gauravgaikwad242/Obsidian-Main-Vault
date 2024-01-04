@@ -2030,6 +2030,7 @@ eGq
 exl
 eKB
 entirely
+enhanced
 in
 interface
 interview
@@ -2715,6 +2716,7 @@ iEt
 iYqp
 ijjB
 instantiating
+introduced
 java
 javascript
 jc
@@ -4809,6 +4811,7 @@ concat
 comapre
 consistent
 compare
+colon
 we
 when
 want
@@ -5480,6 +5483,7 @@ wNz
 wjgo
 wLjZ
 wAK
+wrapping
 need
 necessary
 never
@@ -8102,6 +8106,7 @@ oyE
 oxa
 oFT
 oEO
+orders
 project
 public
 private
@@ -8787,6 +8792,7 @@ pXs
 palindrome
 pool
 packageName
+positions
 less
 lower
 letter
@@ -10228,6 +10234,8 @@ srw
 specifying
 stringvariable
 strings
+streaming
+setters
 rules
 restrictions
 returning
@@ -10919,6 +10927,8 @@ rjb
 rssE
 rJIw
 rUchbl
+retrieve
+reverse
 follow
 for
 from
@@ -11585,6 +11595,7 @@ fFR
 fDyq
 fTc
 filled
+forward
 get
 gap
 general
@@ -12234,6 +12245,7 @@ gDL
 gbMa
 gTO
 generates
+getters
 SDLC
 Software
 Super
@@ -13571,6 +13583,7 @@ Dä
 DXy
 DZy
 Djm
+Declare
 Life
 Logic
 Let
@@ -29791,6 +29804,7 @@ WkvtW
 WOq
 WIu
 WdAK
+Write
 Generated
 Go
 Gv

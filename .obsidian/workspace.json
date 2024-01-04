@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
+                "file": "core-java/41.1 Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
+                "file": "core-java/41.1 Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
+                "file": "core-java/41.1 Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/39.0 String StringBuffer StringBuilder.md"
+                "file": "core-java/41.1 Encapsulation.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +168,15 @@
   },
   "active": "dd6cbd2a8840a41c",
   "lastOpenFiles": [
+    "core-java/41.0 OOP.md",
+    "core-java/41.1 Encapsulation.md",
+    "core-java/31.1 Jump statements.md",
+    "core-java/32.0 Scanner Class.md",
+    "core-java/31.0 for each loop.md",
+    "core-java/28.0 switch case.md",
+    "core-java/39.0 String StringBuffer StringBuilder.md",
     "core-java/40.0 String builder and String buffer.md",
     "core-java/40.1 comparison.md",
-    "core-java/39.0 String StringBuffer StringBuilder.md",
     "core-java/36.0 String Handling.md",
     "core-java/37.0 String Handling.md",
     "core-java/5.0 Class.md",
@@ -191,19 +196,13 @@
     "core-java/25. Wrapper Classes.md",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux/Streaming data with webflux.md",
-    "springboot/Websocket/Intro.md",
     "springboot/webflux",
     "Project-Reactor/Untitled",
     "core-java/images/Pasted image 20231224190453.png",
-    "springboot/jpa/Entity Graph.md",
     "springboot/Websocket",
     "core-java/images/Pasted image 20231223083901.png",
     "core-java/images/img5.png",
     "core-java/images/img4.png",
-    "core-java/24.0 Type casting.md",
-    "core-java/32.0 this Keywork.md",
-    "core-java/1. Intro.md",
-    "core-java/4.0 JVM JRE & JDK.md",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/question/spring-interview-questions.pdf",
     "core-java/images/img3.png",
