@@ -1324,6 +1324,7 @@ FKK
 FXt
 FqLR
 FLa
+Fully
 elements
 enum
 else
@@ -4806,6 +4807,8 @@ cant
 contents
 concat
 comapre
+consistent
+compare
 we
 when
 want
@@ -6736,6 +6739,7 @@ ENN
 EFX
 EnB
 EOk
+Equals
 use
 universal
 used
@@ -8781,6 +8785,8 @@ pMNc
 pxp
 pXs
 palindrome
+pool
+packageName
 less
 lower
 letter
@@ -12888,6 +12894,7 @@ StringBuffer
 StringBuilder
 Strings
 STRING
+Synchronized
 Developement
 Data
 DataSource
@@ -16317,6 +16324,8 @@ mRTT
 mcT
 max
 modify
+mentioned
+modifications
 ACCESS
 Abstraction
 Angular
@@ -16910,6 +16919,7 @@ AiO
 Aip
 AkB
 AYe
+Address
 MODIFIERS
 My
 Material
@@ -17544,6 +17554,7 @@ MyX
 Miyt
 MDr
 MFzQ
+Mutable
 accessModifiers
 access
 around
@@ -18222,6 +18233,7 @@ aTUt
 aKwr
 axs
 affected
+append
 NOTE
 Name
 New
@@ -22740,6 +22752,7 @@ IcC
 IDATfQVit
 IMMUTABLE
 Immutability
+Immutable
 be
 byte
 boolean
@@ -24712,6 +24725,7 @@ RRo
 RrC
 RCS
 RZR
+READ
 value
 void
 vanilla
@@ -25983,6 +25997,7 @@ qtuw
 qawL
 qYQH
 quotes
+qualified
 How
 Here
 Hystrix
