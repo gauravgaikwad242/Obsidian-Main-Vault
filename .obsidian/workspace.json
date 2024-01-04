@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c17140c0dd232184",
+        "id": "53cf75d53fde1fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6cbd2a8840a41c",
+            "id": "2af3e04f4654b6c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/41.1 Encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/41.1 Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/41.1 Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "core-java/41.1 Encapsulation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd6cbd2a8840a41c",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/41.0 OOP.md",
     "core-java/41.1 Encapsulation.md",
+    "core-java/41.0 OOP.md",
     "core-java/31.1 Jump statements.md",
     "core-java/32.0 Scanner Class.md",
     "core-java/31.0 for each loop.md",
