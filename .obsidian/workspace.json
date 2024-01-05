@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md",
+                "file": "core-java/42.0 Types of Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md",
+                "file": "core-java/42.0 Types of Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md",
+                "file": "core-java/42.0 Types of Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/DataStructures/array/delete.md"
+                "file": "core-java/42.0 Types of Inheritance.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,10 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "DSA/DataStructures/array/insert.md",
+    "core-java/42.0 Inheritance.md",
+    "core-java/42.0 Types of Inheritance.md",
     "DSA/DataStructures/array/delete.md",
+    "DSA/DataStructures/array/insert.md",
     "core-java/41.1 Encapsulation.md",
     "core-java/41.0 OOP.md",
     "core-java/31.1 Jump statements.md",
@@ -194,8 +195,6 @@
     "core-java/33.0 Package.md",
     "core-java/2. History & c vs c++ vs java.md",
     "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/38.0 string practice.md",
-    "core-java/26. Wrapper Class.md",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
     "Project-Reactor/Untitled",
