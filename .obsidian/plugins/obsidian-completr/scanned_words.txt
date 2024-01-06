@@ -2031,6 +2031,7 @@ exl
 eKB
 entirely
 enhanced
+exhibits
 in
 interface
 interview
@@ -2717,6 +2718,7 @@ iYqp
 ijjB
 instantiating
 introduced
+inheritance
 java
 javascript
 jc
@@ -12907,6 +12909,7 @@ StringBuilder
 Strings
 STRING
 Synchronized
+Single
 Developement
 Data
 DataSource
@@ -17568,6 +17571,8 @@ Miyt
 MDr
 MFzQ
 Mutable
+Multi
+Multiple
 accessModifiers
 access
 around
@@ -26634,6 +26639,8 @@ Hqw
 Hznb
 HKKGFf
 HNk
+Hierarchal
+Hybrid
 you
 your
 yQsf
