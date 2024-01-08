@@ -22,3 +22,68 @@ Points
 5. we cannot perform method overriding for a static method it may seem like we are overriding but it is actually METHOD HIDING 
 6.  After jdk 1.5 return types may not be smame in co-variant return types 
 7. covariant return type concept is applicable only for classtypes and not primitive data types
+
+```java 
+public class ClassA {
+    void meth1() {
+        System.out.println("ClassA method");
+    }
+
+    void meth2(int x) {
+        System.out.println("classA meth2");
+    }
+
+    protected void meth3(int x, String s) {
+        System.out.println("classA meth3");
+    }
+
+    static void meth4() {
+        System.out.println("class A meth4");
+    }
+
+    ClassA meth5() {
+        System.out.println("classA meth5");
+        return new ClassA();
+    }
+
+    void meth1(String s) {
+        System.out.println("Java is awesome");
+    }
+}
+
+class ClassB extends ClassA {
+    @Override
+    /*
+     * writing annotations in the code is not mandatory anottaions 
+     * provides addtional information both for the programmer and for
+     * the compiler
+     */
+    void meth1() {
+        System.out.println(10);
+    }
+
+    void meth2(int i) {
+        System.out.println(20);
+    }
+
+    @Override
+    public void meth3(int x, String msg) {
+        System.out.println(30);
+    }
+
+    static void meth4() {
+        System.out.println(40);
+    }
+
+    @Override
+    ClassB meth5() {
+        System.out.println("classA meth5");
+        return new ClassB();
+    }
+
+    public static void main(String[] args) {
+
+    }
+}
+
+```
