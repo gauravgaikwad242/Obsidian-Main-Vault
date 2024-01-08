@@ -22,6 +22,7 @@ Points
 5. we cannot perform method overriding for a static method it may seem like we are overriding but it is actually METHOD HIDING 
 6.  After jdk 1.5 return types may not be smame in co-variant return types 
 7. covariant return type concept is applicable only for classtypes and not primitive data types
+#interview  diff between method Overriding and Overloading?
 
 ```java 
 public class ClassA {
