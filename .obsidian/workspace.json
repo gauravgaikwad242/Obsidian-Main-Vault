@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/43.3 super & super().md",
+                "file": "core-java/45 Method Overriding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/43.3 super & super().md",
+                "file": "core-java/45 Method Overriding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/43.3 super & super().md",
+                "file": "core-java/45 Method Overriding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/43.3 super & super().md"
+                "file": "core-java/45 Method Overriding.md"
               }
             }
           },
@@ -168,15 +168,19 @@
   },
   "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/43.2 Multiple Inheritance.md",
+    "core-java/44.0 Polymorphism.md",
+    "core-java/45 Method Overriding.md",
+    "core-java/42.0 Inheritance.md",
+    "core-java/41.1 Encapsulation.md",
+    "core-java/images/Pasted image 20240108074704.png",
     "core-java/43.3 super & super().md",
     "core-java/43.1 Multi-level & hierarchical Inheritance.md",
-    "core-java/43.0 Single Inheritance.md",
     "core-java/42.0 Types of Inheritance.md",
-    "core-java/42.0 Inheritance.md",
+    "core-java/images/Pasted image 20240108074232.png",
+    "core-java/43.2 Multiple Inheritance.md",
+    "core-java/43.0 Single Inheritance.md",
     "DSA/DataStructures/array/delete.md",
     "DSA/DataStructures/array/insert.md",
-    "core-java/41.1 Encapsulation.md",
     "core-java/41.0 OOP.md",
     "core-java/31.1 Jump statements.md",
     "core-java/32.0 Scanner Class.md",
@@ -193,8 +197,6 @@
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/23.0.md",
     "core-java/30.0 Understanding for loop.md",
-    "core-java/35.0 key points in array.md",
-    "core-java/34.0 Array.md",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
     "Project-Reactor/Untitled",
@@ -212,8 +214,6 @@
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
     "core-java/images/img2.png",
-    "core-java/images/Pasted image 20231209074229.png",
-    "core-java/images/img1.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
