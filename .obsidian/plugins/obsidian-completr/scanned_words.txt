@@ -675,6 +675,9 @@ TTTb
 Tbsz
 TwO
 TJaMU
+TWO
+Thus
+That
 Fundamental
 For
 First
@@ -4819,6 +4822,9 @@ classc
 classB
 combination
 classC
+covariant
+concept
+classtypes
 we
 when
 want
@@ -6115,6 +6121,7 @@ nEtR
 nAV
 nBoC
 negative
+normal
 Enum
 Encapsulation
 EntityManager
@@ -8115,6 +8122,9 @@ oxa
 oFT
 oEO
 orders
+occurs
+override
+overriding
 project
 public
 private
@@ -8804,6 +8814,7 @@ positions
 problem
 participate
 practical
+performing
 less
 lower
 letter
@@ -10248,6 +10259,9 @@ strings
 streaming
 setters
 sharing
+seem
+smame
+semicolon
 rules
 restrictions
 returning
@@ -10942,6 +10956,9 @@ rUchbl
 retrieve
 reverse
 relation
+referred
+reason
+restrictive
 follow
 for
 from
@@ -15625,6 +15642,9 @@ dcF
 dsD
 ddQ
 dHDaJ
+determines
+determination
+diff
 make
 more
 method
@@ -16360,6 +16380,7 @@ mentioned
 modifications
 meth
 multi
+made
 ACCESS
 Abstraction
 Angular
@@ -16955,6 +16976,7 @@ AkB
 AYe
 Address
 Acquiring
+AccessModifier
 MODIFIERS
 My
 Material
@@ -17592,6 +17614,8 @@ MFzQ
 Mutable
 Multi
 Multiple
+METHOD
+MethodName
 accessModifiers
 access
 around
@@ -18272,6 +18296,9 @@ axs
 affected
 append
 ambiguity
+actually
+applicable
+atleast
 NOTE
 Name
 New
@@ -20916,6 +20943,8 @@ OGJf
 OzV
 OvQ
 OLD
+OVERRIDEN
+OVERRIDING
 Powers
 Polymorphism
 Postgres
@@ -21532,6 +21561,7 @@ PGig
 PrB
 PBq
 PZQ
+Points
 Java
 JPA
 JCA
@@ -24768,6 +24798,7 @@ RrC
 RCS
 RZR
 READ
+ReturnType
 value
 void
 vanilla
@@ -25397,6 +25428,7 @@ vkO
 vbwM
 vTUUcl
 vJcW
+variant
 qoutes
 question
 qIron
@@ -26667,6 +26699,7 @@ Hierarchal
 Hybrid
 HAS
 Hierarchial
+HIDING
 you
 your
 yQsf
