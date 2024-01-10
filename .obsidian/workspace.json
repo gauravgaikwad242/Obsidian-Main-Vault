@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/46.1 Abstract class.md",
+                "file": "core-java/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/46.1 Abstract class.md",
+                "file": "core-java/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/46.1 Abstract class.md",
+                "file": "core-java/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/46.1 Abstract class.md"
+                "file": "core-java/Untitled.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +169,13 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/45 Method Overriding.md",
+    "core-java/Untitled.md",
+    "core-java/44.0 Polymorphism.md",
+    "core-java/46.1 Abstract class.md",
     "core-java/images/Pasted image 20240109084552.png",
     "core-java/41.1 Encapsulation.md",
-    "core-java/46.1 Abstract class.md",
-    "core-java/44.0 Polymorphism.md",
     "core-java/46.0 Abstraction.md",
-    "core-java/45 Method Overriding.md",
     "core-java/42.0 Inheritance.md",
     "core-java/images/Pasted image 20240108074704.png",
     "core-java/43.3 super & super().md",
@@ -213,7 +215,6 @@
     "Angular-14/ngrx",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
-    "core-java/images/img2.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
