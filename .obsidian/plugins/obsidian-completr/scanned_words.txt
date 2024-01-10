@@ -12947,6 +12947,7 @@ Strings
 STRING
 Synchronized
 Single
+SUPPLIER
 Developement
 Data
 DataSource
@@ -14961,6 +14962,9 @@ ClassB
 ClassC
 ClassX
 CAN
+CONSUMER
+COMPARABLE
+COMPARATOR
 devops
 default
 data
@@ -21573,6 +21577,7 @@ PrB
 PBq
 PZQ
 Points
+PREDICATE
 Java
 JPA
 JCA
@@ -22837,6 +22842,7 @@ Inside
 INVALID
 INHERITANCE
 INTERFACES
+INTERFACE
 be
 byte
 boolean
@@ -24815,6 +24821,7 @@ RCS
 RZR
 READ
 ReturnType
+RUNNABEL
 value
 void
 vanilla

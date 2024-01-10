@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/47.1 Ambiguity In Interface.md",
+                "file": "core-java/48 assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/47.1 Ambiguity In Interface.md",
+                "file": "core-java/48 assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/47.1 Ambiguity In Interface.md",
+                "file": "core-java/48 assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/47.1 Ambiguity In Interface.md"
+                "file": "core-java/48 assignment.md"
               }
             }
           },
@@ -166,13 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af3e04f4654b6c6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/47.0 Interface.md",
-    "core-java/47.1 Ambiguity In Interface.md",
-    "core-java/47.2 Marker Interface.md",
+    "core-java/images/Pasted image 20240110090635.png",
     "core-java/47.3 Functional Interface.md",
-    "core-java/Ru.md",
+    "core-java/47.1 Ambiguity In Interface.md",
+    "core-java/47.0 Interface.md",
+    "core-java/47.2 Marker Interface.md",
+    "core-java/48 assignment.md",
     "core-java/43.3 super & super().md",
     "core-java/46.1 Abstract class.md",
     "core-java/images/Pasted image 20240110075736.png",
@@ -197,7 +198,6 @@
     "core-java/28.0 switch case.md",
     "core-java/39.0 String StringBuffer StringBuilder.md",
     "core-java/40.0 String builder and String buffer.md",
-    "core-java/40.1 comparison.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
