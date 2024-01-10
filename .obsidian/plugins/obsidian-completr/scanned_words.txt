@@ -2724,6 +2724,8 @@ introduced
 inheritance
 instantiated
 inheriting
+instantiate
+inteface
 java
 javascript
 jc
@@ -4827,6 +4829,7 @@ classC
 covariant
 concept
 classtypes
+cloneable
 we
 when
 want
@@ -10264,6 +10267,7 @@ sharing
 seem
 smame
 semicolon
+serializable
 rules
 restrictions
 returning
@@ -10961,6 +10965,7 @@ relation
 referred
 reason
 restrictive
+resolved
 follow
 for
 from
@@ -14955,6 +14960,7 @@ CONTENTS
 ClassB
 ClassC
 ClassX
+CAN
 devops
 default
 data
@@ -16980,6 +16986,7 @@ AYe
 Address
 Acquiring
 AccessModifier
+ACHIVE
 MODIFIERS
 My
 Material
@@ -17619,6 +17626,7 @@ Multi
 Multiple
 METHOD
 MethodName
+MULTIPLE
 accessModifiers
 access
 around
@@ -22826,6 +22834,9 @@ IMMUTABLE
 Immutability
 Immutable
 Inside
+INVALID
+INHERITANCE
+INTERFACES
 be
 byte
 boolean
@@ -29286,6 +29297,7 @@ UUUhii
 Uoo
 Uot
 Uxj
+USING
 With
 When
 Works
