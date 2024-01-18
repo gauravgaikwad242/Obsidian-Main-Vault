@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/48 assignment.md",
+                "file": "core-java/49.0 Exception Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/48 assignment.md",
+                "file": "core-java/49.0 Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/48 assignment.md",
+                "file": "core-java/49.0 Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/48 assignment.md"
+                "file": "core-java/49.0 Exception Handling.md"
               }
             }
           },
@@ -166,14 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/Untitled 1.md",
+    "core-java/49.0 Exception Handling.md",
+    "core-java/46.0 Abstraction.md",
+    "core-java/32.0 this Keywork.md",
+    "core-java/48 assignment.md",
     "core-java/images/Pasted image 20240110090635.png",
     "core-java/47.3 Functional Interface.md",
     "core-java/47.1 Ambiguity In Interface.md",
     "core-java/47.0 Interface.md",
     "core-java/47.2 Marker Interface.md",
-    "core-java/48 assignment.md",
     "core-java/43.3 super & super().md",
     "core-java/46.1 Abstract class.md",
     "core-java/images/Pasted image 20240110075736.png",
@@ -181,7 +185,6 @@
     "core-java/44.0 Polymorphism.md",
     "core-java/images/Pasted image 20240109084552.png",
     "core-java/41.1 Encapsulation.md",
-    "core-java/46.0 Abstraction.md",
     "core-java/42.0 Inheritance.md",
     "core-java/images/Pasted image 20240108074704.png",
     "core-java/43.1 Multi-level & hierarchical Inheritance.md",
@@ -196,8 +199,6 @@
     "core-java/32.0 Scanner Class.md",
     "core-java/31.0 for each loop.md",
     "core-java/28.0 switch case.md",
-    "core-java/39.0 String StringBuffer StringBuilder.md",
-    "core-java/40.0 String builder and String buffer.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
@@ -209,7 +210,6 @@
     "core-java/images/img4.png",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/question/spring-interview-questions.pdf",
-    "core-java/images/img3.png",
     "Angular-14/ngrx/I",
     "Angular-14/ngrx",
     "core-java/15.1- constructor.pdf",
