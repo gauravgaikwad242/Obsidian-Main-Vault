@@ -2726,6 +2726,7 @@ instantiated
 inheriting
 instantiate
 inteface
+inefficiency
 java
 javascript
 jc
@@ -4045,6 +4046,7 @@ tEv
 tXG
 tvh
 tries
+terminates
 code
 class
 constants
@@ -4830,6 +4832,8 @@ covariant
 concept
 classtypes
 cloneable
+completely
+checked
 we
 when
 want
@@ -6764,6 +6768,10 @@ EnB
 EOk
 Equals
 EXTENDS
+Error
+Errors
+EXCEPTIONS
+Exceptions
 use
 universal
 used
@@ -7418,6 +7426,7 @@ uTH
 uBo
 uCU
 ubz
+unchecked
 our
 of
 or
@@ -8820,6 +8829,7 @@ problem
 participate
 practical
 performing
+programmers
 less
 lower
 letter
@@ -10268,6 +10278,7 @@ seem
 smame
 semicolon
 serializable
+syntactica
 rules
 restrictions
 returning
@@ -14969,6 +14980,7 @@ COMPARATOR
 CONSTRUCTOR
 CALL
 Compile
+Checked
 devops
 default
 data
@@ -15662,6 +15674,7 @@ determines
 determination
 diff
 dont
+detected
 make
 more
 method
@@ -16398,6 +16411,7 @@ modifications
 meth
 multi
 made
+machines
 ACCESS
 Abstraction
 Angular
@@ -19688,6 +19702,7 @@ hOU
 hpl
 hxg
 hierarchical
+handled
 keyword
 keywork
 kafka
@@ -23527,6 +23542,7 @@ bxxH
 been
 bobj
 book
+bad
 Business
 By
 Boot
@@ -24826,6 +24842,8 @@ RZR
 READ
 ReturnType
 RUNNABEL
+Runtime
+RUNTIME
 value
 void
 vanilla
@@ -26727,6 +26745,7 @@ Hybrid
 HAS
 Hierarchial
 HIDING
+HANDLED
 you
 your
 yQsf
