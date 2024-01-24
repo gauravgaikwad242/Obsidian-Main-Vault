@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/49.0 Exception Handling.md",
+                "file": "core-java/52 throw and throws.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/49.0 Exception Handling.md",
+                "file": "core-java/52 throw and throws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/49.0 Exception Handling.md",
+                "file": "core-java/52 throw and throws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/49.0 Exception Handling.md"
+                "file": "core-java/52 throw and throws.md"
               }
             }
           },
@@ -167,9 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/Untitled 1.md",
+    "core-java/53.md",
+    "core-java/52 throw and throws.md",
+    "core-java/51.md",
+    "core-java/50.md",
     "core-java/49.0 Exception Handling.md",
     "core-java/46.0 Abstraction.md",
     "core-java/32.0 this Keywork.md",
@@ -197,9 +200,6 @@
     "DSA/DataStructures/array/insert.md",
     "core-java/41.0 OOP.md",
     "core-java/31.1 Jump statements.md",
-    "core-java/32.0 Scanner Class.md",
-    "core-java/31.0 for each loop.md",
-    "core-java/28.0 switch case.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
