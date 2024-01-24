@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/52 throw and throws.md",
+                "file": "core-java/53.1 steps to create thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/52 throw and throws.md",
+                "file": "core-java/53.1 steps to create thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/52 throw and throws.md",
+                "file": "core-java/53.1 steps to create thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/52 throw and throws.md"
+                "file": "core-java/53.1 steps to create thread.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af3e04f4654b6c6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
-    "core-java/53.md",
+    "core-java/Untitled 2.md",
+    "core-java/Untitled 1.md",
+    "core-java/53.1 steps to create thread.md",
+    "core-java/53 multithreading.md",
+    "core-java/images/Pasted image 20240124081941.png",
     "core-java/52 throw and throws.md",
     "core-java/51.md",
     "core-java/50.md",
@@ -197,9 +200,6 @@
     "core-java/43.2 Multiple Inheritance.md",
     "core-java/43.0 Single Inheritance.md",
     "DSA/DataStructures/array/delete.md",
-    "DSA/DataStructures/array/insert.md",
-    "core-java/41.0 OOP.md",
-    "core-java/31.1 Jump statements.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
@@ -208,7 +208,6 @@
     "springboot/Websocket",
     "core-java/images/Pasted image 20231223083901.png",
     "core-java/images/img5.png",
-    "core-java/images/img4.png",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/question/spring-interview-questions.pdf",
     "Angular-14/ngrx/I",
