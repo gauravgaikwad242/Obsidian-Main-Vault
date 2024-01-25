@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/53.1 steps to create thread.md",
+                "file": "core-java/54.1 Thread Priority.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/53.1 steps to create thread.md",
+                "file": "core-java/54.1 Thread Priority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/53.1 steps to create thread.md",
+                "file": "core-java/54.1 Thread Priority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/53.1 steps to create thread.md"
+                "file": "core-java/54.1 Thread Priority.md"
               }
             }
           },
@@ -166,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/Untitled 2.md",
-    "core-java/Untitled 1.md",
+    "core-java/images/Pasted image 20240125084916.png",
+    "core-java/54.0 start() and run().md",
     "core-java/53.1 steps to create thread.md",
+    "core-java/54.1 Thread Priority.md",
     "core-java/53 multithreading.md",
     "core-java/images/Pasted image 20240124081941.png",
     "core-java/52 throw and throws.md",
@@ -199,7 +200,6 @@
     "core-java/images/Pasted image 20240108074232.png",
     "core-java/43.2 Multiple Inheritance.md",
     "core-java/43.0 Single Inheritance.md",
-    "DSA/DataStructures/array/delete.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "core-java/images/Pasted image 20231228082324.png",
     "springboot/webflux",
