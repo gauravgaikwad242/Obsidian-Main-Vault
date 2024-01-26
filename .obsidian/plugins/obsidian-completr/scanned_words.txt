@@ -10279,6 +10279,7 @@ smame
 semicolon
 serializable
 syntactica
+scheduler
 rules
 restrictions
 returning
@@ -12960,6 +12961,7 @@ STRING
 Synchronized
 Single
 SUPPLIER
+Schedular
 Developement
 Data
 DataSource
@@ -15675,6 +15677,7 @@ determination
 diff
 dont
 detected
+decide
 make
 more
 method
@@ -16412,6 +16415,7 @@ meth
 multi
 made
 machines
+min
 ACCESS
 Abstraction
 Angular
@@ -18332,6 +18336,7 @@ ambiguity
 actually
 applicable
 atleast
+aspects
 NOTE
 Name
 New
@@ -21597,6 +21602,7 @@ PBq
 PZQ
 Points
 PREDICATE
+Priority
 Java
 JPA
 JCA
@@ -23543,6 +23549,7 @@ been
 bobj
 book
 bad
+basing
 Business
 By
 Boot
@@ -29329,6 +29336,7 @@ Uoo
 Uot
 Uxj
 USING
+Underlying
 With
 When
 Works
