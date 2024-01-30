@@ -2035,6 +2035,9 @@ eKB
 entirely
 enhanced
 exhibits
+efficient
+expect
+exactly
 in
 interface
 interview
@@ -2727,6 +2730,11 @@ inheriting
 instantiate
 inteface
 inefficiency
+interrupted
+interrupt
+indication
+interruption
+inform
 java
 javascript
 jc
@@ -3349,6 +3357,7 @@ jjQQ
 jcz
 jYr
 jtb
+join
 to
 than
 tools
@@ -4047,6 +4056,8 @@ tXG
 tvh
 tries
 terminates
+threads
+timings
 code
 class
 constants
@@ -4834,6 +4845,10 @@ classtypes
 cloneable
 completely
 checked
+completion
+compulsory
+correctly
+cause
 we
 when
 want
@@ -5506,6 +5521,9 @@ wjgo
 wLjZ
 wAK
 wrapping
+waiting
+went
+willing
 need
 necessary
 never
@@ -6131,6 +6149,7 @@ nAV
 nBoC
 negative
 normal
+nanosecond
 Enum
 Encapsulation
 EntityManager
@@ -7427,6 +7446,7 @@ uBo
 uCU
 ubz
 unchecked
+until
 our
 of
 or
@@ -8830,6 +8850,9 @@ participate
 practical
 performing
 programmers
+pause
+processor
+precise
 less
 lower
 letter
@@ -10280,6 +10303,12 @@ semicolon
 serializable
 syntactica
 scheduler
+sleep
+sleeping
+scheduled
+soon
+seleated
+several
 rules
 restrictions
 returning
@@ -10979,6 +11008,7 @@ reason
 restrictive
 resolved
 resolve
+resume
 follow
 for
 from
@@ -12298,6 +12328,7 @@ gTO
 generates
 getters
 grand
+guaranteed
 SDLC
 Software
 Super
@@ -12962,6 +12993,7 @@ Synchronized
 Single
 SUPPLIER
 Schedular
+Sleep
 Developement
 Data
 DataSource
@@ -15678,6 +15710,7 @@ diff
 dont
 detected
 decide
+doing
 make
 more
 method
@@ -16416,6 +16449,8 @@ multi
 made
 machines
 min
+millisecond
+mode
 ACCESS
 Abstraction
 Angular
@@ -18337,6 +18372,7 @@ actually
 applicable
 atleast
 aspects
+amount
 NOTE
 Name
 New
@@ -19708,6 +19744,8 @@ hpl
 hxg
 hierarchical
 handled
+highly
+handover
 keyword
 keywork
 kafka
@@ -22244,6 +22282,7 @@ JCP
 JQf
 JKKQ
 JMK
+Join
 Inheritance
 It
 In
@@ -22868,6 +22907,7 @@ INVALID
 INHERITANCE
 INTERFACES
 INTERFACE
+Interrupt
 be
 byte
 boolean
@@ -25482,6 +25522,7 @@ vbwM
 vTUUcl
 vJcW
 variant
+versions
 qoutes
 question
 qIron
@@ -26754,6 +26795,7 @@ HAS
 Hierarchial
 HIDING
 HANDLED
+However
 you
 your
 yQsf
@@ -27460,6 +27502,8 @@ yBt
 yFHoI
 yxL
 yellow
+yield
+yielded
 VARCHAR
 VR
 Vf
@@ -28712,6 +28756,7 @@ Ypy
 Ybr
 YCY
 YvXR
+Yield
 Usage
 URLs
 URL
