@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
+                "file": "core-java/57.2 Demon Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
+                "file": "core-java/57.2 Demon Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
+                "file": "core-java/57.2 Demon Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/55.0  Join, Sleep, Interrupt, Yield.md"
+                "file": "core-java/57.2 Demon Thread.md"
               }
             }
           },
@@ -169,12 +169,17 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240130085654.png",
+    "core-java/57.1 Thread Pooling.md",
+    "core-java/57.2 Demon Thread.md",
+    "core-java/57.0 Thread Group.md",
+    "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
+    "core-java/56.0.md",
     "core-java/images/Pasted image 20240126083646.png",
     "core-java/images/Pasted image 20240126083459.png",
     "core-java/images/Pasted image 20240126081907.png",
     "core-java/images/Pasted image 20240126080601.png",
     "core-java/54.1 Thread Priority.md",
-    "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
     "core-java/images/Pasted image 20240125084916.png",
     "core-java/54.0 start() and run().md",
     "core-java/53.1 steps to create thread.md",
@@ -199,12 +204,7 @@
     "core-java/44.0 Polymorphism.md",
     "core-java/images/Pasted image 20240109084552.png",
     "core-java/41.1 Encapsulation.md",
-    "core-java/42.0 Inheritance.md",
     "core-java/images/Pasted image 20240108074704.png",
-    "core-java/43.1 Multi-level & hierarchical Inheritance.md",
-    "core-java/42.0 Types of Inheritance.md",
-    "core-java/images/Pasted image 20240108074232.png",
-    "core-java/43.2 Multiple Inheritance.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
