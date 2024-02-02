@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/Untitled 1.md",
+                "file": "core-java/60.0 io Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/Untitled 1.md",
+                "file": "core-java/60.0 io Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/Untitled 1.md",
+                "file": "core-java/60.0 io Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/Untitled 1.md"
+                "file": "core-java/60.0 io Streams.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,9 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/Untitled.md",
+    "core-java/images/Pasted image 20240202085316.png",
     "core-java/Untitled 1.md",
+    "core-java/60.0 io Streams.md",
     "core-java/59.0 Garbage Collector.md",
     "core-java/images/Pasted image 20240201083936.png",
     "core-java/images/Pasted image 20240201083509.png",
@@ -204,7 +204,6 @@
     "core-java/47.3 Functional Interface.md",
     "core-java/47.1 Ambiguity In Interface.md",
     "core-java/47.0 Interface.md",
-    "core-java/47.2 Marker Interface.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
