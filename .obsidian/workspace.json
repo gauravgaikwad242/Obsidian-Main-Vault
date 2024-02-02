@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/58.1 Final keyword.md",
+                "file": "core-java/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/58.1 Final keyword.md",
+                "file": "core-java/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/58.1 Final keyword.md",
+                "file": "core-java/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/58.1 Final keyword.md"
+                "file": "core-java/Untitled 1.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +169,15 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/Untitled.md",
+    "core-java/Untitled 1.md",
+    "core-java/59.0 Garbage Collector.md",
+    "core-java/images/Pasted image 20240201083936.png",
+    "core-java/images/Pasted image 20240201083509.png",
+    "core-java/58.1 Final keyword.md",
     "core-java/images/Pasted image 20240131084802.png",
     "core-java/58.0 Clone method.md",
-    "core-java/58.1 Final keyword.md",
     "core-java/42.0 Inheritance.md",
-    "core-java/Untitled 2.md",
     "core-java/57.2 Demon Thread.md",
     "core-java/images/Pasted image 20240130085654.png",
     "core-java/57.1 Thread Pooling.md",
@@ -196,14 +201,10 @@
     "core-java/46.0 Abstraction.md",
     "core-java/32.0 this Keywork.md",
     "core-java/48 assignment.md",
-    "core-java/images/Pasted image 20240110090635.png",
     "core-java/47.3 Functional Interface.md",
     "core-java/47.1 Ambiguity In Interface.md",
     "core-java/47.0 Interface.md",
     "core-java/47.2 Marker Interface.md",
-    "core-java/43.3 super & super().md",
-    "core-java/images/Pasted image 20240110075736.png",
-    "core-java/images/Pasted image 20240109084552.png",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
