@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/61.0 Untitled.md",
+                "file": "core-java/62.1 Serialization, Object Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/61.0 Untitled.md",
+                "file": "core-java/62.1 Serialization, Object Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/61.0 Untitled.md",
+                "file": "core-java/62.1 Serialization, Object Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/61.0 Untitled.md"
+                "file": "core-java/62.1 Serialization, Object Streams.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +168,16 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240205085454.png",
+    "core-java/images/Pasted image 20240205085113.png",
+    "core-java/images/Pasted image 20240205084848.png",
+    "core-java/39.0 String StringBuffer StringBuilder.md",
+    "core-java/62.1 Serialization, Object Streams.md",
+    "core-java/images/Pasted image 20240205084630.png",
+    "core-java/62.0 Data Streams.md",
+    "core-java/61.0 Buffer Streams.md",
     "core-java/images/Pasted image 20240203083324.png",
     "core-java/60.0 io Streams.md",
-    "core-java/61.0 Untitled.md",
     "core-java/images/Pasted image 20240202085316.png",
     "core-java/Untitled 1.md",
     "core-java/59.0 Garbage Collector.md",
@@ -188,11 +194,7 @@
     "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
     "core-java/56.0.md",
     "core-java/images/Pasted image 20240126083646.png",
-    "core-java/images/Pasted image 20240126083459.png",
-    "core-java/images/Pasted image 20240126081907.png",
-    "core-java/images/Pasted image 20240126080601.png",
     "core-java/54.1 Thread Priority.md",
-    "core-java/images/Pasted image 20240125084916.png",
     "core-java/54.0 start() and run().md",
     "core-java/53.1 steps to create thread.md",
     "core-java/53 multithreading.md",
@@ -202,9 +204,6 @@
     "core-java/49.0 Exception Handling.md",
     "core-java/46.0 Abstraction.md",
     "core-java/32.0 this Keywork.md",
-    "core-java/48 assignment.md",
-    "core-java/47.3 Functional Interface.md",
-    "core-java/47.1 Ambiguity In Interface.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
