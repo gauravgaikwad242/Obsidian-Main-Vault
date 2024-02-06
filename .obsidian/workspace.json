@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/62.1 Serialization, Object Streams.md",
+                "file": "core-java/60.0 io Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/62.1 Serialization, Object Streams.md",
+                "file": "core-java/60.0 io Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/62.1 Serialization, Object Streams.md",
+                "file": "core-java/60.0 io Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/62.1 Serialization, Object Streams.md"
+                "file": "core-java/60.0 io Streams.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +169,11 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
     "core-java/images/Pasted image 20240205085113.png",
     "core-java/images/Pasted image 20240205084848.png",
     "core-java/39.0 String StringBuffer StringBuilder.md",
-    "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205084630.png",
     "core-java/62.0 Data Streams.md",
     "core-java/61.0 Buffer Streams.md",
@@ -193,7 +194,6 @@
     "core-java/57.0 Thread Group.md",
     "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
     "core-java/56.0.md",
-    "core-java/images/Pasted image 20240126083646.png",
     "core-java/54.1 Thread Priority.md",
     "core-java/54.0 start() and run().md",
     "core-java/53.1 steps to create thread.md",
