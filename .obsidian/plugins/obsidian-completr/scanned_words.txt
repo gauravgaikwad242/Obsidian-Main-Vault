@@ -678,6 +678,7 @@ TJaMU
 TWO
 Thus
 That
+There
 Fundamental
 For
 First
@@ -4852,6 +4853,7 @@ compulsory
 correctly
 cause
 collector
+collections
 we
 when
 want
@@ -6153,6 +6155,7 @@ nBoC
 negative
 normal
 nanosecond
+nature
 Enum
 Encapsulation
 EntityManager
@@ -7450,6 +7453,7 @@ uCU
 ubz
 unchecked
 until
+underlying
 our
 of
 or
@@ -10314,6 +10318,7 @@ soon
 seleated
 several
 serialization
+standard
 rules
 restrictions
 returning
@@ -12334,6 +12339,7 @@ generates
 getters
 grand
 guaranteed
+growable
 SDLC
 Software
 Super
@@ -15021,6 +15027,7 @@ CALL
 Compile
 Checked
 Clone
+Collection
 devops
 default
 data
@@ -15717,6 +15724,7 @@ dont
 detected
 decide
 doing
+datastructures
 make
 more
 method
@@ -19754,6 +19762,8 @@ hierarchical
 handled
 highly
 handover
+homogeneous
+heterogeneous
 keyword
 keywork
 kafka
