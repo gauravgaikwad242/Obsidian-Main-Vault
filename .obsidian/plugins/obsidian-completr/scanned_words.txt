@@ -2737,6 +2737,10 @@ indication
 interruption
 inform
 initiated
+insertion
+increases
+iterator
+isEmpty
 java
 javascript
 jc
@@ -4854,6 +4858,9 @@ correctly
 cause
 collector
 collections
+capicit
+currentCapacity
+containsAll
 we
 when
 want
@@ -8861,6 +8868,7 @@ programmers
 pause
 processor
 precise
+println
 less
 lower
 letter
@@ -10319,6 +10327,7 @@ seleated
 several
 serialization
 standard
+supports
 rules
 restrictions
 returning
@@ -11019,6 +11028,9 @@ restrictive
 resolved
 resolve
 resume
+retriving
+retiving
+retainAll
 follow
 for
 from
@@ -15725,6 +15737,7 @@ detected
 decide
 doing
 datastructures
+duplicates
 make
 more
 method
@@ -16466,6 +16479,7 @@ min
 millisecond
 mode
 makes
+maintained
 ACCESS
 Abstraction
 Angular
@@ -18389,6 +18403,7 @@ atleast
 aspects
 amount
 accessing
+addAll
 NOTE
 Name
 New
@@ -19764,6 +19779,8 @@ highly
 handover
 homogeneous
 heterogeneous
+half
+hasNext
 keyword
 keywork
 kafka
@@ -22926,6 +22943,7 @@ INHERITANCE
 INTERFACES
 INTERFACE
 Interrupt
+Iterator
 be
 byte
 boolean

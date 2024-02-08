@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/63.0 Collection Framework.md",
+                "file": "core-java/65.0 ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/63.0 Collection Framework.md",
+                "file": "core-java/65.0 ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/63.0 Collection Framework.md",
+                "file": "core-java/65.0 ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/63.0 Collection Framework.md"
+                "file": "core-java/65.0 ArrayList.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,15 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af3e04f4654b6c6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/64.0 ArrayList.md",
+    "core-java/63.0 Collection Framework.md",
     "core-java/images/Pasted image 20240206084537.png",
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
     "core-java/Untitled 3.md",
-    "core-java/Untitled 2.md",
-    "core-java/63.0 Collection Framework.md",
+    "core-java/65.0 ArrayList.md",
     "core-java/60.0 io Streams.md",
     "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
@@ -187,9 +187,7 @@
     "core-java/61.0 Buffer Streams.md",
     "core-java/images/Pasted image 20240203083324.png",
     "core-java/images/Pasted image 20240202085316.png",
-    "core-java/Untitled 1.md",
     "core-java/59.0 Garbage Collector.md",
-    "core-java/images/Pasted image 20240201083936.png",
     "core-java/58.1 Final keyword.md",
     "core-java/58.0 Clone method.md",
     "core-java/42.0 Inheritance.md",
