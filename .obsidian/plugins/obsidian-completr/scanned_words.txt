@@ -2039,6 +2039,7 @@ exhibits
 efficient
 expect
 exactly
+easy
 in
 interface
 interview
@@ -4861,6 +4862,8 @@ collections
 capicit
 currentCapacity
 containsAll
+construction
+compared
 we
 when
 want
@@ -16480,6 +16483,7 @@ millisecond
 mode
 makes
 maintained
+manipulating
 ACCESS
 Abstraction
 Angular
@@ -18404,6 +18408,8 @@ aspects
 amount
 accessing
 addAll
+arraylist
+arrayList
 NOTE
 Name
 New

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/65.0 ArrayList.md",
+                "file": "core-java/67.0 LinkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/65.0 ArrayList.md",
+                "file": "core-java/67.0 LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/65.0 ArrayList.md",
+                "file": "core-java/67.0 LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/65.0 ArrayList.md"
+                "file": "core-java/67.0 LinkedList.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/66.0 Vector.md",
+    "core-java/67.0 LinkedList.md",
+    "core-java/65.0 ArrayList.md",
     "core-java/64.0 ArrayList.md",
     "core-java/63.0 Collection Framework.md",
     "core-java/images/Pasted image 20240206084537.png",
@@ -175,7 +179,6 @@
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
     "core-java/Untitled 3.md",
-    "core-java/65.0 ArrayList.md",
     "core-java/60.0 io Streams.md",
     "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
@@ -202,7 +205,6 @@
     "core-java/53 multithreading.md",
     "core-java/52 throw and throws.md",
     "core-java/51.md",
-    "core-java/50.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
