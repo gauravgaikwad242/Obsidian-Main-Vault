@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/67.0 LinkedList.md",
+                "file": "core-java/68.0 Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/67.0 LinkedList.md",
+                "file": "core-java/68.0 Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/67.0 LinkedList.md",
+                "file": "core-java/68.0 Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/67.0 LinkedList.md"
+                "file": "core-java/68.0 Set.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,9 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/66.0 Vector.md",
     "core-java/67.0 LinkedList.md",
+    "core-java/68.0 Set.md",
+    "core-java/66.0 Vector.md",
     "core-java/65.0 ArrayList.md",
     "core-java/64.0 ArrayList.md",
     "core-java/63.0 Collection Framework.md",
@@ -204,7 +204,6 @@
     "core-java/53.1 steps to create thread.md",
     "core-java/53 multithreading.md",
     "core-java/52 throw and throws.md",
-    "core-java/51.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
