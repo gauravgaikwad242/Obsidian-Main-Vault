@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/69.0 Queue Interface.md",
+                "file": "core-java/69.1 collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203
+    "width": 234.50818634033203,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/69.0 Queue Interface.md",
+                "file": "core-java/69.1 collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/69.0 Queue Interface.md",
+                "file": "core-java/69.1 collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/69.0 Queue Interface.md"
+                "file": "core-java/69.1 collection.md"
               }
             }
           },
@@ -154,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +169,12 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/69.1 collection.md",
+    "core-java/images/Pasted image 20240214085705.png",
+    "core-java/Untitled 3.md",
+    "core-java/Untitled 2.md",
+    "core-java/Untitled 1.md",
+    "core-java/69.0 Queue Interface.md",
     "core-java/68.0 Set.md",
     "core-java/67.0 LinkedList.md",
     "core-java/66.0 Vector.md",
@@ -179,7 +185,6 @@
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
-    "core-java/69.0 Queue Interface.md",
     "core-java/60.0 io Streams.md",
     "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
@@ -190,7 +195,6 @@
     "core-java/62.0 Data Streams.md",
     "core-java/61.0 Buffer Streams.md",
     "core-java/images/Pasted image 20240203083324.png",
-    "core-java/images/Pasted image 20240202085316.png",
     "core-java/59.0 Garbage Collector.md",
     "core-java/58.1 Final keyword.md",
     "core-java/58.0 Clone method.md",
@@ -200,11 +204,6 @@
     "core-java/57.0 Thread Group.md",
     "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
     "core-java/56.0.md",
-    "core-java/54.1 Thread Priority.md",
-    "core-java/54.0 start() and run().md",
-    "core-java/53.1 steps to create thread.md",
-    "core-java/53 multithreading.md",
-    "core-java/52 throw and throws.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
