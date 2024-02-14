@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "core-java/69.0 Queue Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "core-java/69.0 Queue Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "core-java/69.0 Queue Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/68.0 Set.md"
+                "file": "core-java/69.0 Queue Interface.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +169,8 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
-    "core-java/67.0 LinkedList.md",
     "core-java/68.0 Set.md",
+    "core-java/67.0 LinkedList.md",
     "core-java/66.0 Vector.md",
     "core-java/65.0 ArrayList.md",
     "core-java/64.0 ArrayList.md",
@@ -178,7 +179,7 @@
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
-    "core-java/Untitled 3.md",
+    "core-java/69.0 Queue Interface.md",
     "core-java/60.0 io Streams.md",
     "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
