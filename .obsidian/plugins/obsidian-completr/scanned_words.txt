@@ -1331,6 +1331,7 @@ FXt
 FqLR
 FLa
 Fully
+Functional
 elements
 enum
 else
@@ -2752,6 +2753,7 @@ isEmpty
 installation
 introduces
 identical
+includes
 java
 javascript
 jc
@@ -5555,6 +5557,7 @@ wrapping
 waiting
 went
 willing
+was
 need
 necessary
 never
@@ -7485,6 +7488,7 @@ unchecked
 until
 underlying
 updates
+upgrades
 our
 of
 or
@@ -8199,6 +8203,7 @@ override
 overriding
 objet
 operators
+oracle
 project
 public
 private
@@ -9544,6 +9549,8 @@ lindT
 lGoO
 locations
 linkedlist
+liste
+lectures
 syntax
 set
 security
@@ -10359,6 +10366,7 @@ standard
 supports
 search
 significant
+sorting
 rules
 restrictions
 returning
@@ -11068,6 +11076,10 @@ receiving
 repeating
 react
 reduce
+revolutionary
+release
+remaining
+recorded
 follow
 for
 from
@@ -11740,6 +11752,7 @@ filter
 filtering
 filtered
 filters
+forEach
 get
 gap
 general
@@ -13737,6 +13750,7 @@ DZy
 Djm
 Declare
 During
+DateTime
 Life
 Logic
 Let
@@ -14383,6 +14397,7 @@ LBh
 Lvv
 LinkedHashset
 LOST
+Lambda
 Cycle
 CONCEPTS
 CLASS
@@ -15085,6 +15100,7 @@ Compile
 Checked
 Clone
 Collection
+Collectors
 devops
 default
 data
@@ -16531,6 +16547,8 @@ makes
 maintained
 manipulating
 map
+major
+maybe
 ACCESS
 Abstraction
 Angular
@@ -17769,6 +17787,7 @@ Multiple
 METHOD
 MethodName
 MULTIPLE
+March
 accessModifiers
 access
 around
@@ -18460,6 +18479,7 @@ arraylist
 arrayList
 again
 activity
+arra
 NOTE
 Name
 New
@@ -21115,6 +21135,7 @@ OLD
 OVERRIDEN
 OVERRIDING
 Only
+Optional
 Powers
 Polymorphism
 Postgres

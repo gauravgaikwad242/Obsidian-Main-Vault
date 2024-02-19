@@ -1,0 +1,5 @@
+- exception handling 1 done around 2 remaining 
+- collection framework list, set done vector map remaining , dont have map lectures 
+- garbage collector - (not sure if lectures are recorded)
+- multithreading - maybe 2 lectures are done 
+- io streams 

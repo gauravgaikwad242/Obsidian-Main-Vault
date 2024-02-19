@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
+                "file": "core-java/72.1 Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
+                "file": "core-java/72.1 Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
+                "file": "core-java/72.1 Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md"
+                "file": "core-java/72.1 Lambda Expression.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af3e04f4654b6c6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240219084922.png",
+    "core-java/Remaining Lectures.md",
+    "core-java/47.0 Interface.md",
+    "core-java/66.0 Vector absent.md",
+    "core-java/72.1 Lambda Expression.md",
+    "core-java/Untitled 2.md",
+    "core-java/Untitled 1.md",
+    "core-java/72.0 Java 8 features.md",
+    "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/DEBOUNCE-TIME-RXJS.md",
     "Project-Reactor/Operators/transform.md",
     "Project-Reactor/Operators/handle.md",
@@ -182,28 +190,19 @@
     "core-java/69.1 collection.md",
     "core-java/images/Pasted image 20240214085705.png",
     "core-java/Untitled 3.md",
-    "core-java/Untitled 2.md",
-    "core-java/Untitled 1.md",
     "core-java/69.0 Queue Interface.md",
     "core-java/68.0 Set.md",
     "core-java/67.0 LinkedList.md",
-    "core-java/66.0 Vector.md",
     "core-java/65.0 ArrayList.md",
     "core-java/64.0 ArrayList.md",
-    "core-java/63.0 Collection Framework.md",
     "core-java/images/Pasted image 20240206084537.png",
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
-    "core-java/60.0 io Streams.md",
-    "core-java/62.1 Serialization, Object Streams.md",
     "core-java/images/Pasted image 20240205085454.png",
     "core-java/images/Pasted image 20240205085113.png",
     "core-java/images/Pasted image 20240205084848.png",
-    "core-java/39.0 String StringBuffer StringBuilder.md",
     "core-java/images/Pasted image 20240205084630.png",
-    "core-java/62.0 Data Streams.md",
-    "core-java/61.0 Buffer Streams.md",
     "core-java/images/Pasted image 20240203083324.png",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
