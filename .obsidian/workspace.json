@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/69.1 collection.md",
+                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203,
-    "collapsed": true
+    "width": 234.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/69.1 collection.md",
+                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/69.1 collection.md",
+                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/69.1 collection.md"
+                "file": "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md"
               }
             }
           },
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +169,16 @@
   },
   "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "RXJS/DEBOUNCE-TIME-RXJS.md",
+    "Project-Reactor/Operators/transform.md",
+    "Project-Reactor/Operators/handle.md",
+    "core-java/47.1 Ambiguity In Interface.md",
+    "core-java/43.1 Multi-level & hierarchical Inheritance.md",
+    "core-java/43.2 Multiple Inheritance.md",
+    "core-java/45 Method Overriding.md",
+    "Angular-14/ngrx/3.0 Built In function approach.md",
+    "Angular-14/ngrx/2.0 setup.md",
+    "Angular-14/ngrx/1.0 NgRx.md",
     "core-java/69.1 collection.md",
     "core-java/images/Pasted image 20240214085705.png",
     "core-java/Untitled 3.md",
@@ -195,15 +205,6 @@
     "core-java/62.0 Data Streams.md",
     "core-java/61.0 Buffer Streams.md",
     "core-java/images/Pasted image 20240203083324.png",
-    "core-java/59.0 Garbage Collector.md",
-    "core-java/58.1 Final keyword.md",
-    "core-java/58.0 Clone method.md",
-    "core-java/42.0 Inheritance.md",
-    "core-java/57.2 Demon Thread.md",
-    "core-java/57.1 Thread Pooling.md",
-    "core-java/57.0 Thread Group.md",
-    "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
-    "core-java/56.0.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
