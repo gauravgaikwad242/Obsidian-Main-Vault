@@ -2754,6 +2754,7 @@ installation
 introduces
 identical
 includes
+infer
 java
 javascript
 jc
@@ -8204,6 +8205,7 @@ overriding
 objet
 operators
 oracle
+ont
 project
 public
 private
@@ -18480,6 +18482,7 @@ arrayList
 again
 activity
 arra
+anonymous
 NOTE
 Name
 New
