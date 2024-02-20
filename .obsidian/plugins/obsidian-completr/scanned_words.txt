@@ -2048,6 +2048,7 @@ emmit
 emissions
 elapses
 encountered
+existing
 in
 interface
 interview
@@ -2755,6 +2756,7 @@ introduces
 identical
 includes
 infer
+introduce
 java
 javascript
 jc
@@ -9553,6 +9555,7 @@ locations
 linkedlist
 liste
 lectures
+lamda
 syntax
 set
 security
@@ -11082,6 +11085,7 @@ revolutionary
 release
 remaining
 recorded
+referencing
 follow
 for
 from
@@ -15805,6 +15809,7 @@ duplicate
 delay
 discarded
 distinct
+defining
 make
 more
 method
@@ -18483,6 +18488,7 @@ again
 activity
 arra
 anonymous
+advantage
 NOTE
 Name
 New
@@ -25015,6 +25021,8 @@ Runtime
 RUNTIME
 Runnable
 RxJS
+Reference
+Refernce
 value
 void
 vanilla

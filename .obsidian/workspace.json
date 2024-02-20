@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/72.1 Lambda Expression.md",
+                "file": "core-java/73.0 Method Referencing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/72.1 Lambda Expression.md",
+                "file": "core-java/73.0 Method Referencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/72.1 Lambda Expression.md",
+                "file": "core-java/73.0 Method Referencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/72.1 Lambda Expression.md"
+                "file": "core-java/73.0 Method Referencing.md"
               }
             }
           },
@@ -168,13 +168,15 @@
   },
   "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/68.0 Set.md",
+    "core-java/67.0 LinkedList.md",
+    "core-java/73.0 Method Referencing.md",
+    "core-java/72.1 Lambda Expression.md",
     "core-java/images/Pasted image 20240219084922.png",
     "core-java/Remaining Lectures.md",
     "core-java/47.0 Interface.md",
     "core-java/66.0 Vector absent.md",
-    "core-java/72.1 Lambda Expression.md",
     "core-java/Untitled 2.md",
-    "core-java/Untitled 1.md",
     "core-java/72.0 Java 8 features.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/DEBOUNCE-TIME-RXJS.md",
@@ -191,8 +193,6 @@
     "core-java/images/Pasted image 20240214085705.png",
     "core-java/Untitled 3.md",
     "core-java/69.0 Queue Interface.md",
-    "core-java/68.0 Set.md",
-    "core-java/67.0 LinkedList.md",
     "core-java/65.0 ArrayList.md",
     "core-java/64.0 ArrayList.md",
     "core-java/images/Pasted image 20240206084537.png",
@@ -203,7 +203,6 @@
     "core-java/images/Pasted image 20240205085113.png",
     "core-java/images/Pasted image 20240205084848.png",
     "core-java/images/Pasted image 20240205084630.png",
-    "core-java/images/Pasted image 20240203083324.png",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
