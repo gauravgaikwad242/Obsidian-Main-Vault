@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/73.0 Method Referencing.md",
+                "file": "core-java/74.0 Stream API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/73.0 Method Referencing.md",
+                "file": "core-java/74.0 Stream API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/73.0 Method Referencing.md",
+                "file": "core-java/74.0 Stream API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/73.0 Method Referencing.md"
+                "file": "core-java/74.0 Stream API.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "2af3e04f4654b6c6",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240221081825.png",
+    "Project-Reactor/creation/Mono.justOrEmpty.md",
+    "core-java/74.0 Stream API.md",
+    "core-java/images/Pasted image 20240221081559.png",
+    "core-java/73.0 Method Referencing.md",
     "core-java/68.0 Set.md",
     "core-java/67.0 LinkedList.md",
-    "core-java/73.0 Method Referencing.md",
     "core-java/72.1 Lambda Expression.md",
     "core-java/images/Pasted image 20240219084922.png",
     "core-java/Remaining Lectures.md",
@@ -193,8 +198,6 @@
     "core-java/images/Pasted image 20240214085705.png",
     "core-java/Untitled 3.md",
     "core-java/69.0 Queue Interface.md",
-    "core-java/65.0 ArrayList.md",
-    "core-java/64.0 ArrayList.md",
     "core-java/images/Pasted image 20240206084537.png",
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
@@ -202,7 +205,6 @@
     "core-java/images/Pasted image 20240205085454.png",
     "core-java/images/Pasted image 20240205085113.png",
     "core-java/images/Pasted image 20240205084848.png",
-    "core-java/images/Pasted image 20240205084630.png",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",

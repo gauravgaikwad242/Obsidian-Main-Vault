@@ -2049,6 +2049,7 @@ emissions
 elapses
 encountered
 existing
+emits
 in
 interface
 interview
@@ -11086,6 +11087,7 @@ release
 remaining
 recorded
 referencing
+reading
 follow
 for
 from
@@ -11759,6 +11761,7 @@ filtering
 filtered
 filters
 forEach
+flux
 get
 gap
 general
@@ -13078,6 +13081,8 @@ SUPPLIER
 Schedular
 Sleep
 SEARCH
+Stream
+Streams
 Developement
 Data
 DataSource
@@ -19867,6 +19872,7 @@ heterogeneous
 half
 hasNext
 hashset
+huge
 keyword
 keywork
 kafka
