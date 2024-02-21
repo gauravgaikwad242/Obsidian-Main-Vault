@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af3e04f4654b6c6",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240221090102.png",
+    "core-java/images/Pasted image 20240221084816.png",
+    "core-java/images/Pasted image 20240221083625.png",
     "core-java/images/Pasted image 20240221081825.png",
     "Project-Reactor/creation/Mono.justOrEmpty.md",
     "core-java/74.0 Stream API.md",
@@ -202,9 +204,6 @@
     "core-java/images/Pasted image 20240206083855.png",
     "core-java/images/Pasted image 20240206083828.png",
     "core-java/images/Pasted image 20240206075557.png",
-    "core-java/images/Pasted image 20240205085454.png",
-    "core-java/images/Pasted image 20240205085113.png",
-    "core-java/images/Pasted image 20240205084848.png",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
