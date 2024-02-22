@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31ce388043bc949f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/75.1 Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af3e04f4654b6c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular-14/questions/100 REopen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eaf951097ec4a8ea",
             "type": "leaf",
             "state": {
@@ -91,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203
+    "width": 234.50818634033203,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -107,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/75.1 Sort.md",
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/75.1 Sort.md",
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/75.1 Sort.md"
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
               }
             }
           },
@@ -176,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,24 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31ce388043bc949f",
+  "active": "eaf951097ec4a8ea",
   "lastOpenFiles": [
-    "core-java/images/Pasted image 20240222081649.png",
+    "Angular-14/httpclient/status code in response.md",
+    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+    "Angular-14/httpclient",
+    "Angular-14/questions/100 REopen.md",
+    "core-java/75.3 Instance Block.md",
+    "core-java/images/Pasted image 20240222084948.png",
+    "core-java/75.2 New Date Time API.md",
+    "core-java/images/Pasted image 20240222084039.png",
+    "core-java/75.1 Array Sort.md",
     "core-java/75.0 Optional class.md",
+    "core-java/Remaining Lectures.md",
+    "core-java/images/Pasted image 20240222083621.png",
+    "core-java/images/Pasted image 20240222081649.png",
     "core-java/images/Pasted image 20240222080429.png",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
-    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
-    "Angular-14/questions/100 REopen.md",
     "core-java/1. Intro.md",
     "core-java/images/Pasted image 20240221193707.png",
     "core-java/images/Pasted image 20240221193547.png",
     "core-java/images/Pasted image 20240221193136.png",
     "core-java/images/Pasted image 20240221192923.png",
     "core-java/images/Pasted image 20240221192913.png",
-    "core-java/images/Pasted image 20240221192626.png",
-    "core-java/images/Pasted image 20240221192412.png",
-    "core-java/images/Pasted image 20240221192333.png",
-    "core-java/images/Pasted image 20240221191913.png",
     "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/74.0 Stream API.md",
     "Project-Reactor/creation/Mono.justOrEmpty.md",
@@ -214,7 +195,6 @@
     "core-java/68.0 Set.md",
     "core-java/67.0 LinkedList.md",
     "core-java/72.1 Lambda Expression.md",
-    "core-java/Remaining Lectures.md",
     "core-java/47.0 Interface.md",
     "core-java/66.0 Vector absent.md",
     "core-java/72.0 Java 8 features.md",
@@ -225,10 +205,6 @@
     "core-java/47.1 Ambiguity In Interface.md",
     "core-java/43.1 Multi-level & hierarchical Inheritance.md",
     "core-java/43.2 Multiple Inheritance.md",
-    "core-java/45 Method Overriding.md",
-    "Angular-14/ngrx/3.0 Built In function approach.md",
-    "Angular-14/ngrx/2.0 setup.md",
-    "Angular-14/ngrx/1.0 NgRx.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
@@ -236,7 +212,6 @@
     "springboot/question/spring-interview-questions.pdf",
     "Angular-14/ngrx/I",
     "Angular-14/ngrx",
-    "core-java/15.1- constructor.pdf",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
