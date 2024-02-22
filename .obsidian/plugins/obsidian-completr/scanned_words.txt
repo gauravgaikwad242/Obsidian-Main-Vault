@@ -2050,6 +2050,8 @@ elapses
 encountered
 existing
 emits
+enough
+emitter
 in
 interface
 interview
@@ -2758,6 +2760,12 @@ identical
 includes
 infer
 introduce
+identity
+identify
+imports
+interpolation
+injection
+injectable
 java
 javascript
 jc
@@ -4085,6 +4093,8 @@ trigger
 treeset
 tool
 timer
+tree
+template
 code
 class
 constants
@@ -4886,6 +4896,8 @@ compared
 chain
 controlling
 consecutive
+communicate
+chaining
 we
 when
 want
@@ -6190,6 +6202,19 @@ normal
 nanosecond
 nature
 noise
+ngif
+ngfor
+ngswich
+ngstyle
+ngclass
+ngIF
+ngFor
+ngSwitch
+ngStyle
+ngClass
+ngOnChanges
+ngOnInit
+ngoninit
 Enum
 Encapsulation
 EntityManager
@@ -6834,6 +6859,7 @@ Exceptions
 EVEN
 EMMITED
 Emits
+Event
 use
 universal
 used
@@ -7493,6 +7519,7 @@ until
 underlying
 updates
 upgrades
+uniquely
 our
 of
 or
@@ -8907,6 +8934,10 @@ println
 priorityqueue
 pipe
 previously
+pipes
+providers
+providedIn
+provider
 less
 lower
 letter
@@ -9557,6 +9588,7 @@ linkedlist
 liste
 lectures
 lamda
+live
 syntax
 set
 security
@@ -10373,6 +10405,9 @@ supports
 search
 significant
 sorting
+superset
+structural
+serviceName
 rules
 restrictions
 returning
@@ -11088,6 +11123,8 @@ remaining
 recorded
 referencing
 reading
+root
+reusable
 follow
 for
 from
@@ -11762,6 +11799,7 @@ filtered
 filters
 forEach
 flux
+files
 get
 gap
 general
@@ -15815,6 +15853,14 @@ delay
 discarded
 distinct
 defining
+declaret
+divide
+databinding
+directives
+decorator
+decorators
+dependencyInjector
+dep
 make
 more
 method
@@ -16561,6 +16607,11 @@ manipulating
 map
 major
 maybe
+modules
+mouse
+most
+mension
+mensioned
 ACCESS
 Abstraction
 Angular
@@ -17800,6 +17851,7 @@ METHOD
 MethodName
 MULTIPLE
 March
+MODULE
 accessModifiers
 access
 around
@@ -18494,6 +18546,7 @@ activity
 arra
 anonymous
 advantage
+appearence
 NOTE
 Name
 New
@@ -19873,6 +19926,8 @@ half
 hasNext
 hashset
 huge
+hierarchial
+hooks
 keyword
 keywork
 kafka
@@ -23041,6 +23096,7 @@ INTERFACE
 Interrupt
 Iterator
 Import
+Interpolation
 be
 byte
 boolean
@@ -23723,6 +23779,11 @@ bobj
 book
 bad
 basing
+building
+brings
+big
+bootstrapped
+buttonclick
 Business
 By
 Boot
@@ -25661,6 +25722,8 @@ vJcW
 variant
 versions
 vector
+vvip
+vvimp
 qoutes
 question
 qIron
@@ -28251,6 +28314,8 @@ Vkz
 VPEw
 VjK
 VALUES
+VVIP
+VIDEO
 You
 Yes
 Yv
@@ -30116,6 +30181,7 @@ WIu
 WdAK
 Write
 WHEN
+WATH
 Generated
 Go
 Gv
