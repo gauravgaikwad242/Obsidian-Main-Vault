@@ -11,9 +11,11 @@
             "id": "eaf951097ec4a8ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
+                "file": "Angular-14/httpclient/http Interceptors.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203,
-    "collapsed": true
+    "width": 234.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+                "file": "Angular-14/httpclient/http Interceptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+                "file": "Angular-14/httpclient/http Interceptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
+                "file": "Angular-14/httpclient/http Interceptors.md"
               }
             }
           },
@@ -168,8 +169,13 @@
   },
   "active": "eaf951097ec4a8ea",
   "lastOpenFiles": [
-    "Angular-14/httpclient/status code in response.md",
+    "Angular-14/httpclient/headers injection.md",
+    "Angular-14/httpclient/http Interceptors.md",
+    "Angular-14/routing/query param.md",
+    "Angular-14/routing/path param.md",
+    "Angular-14/routing",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+    "Angular-14/httpclient/status code in response.md",
     "Angular-14/httpclient",
     "Angular-14/questions/100 REopen.md",
     "core-java/75.3 Instance Block.md",
@@ -203,16 +209,12 @@
     "RXJS/DEBOUNCE-TIME-RXJS.md",
     "Project-Reactor/Operators/transform.md",
     "Project-Reactor/Operators/handle.md",
-    "core-java/47.1 Ambiguity In Interface.md",
-    "core-java/43.1 Multi-level & hierarchical Inheritance.md",
-    "core-java/43.2 Multiple Inheritance.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
     "springboot/Websocket",
     "springboot/question/spring-interview-questions.pdf",
     "Angular-14/ngrx/I",
-    "Angular-14/ngrx",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
