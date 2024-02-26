@@ -11,9 +11,19 @@
             "id": "eaf951097ec4a8ea",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
+              }
+            }
+          },
+          {
+            "id": "df2dd5e3953e7990",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular-14/httpclient/http Interceptors.md",
+                "file": "core-java/46.0 Abstraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203
+    "width": 234.50818634033203,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/httpclient/http Interceptors.md",
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/httpclient/http Interceptors.md",
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/httpclient/http Interceptors.md"
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
               }
             }
           },
@@ -169,13 +180,15 @@
   },
   "active": "eaf951097ec4a8ea",
   "lastOpenFiles": [
-    "Angular-14/httpclient/headers injection.md",
+    "core-java/46.0 Abstraction.md",
+    "core-java/44.0 Polymorphism.md",
+    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "Angular-14/httpclient/http Interceptors.md",
+    "Angular-14/httpclient/status code in response.md",
+    "Angular-14/httpclient/headers injection.md",
     "Angular-14/routing/query param.md",
     "Angular-14/routing/path param.md",
     "Angular-14/routing",
-    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
-    "Angular-14/httpclient/status code in response.md",
     "Angular-14/httpclient",
     "Angular-14/questions/100 REopen.md",
     "core-java/75.3 Instance Block.md",
@@ -207,8 +220,6 @@
     "core-java/72.0 Java 8 features.md",
     "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "RXJS/DEBOUNCE-TIME-RXJS.md",
-    "Project-Reactor/Operators/transform.md",
-    "Project-Reactor/Operators/handle.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
