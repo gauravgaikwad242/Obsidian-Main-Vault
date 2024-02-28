@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular-14/Curious IMP.md",
+                "file": "untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/Curious IMP.md",
+                "file": "untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/Curious IMP.md",
+                "file": "untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/Curious IMP.md"
+                "file": "untitled/Untitled.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "5c251b069320c146",
   "lastOpenFiles": [
+    "java/links/JAVA LINKS.md",
+    "Angular-14/Curious IMP.md",
+    "freecodecamp/image1.md",
     "core-java/46.0 Abstraction.md",
     "core-java/44.0 Polymorphism.md",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
@@ -205,9 +208,6 @@
     "core-java/72.1 Lambda Expression.md",
     "core-java/47.0 Interface.md",
     "core-java/66.0 Vector absent.md",
-    "core-java/72.0 Java 8 features.md",
-    "RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
-    "RXJS/DEBOUNCE-TIME-RXJS.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
