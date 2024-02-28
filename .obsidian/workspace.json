@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaf951097ec4a8ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
-              }
-            }
-          },
-          {
-            "id": "df2dd5e3953e7990",
+            "id": "5c251b069320c146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/46.0 Abstraction.md",
+                "file": "Angular-14/Curious IMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203,
-    "collapsed": true
+    "width": 234.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+                "file": "Angular-14/Curious IMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
+                "file": "Angular-14/Curious IMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
+                "file": "Angular-14/Curious IMP.md"
               }
             }
           },
@@ -165,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaf951097ec4a8ea",
+  "active": "5c251b069320c146",
   "lastOpenFiles": [
     "core-java/46.0 Abstraction.md",
     "core-java/44.0 Polymorphism.md",
