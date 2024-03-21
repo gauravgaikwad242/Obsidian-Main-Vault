@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "untitled/Untitled.md",
+                "file": "core-java/3.0 Internal Architecture of JVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "untitled/Untitled.md",
+                "file": "core-java/3.0 Internal Architecture of JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "untitled/Untitled.md",
+                "file": "core-java/3.0 Internal Architecture of JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "untitled/Untitled.md"
+                "file": "core-java/3.0 Internal Architecture of JVM.md"
               }
             }
           },
@@ -166,8 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c251b069320c146",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
+    "core-java/Interview/Java Interview Questions and Answers.pdf",
+    "core-java/Interview",
+    "core-java/New folder",
+    "core-java/4.0 JVM JRE & JDK.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "untitled/Untitled.md",
     "java/links/JAVA LINKS.md",
     "Angular-14/Curious IMP.md",
     "freecodecamp/image1.md",
@@ -204,16 +210,10 @@
     "Project-Reactor/creation/Mono.justOrEmpty.md",
     "core-java/73.0 Method Referencing.md",
     "core-java/68.0 Set.md",
-    "core-java/67.0 LinkedList.md",
-    "core-java/72.1 Lambda Expression.md",
-    "core-java/47.0 Interface.md",
-    "core-java/66.0 Vector absent.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
     "springboot/Websocket",
-    "springboot/question/spring-interview-questions.pdf",
-    "Angular-14/ngrx/I",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
