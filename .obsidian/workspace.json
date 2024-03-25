@@ -10,10 +10,22 @@
           {
             "id": "5c251b069320c146",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "core-java/Interview/Java Interview Questions and Answers.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "92865ee843c13f15",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/3.0 Internal Architecture of JVM.md",
+                "file": "core-java/33.0 Package.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203
+    "width": 234.50818634033203,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/3.0 Internal Architecture of JVM.md",
+                "file": "core-java/Interview/Java Interview Questions and Answers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/3.0 Internal Architecture of JVM.md",
+                "file": "core-java/Interview/Java Interview Questions and Answers.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/3.0 Internal Architecture of JVM.md"
+                "file": "core-java/Interview/Java Interview Questions and Answers.pdf"
               }
             }
           },
@@ -154,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "5c251b069320c146",
   "lastOpenFiles": [
+    "core-java/33.0 Package.md",
+    "core-java/10. Main() Method.md",
     "core-java/Interview/Java Interview Questions and Answers.pdf",
+    "core-java/8.0 Naming Convention & Seperators.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
     "core-java/Interview",
     "core-java/New folder",
     "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
     "untitled/Untitled.md",
     "java/links/JAVA LINKS.md",
     "Angular-14/Curious IMP.md",
@@ -208,12 +225,9 @@
     "Angular-14/questions/100 Angular interview Q&A.pdf",
     "core-java/74.0 Stream API.md",
     "Project-Reactor/creation/Mono.justOrEmpty.md",
-    "core-java/73.0 Method Referencing.md",
-    "core-java/68.0 Set.md",
     "core-java/12.1-java keywords & Variables.pdf",
     "springboot/webflux",
     "Project-Reactor/Untitled",
-    "springboot/Websocket",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
