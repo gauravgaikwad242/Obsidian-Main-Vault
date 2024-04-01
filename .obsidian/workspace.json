@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50818634033203
+    "width": 267.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/68.0 Set.md",
+                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/68.0 Set.md"
+                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md"
               }
             }
           },
@@ -182,13 +182,30 @@
   },
   "active": "6af675d8edeca089",
   "lastOpenFiles": [
+    "springboot/_spring-core/Dependency Injection.md",
+    "springboot/_spring-core/Spring Bean Factory and Application Context.md",
+    "springboot/_spring-core/Inversion of control.md",
+    "core-java/47.0 Interface.md",
+    "springboot/_spring-core",
+    "core-java/64.0 ArrayList.md",
+    "core-java/65.0 ArrayList.md",
+    "core-java/69.0 Queue Interface.md",
+    "core-java/68.0 Set.md",
     "core-java/67.0 LinkedList.md",
     "core-java/66.0 Vector absent.md",
-    "core-java/65.0 ArrayList.md",
-    "core-java/64.0 ArrayList.md",
+    "core-java/69.1 collection.md",
     "core-java/63.0 Collection Framework.md",
+    "core-java/Interview/Collection Questions.md",
+    "core-java/Interview/most common java questions.md",
+    "core-java/62.1 Serialization, Object Streams.md",
+    "core-java/Remaining Lectures.md",
+    "core-java/io-streams/Buffered Streams.png",
+    "core-java/io-streams/5-Feb-2024.png",
+    "core-java/io-streams/2-Feb-2024 part 2.png",
+    "core-java/io-streams/2-Feb-2024 part 1.png",
+    "core-java/io-streams/2-Feb-2024.pdf",
+    "core-java/io-streams/Data & Object Streams.pdf",
     "Angular-14/conditional property for tag.md",
-    "core-java/Interview/video question.md",
     "core-java/7.0 Object Class Methods.md",
     "core-java/Interview/DOUBT.md",
     "core-java/49.0 Exception Handling.md",
@@ -199,30 +216,13 @@
     "core-java/43.3 super & super().md",
     "core-java/41.1 Encapsulation.md",
     "core-java/41.0 OOP.md",
-    "core-java/40.1 comparison.md",
-    "core-java/40.0 String builder and String buffer.md",
-    "core-java/38.0 string practice.md",
-    "core-java/39.0 String StringBuffer StringBuilder.md",
-    "core-java/37.0 String Handling.md",
-    "core-java/36.0 String Handling.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/75.0 Optional class.md",
-    "core-java/74.0 Stream API.md",
     "core-java/images/Pasted image 20240325200004.png",
-    "core-java/io-streams/Buffered Streams.png",
-    "core-java/io-streams/5-Feb-2024.png",
-    "core-java/io-streams/2-Feb-2024 part 2.png",
-    "core-java/io-streams/2-Feb-2024 part 1.png",
-    "core-java/io-streams/2-Feb-2024.pdf",
-    "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",
     "core-java/io-streams",
     "core-java/Interview",
     "core-java/New folder",
-    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "core-java/images/Pasted image 20240222084948.png",
     "core-java/images/Pasted image 20240222084039.png",
     "core-java/images/Pasted image 20240222083621.png",

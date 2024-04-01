@@ -6777,6 +6777,7 @@ tSBz
 tZC
 tWC
 tgh
+tostring
 code
 class
 constants
@@ -8039,6 +8040,7 @@ cGO
 cjK
 complexity
 crashes
+cloning
 we
 when
 want
@@ -17019,6 +17021,8 @@ sWC
 sTf
 sxF
 sequence
+steps
+singleton
 rules
 restrictions
 returning
@@ -19326,6 +19330,7 @@ foX
 fCFr
 fca
 functions
+functionality
 get
 gap
 general
@@ -20406,6 +20411,7 @@ gWh
 gHME
 gPdb
 gJUG
+getter
 SDLC
 Software
 Super
@@ -23662,6 +23668,7 @@ LFp
 LEM
 Lfn
 LaI
+LinkedList
 Cycle
 CONCEPTS
 CLASS
@@ -25939,6 +25946,7 @@ dWzYq
 ded
 dQgQ
 dNk
+deep
 make
 more
 method
@@ -27122,6 +27130,7 @@ mgs
 mfl
 mbh
 member
+mutable
 ACCESS
 Abstraction
 Angular
@@ -32567,6 +32576,7 @@ hyL
 hgwinNNR
 hDk
 hCKX
+hashcode
 keyword
 keywork
 kafka
