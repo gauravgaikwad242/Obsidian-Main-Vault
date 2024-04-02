@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
+                "file": "core-java/6.0 Object Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
+                "file": "core-java/6.0 Object Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md",
+                "file": "core-java/6.0 Object Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/_spring-core/Spring Bean Factory and Application Context.md"
+                "file": "core-java/6.0 Object Class.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "6af675d8edeca089",
   "lastOpenFiles": [
-    "springboot/_spring-core/Dependency Injection.md",
     "springboot/_spring-core/Spring Bean Factory and Application Context.md",
+    "springboot/_spring-core/Dependency Injection.md",
     "springboot/_spring-core/Inversion of control.md",
     "core-java/47.0 Interface.md",
     "springboot/_spring-core",
