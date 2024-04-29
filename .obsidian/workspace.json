@@ -23,9 +23,11 @@
             "id": "6af675d8edeca089",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "core-java/io-streams/2-Feb-2024 part 2.png"
+                "file": "core-java/programms/4callmethodbyobj.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/io-streams/2-Feb-2024 part 2.png",
+                "file": "core-java/programms/4callmethodbyobj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/io-streams/2-Feb-2024 part 2.png",
+                "file": "core-java/programms/4callmethodbyobj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/io-streams/2-Feb-2024 part 2.png"
+                "file": "core-java/programms/4callmethodbyobj.md"
               }
             }
           },
@@ -178,13 +180,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "6af675d8edeca089",
   "lastOpenFiles": [
+    "core-java/75.0 Optional class.md",
+    "core-java/5.0 Class.md",
+    "core-java/4.0 JVM JRE & JDK.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "core-java/1. Intro.md",
+    "core-java/2. History & c vs c++ vs java.md",
+    "core-java/Interview/most common java questions.md",
+    "core-java/Interview/Java Interview Questions and Answers.pdf",
+    "core-java/Interview/DOUBT.md",
+    "core-java/Interview/Collection Questions.md",
+    "core-java/io-streams/2-Feb-2024 part 2.png",
     "core-java/io-streams/5-Feb-2024.png",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.png",
     "core-java/io-streams/Buffered Streams.pdf",
-    "core-java/io-streams/2-Feb-2024 part 2.png",
     "core-java/io-streams/2-Feb-2024 part 1.png",
     "core-java/io-streams/2-Feb-2024.pdf",
     "core-java/6.0 Object Class.md",
@@ -201,19 +213,10 @@
     "core-java/66.0 Vector absent.md",
     "core-java/69.1 collection.md",
     "core-java/63.0 Collection Framework.md",
-    "core-java/Interview/Collection Questions.md",
-    "core-java/Interview/most common java questions.md",
     "core-java/62.1 Serialization, Object Streams.md",
     "core-java/Remaining Lectures.md",
     "Angular-14/conditional property for tag.md",
     "core-java/7.0 Object Class Methods.md",
-    "core-java/Interview/DOUBT.md",
-    "core-java/49.0 Exception Handling.md",
-    "core-java/50.md",
-    "core-java/51.md",
-    "core-java/52 throw and throws.md",
-    "core-java/Interview/Java Interview Questions and Answers.pdf",
-    "core-java/43.3 super & super().md",
     "core-java/images/Pasted image 20240325200004.png",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",

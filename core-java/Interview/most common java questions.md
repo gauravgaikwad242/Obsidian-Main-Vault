@@ -18,7 +18,7 @@
 		2. for static method if we try to do override it it will hide parent class method that is know as METHOD HIDING
 7. does finally always execute in java? 
 	1. it doesnt execute only when
-	2. when we call system.exit()
+	2. when we call system.exit()  
 	3. when system crashes
 8. what methods does object class have?
 	1. clone - copy of object 
