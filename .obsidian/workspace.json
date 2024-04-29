@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50d191a837cceb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/programms/4callmethodbyobj.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/programms/4callmethodbyobj.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/programms/4callmethodbyobj.md"
+                "file": "Links.md"
               }
             }
           },
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6af675d8edeca089",
+  "active": "50d191a837cceb48",
   "lastOpenFiles": [
+    "core-java/programms/4callmethodbyobj.md",
+    "Links.md",
+    "untitled/Untitled.md",
     "core-java/75.0 Optional class.md",
     "core-java/5.0 Class.md",
     "core-java/4.0 JVM JRE & JDK.md",
@@ -214,9 +228,6 @@
     "core-java/69.1 collection.md",
     "core-java/63.0 Collection Framework.md",
     "core-java/62.1 Serialization, Object Streams.md",
-    "core-java/Remaining Lectures.md",
-    "Angular-14/conditional property for tag.md",
-    "core-java/7.0 Object Class Methods.md",
     "core-java/images/Pasted image 20240325200004.png",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",
