@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6af675d8edeca089",
+  "active": "60592059ab1c7ecc",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240430211208.png",
+    "core-java/images/Pasted image 20240430210856.png",
+    "core-java/images/Pasted image 20240430200205.png",
     "core-java/images/Pasted image 20240430195408.png",
     "core-java/images/Pasted image 20240430194727.png",
     "core-java/images/Pasted image 20240430192208.png",
@@ -222,13 +224,10 @@
     "core-java/67.0 LinkedList.md",
     "core-java/66.0 Vector absent.md",
     "core-java/69.1 collection.md",
-    "core-java/images/Pasted image 20240325200004.png",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",
     "core-java/io-streams",
     "core-java/Interview",
-    "core-java/images/Pasted image 20240222084948.png",
-    "core-java/images/Pasted image 20240222084039.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

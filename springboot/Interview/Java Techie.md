@@ -4,13 +4,13 @@
 ### Part 1
 
 1. why will you choose spring boot over spring framework? 
-- Dependency Resolution and version resolution
-	- no need to add all the dependency like spring-core, spring context, spring tx(transaction), hibernate core, jackson dependency etc
-	- avoids version conflict
-	- we need to Remember all the dependency we need to add , in springboot it takes from spring parent
-- Avoid Addition Configuration 
-- Embed Tomcat, Jetty no need of war files 
-- production ready features such as metrics, health checks 
+	- Dependency Resolution and version resolution
+		- no need to add all the dependency like spring-core, spring context, spring tx(transaction), hibernate core, jackson dependency etc
+		- avoids version conflict
+		- we need to Remember all the dependency we need to add , in springboot it takes from spring parent
+	- Avoid Addition Configuration 
+	- Embed Tomcat, Jetty no need of war files 
+	- production ready features such as metrics, health checks 
 
 ![[Pasted image 20240429202657.png]]
 
@@ -42,6 +42,8 @@
 		- but only under its package 
 	- @Configuration
 		- it allows to configure beans 
+		- 
+
 5. will app work with above 3 anotation instead of @Springbootapplication? will app run??
 	- yes 
 
@@ -83,3 +85,52 @@
 		- there are three factories which all return applicationcontext
 		- ![[Pasted image 20240430195408.png]]
 		- generally servlet for spring web
+		- ![[Pasted image 20240430200205.png]]
+	4. configures the embedded tomcat server  
+
+10. what is Command Line Runner in spring boot?
+	1. if we need something to be run at application startup we write in the commandlinerunner run method 
+	2. activity like dbconnection, datapopulation, preprocessing logic 
+	3. which one run first springapplicattion.run or cmd.run 
+		1. springapplication run method will run first 
+
+<hr> 
+
+### Part 2 
+
+11. explain purpose of stereotype annotations in the spring framework?
+	1. @Component 
+	2. @Service 
+		1. implements component
+	3. @Repository 
+	4. @Controller 
+	5. @RestController
+		1. @Controller
+		2. @ResponseBody
+	6. use to create bean of the class 
+	7. these anotations defines the role of the class 
+	8. using these will make it easy to identify role of the class to developer 
+
+12. How can you define bean in spring framework? 
+	1. by using stereotype annotation 
+	2. by using java base config 
+		- create config class 
+		- annotate with @configuration 
+		- create bean method 
+		- annotate the method with @Bean 
+
+13.  ? VVIMP 
+	1. KEY FEATURE, BACKBONE OF SPRING framework
+	2. <mark style="background: #FFB86CA6;">DI is design pattern and it is used to achieve loose coupling between classes within an application by removing the dependency between them</mark>
+	3. instead of managing java object by developers, framework will handle it for use
+
+14. How many ways we can perform dependency injection? 
+	1. field lever DI 
+		1. @Autowire 
+	2. setter injection 
+		1. ![[Pasted image 20240430210856.png]]
+	3. constructor DI
+	4. ![[Pasted image 20240430211208.png]]
+
+15. where would you choose setter injection over constructor and vice versa? 
+	1. 
