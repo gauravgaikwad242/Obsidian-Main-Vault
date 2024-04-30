@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +183,9 @@
   },
   "active": "6af675d8edeca089",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240430195408.png",
+    "core-java/images/Pasted image 20240430194727.png",
+    "core-java/images/Pasted image 20240430192208.png",
     "core-java/images/Pasted image 20240429202657.png",
     "core-java/programms/4callmethodbyobj.md",
     "springboot/Interview/Java Techie.md",
@@ -225,9 +229,6 @@
     "core-java/Interview",
     "core-java/images/Pasted image 20240222084948.png",
     "core-java/images/Pasted image 20240222084039.png",
-    "core-java/images/Pasted image 20240222083621.png",
-    "core-java/images/Pasted image 20240222081649.png",
-    "core-java/images/Pasted image 20240222080429.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

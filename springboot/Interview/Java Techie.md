@@ -1,6 +1,8 @@
 ---
 ~
 ---
+### Part 1
+
 1. why will you choose spring boot over spring framework? 
 - Dependency Resolution and version resolution
 	- no need to add all the dependency like spring-core, spring context, spring tx(transaction), hibernate core, jackson dependency etc
@@ -43,7 +45,41 @@
 5. will app work with above 3 anotation instead of @Springbootapplication? will app run??
 	- yes 
 
-6. what is AutoConfiguration in springboot? 
+6. what is Auto-Configuration in spring-boot? 
 	- if we add starter-web what all things will happen? 
 	- to see what all autoconfigurations are being done 
 		- debut = true (app.prop file)
+	- positive matches in debug logs - automatically configured
+	- negative matches in debug logs - spring boot will not be Auto-Configured
+	- like if we add jpa dependency the spring boot will configure DataSource Dependency, we will see "DataSourceAutoConfiguration matched" as logs
+	- event though we have not configured spring aop it still configures the bean  because matchIfMissing - following image 
+	- ![[Pasted image 20240430192208.png]]
+	- we can see all the matches the framework will do in classpath `org.springframework.boot.autoconfigure.AutoConfiguration.imports`
+```
+@ConditionalOnClass({}) //if the class is in classpath
+@ConditionalOnMissingBean ?
+```
+
+7. How to disable a specific auto-configuration
+	- in @SpringBootApplication we have property exclude there we can exclude the specific auto configuration 
+	- @SpringBootApplication(exclude = {DatasourceAutoConfiguration.class})
+	- in above springboot will not do AutoConfiguration for datasource bean 
+	- or In Properties file 
+	- spring.autoconfigure.exlude=org.springframework.boot.autoconfigure.aop.AopAutoConfiguration, other fully qualified class name
+
+8. How to customize the default configuration in springboot? 
+	- we can override in property file like we can change default port 8080 to 9009 like 
+	- server.port=9009
+	- this will customize or override the default behavior 
+
+9. How springboot run() method works internally? 
+	- run method returns ApplicationContext (configurationApplicationContext)
+	1. it will load the environment 
+		- from app.prop or app.yaml etc
+		- ![[Pasted image 20240430194727.png]]
+	2. prints the banner
+	3. creates ApplicationContext 
+		- with create method  
+		- there are three factories which all return applicationcontext
+		- ![[Pasted image 20240430195408.png]]
+		- generally servlet for spring web
