@@ -190,3 +190,62 @@
 	3. annotate with @Component 
 	4. annotate with @ConfigurationProperties( prefix = "spring.datasource" )
 	5. add the properties in the class 
+
+
+
+### Part 3 
+
+23. How will you resolve bean dependency ambiguity? (two implementation classes which will be injected) 
+	1. we will get error in this case 
+	2. to solve we can use @Qualifier("orderServiceImpl2")
+	3. injection will be done by type (type os orderserviceimpl2)
+
+24. can we resolve ambiguity without using @Qualifier? 
+	1. yes by using @Resource(name = "orderRepositoryImpl1") (java annotation)
+	2. by name
+
+25. what is bean scope and can you explain different type of bean scope? 
+	1. refer to lifecycle and visbility of bean withing the ioc container 
+	2. or how long it will be live , how long it will alive and when it will destroyer
+	- Singleton 
+		- only single object of the bean in context, (default)
+		- ![[Pasted image 20240501120649.png]]
+		- @Scope(value = ConfigurableBeanFactory.SCOPE_SINGLETON)
+	- Prototype 
+		- As many time we request the object new bean will be created 
+		- ![[Pasted image 20240501121243.png]]
+	- Request - web only 
+		- new instance for each http request, 
+		- after http request the bean will be discarded 
+		- ![[Pasted image 20240501121531.png]]
+		- The _proxyMode_ attribute is necessary because at the moment of the instantiation of the web application context, there is no active request. Spring creates a proxy to be injected as a dependency, and instantiates the target bean when it is needed in a request. (baeldung)
+	- Session - web only 
+		- single instance of bean per user session 
+		- ![[Pasted image 20240501122005.png]]
+		- to kill session forcefully ![[Pasted image 20240501122135.png]]
+	- Application - web only
+		- only one bean across whole web application
+		- This is similar to the _singleton_ scope, but there is a very important difference with regards to the scope of the bean.
+		- <mark style="background: #FFB86CA6;">When beans are _application_ scoped, the same instance of the bean is shared across multiple servlet-based applications running in the same _ServletContext_, while _singleton_ scoped beans are scoped to a single application context only.</mark>
+		- @Scope( value = WebApplicationContext.SCOPE_APPLICATION, proxyMode = ScopedProxyMode.TARGET_CLASS)
+	- WebSocket
+		- creates single instance bean for one websocket session
+
+26. How to define<mark style="background: #FF5582A6;"> custom</mark> bean scope? (eg. what is i want new bean for each thread scope)
+	1. we have to implement Scope interface and override methods accordingly 
+	2. the name of the scope like singleton, we have to register 
+	3. ![[Pasted image 20240501123054.png]]
+
+27. Can you provide a few real-time use cases for when to choose singleton scope and prototype scope? 
+	1. Singleton usecases 
+		1. database configuration 
+			1. config database connection pool, caching configuration 
+		2. service layer 
+			1. stateless service
+		3. Application Configuration 
+	2. Prototype Scope 
+		1. user session 
+		2. thread safety 
+			1. to avoid race condition 
+		3. Heavy Initialization 
+			1. to avoid extra utitization of resources 
