@@ -249,3 +249,24 @@
 			1. to avoid race condition 
 		3. Heavy Initialization 
 			1. to avoid extra utitization of resources 
+
+28. Can we inject prototype bean in singleton bean? if yes what will happen if we inject prototype bean in single bean? 
+	1. we will get same prototype bean in singleton bean and it will not work 
+	2. temp solution is 
+		1. ![[Pasted image 20240501164848.png]]
+	3. proper solution is to inject ObjectFactory and getting the prototype bean through it 
+		1. ![[Pasted image 20240501165016.png]]
+		2. while surfing stackoverflow i saw this 
+		- ![[Pasted image 20240501165114.png]]
+	4. or we can use `@Lookup` 
+		1. ![[Pasted image 20240501165236.png]]
+
+29. What is difference between spring singleton and plain singleton ?
+	1. spring singleton - > one instance per application context
+	2. plain singleton - > one instance per JVM 
+
+30. What is the purpose of the BeanPostProcessor interface in spring, and how can you use it to customize bean initialization and destruction? 
+	1. plays important role in spring-core module
+	2. before and after bean initializtion , we can do custom processes
+	3. ![[Pasted image 20240501165720.png]]![[Pasted image 20240501165739.png]]
+	4. ![[Pasted image 20240501170019.png]]
