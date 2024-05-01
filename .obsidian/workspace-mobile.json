@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/KEYWORDS/WHERE.md",
-                "mode": "preview",
+                "file": "springboot/_Spring Boot.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -71,6 +71,18 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "505fccfbe75518c5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "postgres/KEYWORDS/WHERE.md",
+            "file": "springboot/_Spring Boot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "postgres/KEYWORDS/WHERE.md",
+            "file": "springboot/_Spring Boot.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "postgres/KEYWORDS/WHERE.md"
+            "file": "springboot/_Spring Boot.md"
           }
         }
       },
@@ -141,6 +153,11 @@
   },
   "active": "22d614c6edceff0f",
   "lastOpenFiles": [
+    "springboot/@RestControllerAdvice.md",
+    "Links.md",
+    "Pasted image 20230813084603.png",
+    "postgres/KEYWORDS/WHERE.md",
+    "/Links.md",
     "java/Streams/Operators/peek-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
     "RXJS/ZIP-RXJS.md",
@@ -163,13 +180,8 @@
     "/RXJS/EXHAUST-MAP.md",
     "/RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
     "/RXJS/DEBOUNCE-TIME-RXJS.md",
-    "/springboot/jpa/multiple-database.md",
-    "/springboot/Microservices/LOAD-BALANCING.md",
-    "/springboot/Microservices/CIRCUIT-BREAKER.md",
-    "/postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/DATATYPE",
     "/postgres/DATATYPE",
-    "Pasted image 20230813084603.png",
     "/Pasted image 20230813084603.png",
     "/Untitled 1.canvas",
     "links",
