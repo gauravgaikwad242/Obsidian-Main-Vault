@@ -1135,6 +1135,7 @@ TIf
 Tbs
 Tby
 Twx
+Tomcat
 Fundamental
 For
 First
@@ -3390,6 +3391,7 @@ eaw
 extended
 escape
 exit
+extracting
 in
 interface
 interview
@@ -5669,6 +5671,9 @@ jAX
 jDJ
 joLn
 jaK
+jackson
+jpa
+jar
 to
 than
 tools
@@ -6778,6 +6783,8 @@ tZC
 tWC
 tgh
 tostring
+transaction
+thymeleaf
 code
 class
 constants
@@ -8041,6 +8048,11 @@ cjK
 complexity
 crashes
 cloning
+core
+conflict
+cloud
+classpath
+componentScan
 we
 when
 want
@@ -9127,6 +9139,8 @@ wnoJ
 wkv
 wPTQ
 why
+worked
+webpages
 need
 necessary
 never
@@ -11335,6 +11349,8 @@ EhCcdCM
 Exk
 Eee
 Explain
+Embed
+EnableAutoConfiguration
 use
 universal
 used
@@ -12425,6 +12441,7 @@ ulv
 uiT
 uvR
 unsafe
+under
 our
 of
 or
@@ -14690,6 +14707,10 @@ ptPZZ
 pdP
 pAlz
 prEv
+production
+pugin
+pupose
+prop
 less
 lower
 letter
@@ -17024,6 +17045,10 @@ sxF
 sequence
 steps
 singleton
+spring
+starter
+soap
+subpackages
 rules
 restrictions
 returning
@@ -18206,6 +18231,9 @@ rjN
 rYI
 rDh
 rrKS
+resolution
+ready
+runs
 follow
 for
 from
@@ -21522,6 +21550,8 @@ Svn
 SIEI
 SUS
 SBK
+SpringBootApplication
+Springbootapplication
 Developement
 Data
 DataSource
@@ -24760,6 +24790,7 @@ CjT
 CnZi
 Cwoz
 CyA
+ComponentScan
 devops
 default
 data
@@ -25948,6 +25979,7 @@ ded
 dQgQ
 dNk
 deep
+debut
 make
 more
 method
@@ -28162,6 +28194,9 @@ APu
 Avc
 AJH
 AKr
+Avoid
+Addition
+AutoConfiguration
 MODIFIERS
 My
 Material
@@ -30353,6 +30388,12 @@ aaL
 awA
 aGf
 aat
+avoids
+aop
+apache
+appname
+anotation
+autoconfigurations
 NOTE
 Name
 New
@@ -32578,6 +32619,8 @@ hgwinNNR
 hDk
 hCKX
 hashcode
+hibernate
+happen
 keyword
 keywork
 kafka
@@ -36774,6 +36817,7 @@ JOn
 JoB
 JwE
 JHJrS
+Jetty
 Inheritance
 It
 In
@@ -38959,6 +39003,7 @@ bjO
 bHU
 bao
 bhUx
+boot
 Business
 By
 Boot
@@ -41093,6 +41138,7 @@ RTH
 RbrJ
 RFu
 RUq
+Resolution
 value
 void
 vanilla
