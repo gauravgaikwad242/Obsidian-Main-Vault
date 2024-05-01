@@ -108,7 +108,7 @@
 		1. @Controller
 		2. @ResponseBody
 	6. use to create bean of the class 
-	7. these anotations defines the role of the class 
+	7. these annotations defines the role of the class 
 	8. using these will make it easy to identify role of the class to developer 
 
 12. How can you define bean in spring framework? 
@@ -119,7 +119,7 @@
 		- create bean method 
 		- annotate the method with @Bean 
 
-13.  ? VVIMP 
+13.  <mark style="background: #FF5582A6;">What is dependency Injection? VVIMP </mark>
 	1. KEY FEATURE, BACKBONE OF SPRING framework
 	2. <mark style="background: #FFB86CA6;">DI is design pattern and it is used to achieve loose coupling between classes within an application by removing the dependency between them</mark>
 	3. instead of managing java object by developers, framework will handle it for use
@@ -132,5 +132,61 @@
 	3. constructor DI
 	4. ![[Pasted image 20240430211208.png]]
 
-15. where would you choose setter injection over constructor and vice versa? 
-	1. 
+15. <mark style="background: #FF5582A6;">where would you choose setter injection over constructor and vice versa</mark>? 
+	1. constructor level DI : 
+			- if mandatory for the bean where it is being injected or else we want to throw error .
+			- immutable in nature
+			- we cannot resolve circular dependency
+	2. Setter DI : 
+			- if we want the dependency as optional for our bean , without injecting the dependency we can create the bean. 
+			- not immutable in nature 
+			- we can resolve circular dependency, for the circular dpendency problem we should use circular dependency 
+			- we have to use @Lazy annotation for this
+			- ![[Pasted image 20240501103236.png]]
+
+16. Can you provide example of real world use can where @PostConstruct is particularly useful ?
+	 (first SpringApplication.run then @PostConstruct and then CommandLineRunner.run )
+	1. Connection Pool Logic 
+	2. Kafka Producer/consumer instantiate 
+	3. data shedding (inserting data to db on startup)
+
+17. How can we load dynamic value in spring boot? 
+	1. we can use @Value annotation
+		1. ![[Pasted image 20240501104340.png]]
+	2. we can use/inject Environment class 
+		1. ![[Pasted image 20240501104514.png]]
+		2. environment.getProperty("dis.off.price)
+	-<mark style="background: #FFF3A3A6;"> with vm arguments we can set env instead of </mark>application.prop/yaml 
+
+18. Key difference between properties and yaml file, when will we consider one over another ?
+	1. syntax and structure 
+		1. yaml is more human readable andis better for complex configuration, hierarchy with whitespace 
+		2. properties file do not have any hierarchy
+	2. list and arrays 
+		1. properties file we can do it by using comma separated value 
+		2. yaml file have inbuilt feature 
+			1. ![[Pasted image 20240501105317.png]]
+	3. complex data type 
+		1. properties file we cannot define complex datafile
+	4. Readability 
+		1. properties file is more compact but becomes difficult to read for complex config
+
+19. diff between yml and YAML ? 
+	1. both are same and no difference 
+	2. in older window we could only use 3 letter extension
+
+20. <mark style="background: #FF5582A6;"> If i will configure same valuse in both properties then which value will be loaded in spring boot Or who will load first yaml or properties?</mark>
+	1. application.properties file is having more precedence and will be loaded first 
+	2. we can see in `ProperySourceLoader.java` and `YamlPropertySourceLoader.java` if we put breakpoint there the former will be loaded first and will not be OVERRIDEN.
+
+21. <mark style="background: #FF5582A6;">How to load external properties in spring boot? without app.prop/yaml ?</mark> external to application and not in  code? 
+	1. first we have to tell spring boot the location of new file 
+	2. spring.config.import = "path to the file".
+	3. ![[Pasted image 20240501110743.png]]
+
+22. How to map or bind config properties to java object? 
+	1. create a java class 
+	2. annotate with @configuration 
+	3. annotate with @Component 
+	4. annotate with @ConfigurationProperties( prefix = "spring.datasource" )
+	5. add the properties in the class 
