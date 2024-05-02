@@ -74,7 +74,7 @@
 	- server.port=9009
 	- this will customize or override the default behavior 
 
-9. How springboot run() method works internally? 
+9. How SpringApplication run() method works internally? 
 	- run method returns ApplicationContext (configurationApplicationContext)
 	1. it will load the environment 
 		- from app.prop or app.yaml etc
@@ -216,6 +216,7 @@
 		- ![[Pasted image 20240501121243.png]]
 	- Request - web only 
 		- new instance for each http request, 
+		-    
 		- after http request the bean will be discarded 
 		- ![[Pasted image 20240501121531.png]]
 		- The _proxyMode_ attribute is necessary because at the moment of the instantiation of the web application context, there is no active request. Spring creates a proxy to be injected as a dependency, and instantiates the target bean when it is needed in a request. (baeldung)
@@ -270,3 +271,5 @@
 	2. before and after bean initializtion , we can do custom processes
 	3. ![[Pasted image 20240501165720.png]]![[Pasted image 20240501165739.png]]
 	4. ![[Pasted image 20240501170019.png]]
+
+31. 

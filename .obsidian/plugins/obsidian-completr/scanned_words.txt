@@ -1137,6 +1137,7 @@ Tby
 Twx
 Tomcat
 TARGET
+Test
 Fundamental
 For
 First
@@ -4574,6 +4575,7 @@ inbuilt
 ioc
 instantiates
 implement
+initializtion
 java
 javascript
 jc
@@ -14766,6 +14768,9 @@ prefix
 proxyMode
 proxy
 prototype
+proper
+plain
+processes
 less
 lower
 letter
@@ -17124,6 +17129,10 @@ scoped
 shared
 stateless
 safety
+solution
+surfing
+stackoverflow
+saw
 rules
 restrictions
 returning
@@ -26095,6 +26104,7 @@ dis
 datafile
 difficult
 destroyer
+destruction
 make
 more
 method
@@ -34835,6 +34845,7 @@ OpZ
 OBkQ
 OjP
 OUm
+ObjectFactory
 Powers
 Polymorphism
 Postgres
@@ -40159,6 +40170,7 @@ BfS
 BqEJ
 Bean
 BACKBONE
+BeanPostProcessor
 Return
 Reactor
 Remember
@@ -42440,6 +42452,7 @@ versa
 valuse
 visbility
 very
+vscodeextension
 qoutes
 question
 qIron
