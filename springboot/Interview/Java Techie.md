@@ -272,4 +272,100 @@
 	3. ![[Pasted image 20240501165720.png]]![[Pasted image 20240501165739.png]]
 	4. ![[Pasted image 20240501170019.png]]
 
-31. 
+### Part 4
+
+31. Have you worked on restful webservices ? if yes what all HTTP methods have you used in your project ?
+	- yes , the following
+		1. Post 
+		2. Put 
+		3. Get
+		4. Patch 
+		5. Delete 
+
+32. How can you specify the http method type for your REST endpoint? 
+	1. based on the action you want to perform (CRUD) 
+		1. for retrieving the data GetMapping
+		2. insert postMapping 
+		3. update putMapping 
+		4. partial updata patchMapping
+		5. delete deleteMapping 
+	- all these annotations internally use @RequestMapping 
+
+33. scenario based questions .
+	1. ![[Pasted image 20240502181553.png]]
+	2. ![[Pasted image 20240502181914.png]]
+
+34.  Scenario 
+	1. ![[Pasted image 20240502182137.png]]
+
+35. difference between pathVariable and RequestParam 
+	1. path variable is mandatory and if absent we willget 404 error 
+	2. requestParam is not mandatory always
+
+36. why did we use @RestController and not @Controller (explain the difference) ? 
+	1. for @Controller endpoint springboot will look for html page or view (model and view) 
+	2. for @RestController it returns the json data  ( the media type can be anything )
+	- for returning text or making controller behave like RestController we can add produces = MediaType.mymediatype
+	- ![[Pasted image 20240502183500.png]]
+
+37. How can we deserialize a json requst payload into an object within a Spring MVC controller ? 
+	1. with the use of @RequestBody
+
+38. <mark style="background: #FF5582A6;">can we perform update operation in POST http method if yes then why do we need put mapping or put http method? </mark>
+	1. yes we can do update operation with post
+	2. all the http method have semantic meaning and doing so will violet rest principle 
+	3. post is generally to create the resource 
+	4. put is update 
+	5. idempotent nature of rest service  
+		1. on your subsequent action if the resource is getting modified then it is not considered as idempotent 
+		2. post is not idempotent 
+			1. if we do 2 same requests two resources will get created 
+		3. put is idempotent
+			1. if we do 2 same request only first will be executed 
+
+39. <mark style="background: #FF5582A6;">can we pass request body in Get method? </mark>
+	1. yes we can do that but it is not recommended.
+
+40. <mark style="background: #FF5582A6;">how can we perform content negotiation (xml/json) in Rest endpoint? </mark>
+	1. if we want to return both xml and json or anything other 
+	2. we need to enable xml databinding 
+		1. ![[Pasted image 20240502191204.png]]
+	3. ![[Pasted image 20240502191217.png]]
+	4. ![[Pasted image 20240502191238.png]]
+	5. ![[Pasted image 20240502191752.png]]
+	6. we have to define format as query param in url 
+
+41. what all status code you have observed in your application ? 
+	1. 400 - bad request (wrong input)
+	2. 404 - url is wrong or resource not available 
+	3. 401 - authentication error 
+	4. 403 - authorization error 
+	5. 405 - method not allowed , hitting post instead of get or etc
+	6. 415 - unsupported mediatype , if we send xml data instead of json etc 
+	7. 500 - internal server error 
+	8. 502 - bad gateway , some unhealthy website we try to access 
+	9. 200 - okay, request was successful 
+	10. 201 - created 
+	11. 204 - not content ( process was successful )
+
+42. How can we customize the status code ? 
+	1. ![[Pasted image 20240502192443.png]]
+	2. best coding practice  
+
+43.  How can we enable CROSS origin ? 
+	1. by default it is off and cannot access by different domain 
+	2. if we want our angular app to 
+	3. we have to annotate the rest controller with @CrossOrigin 
+	4. ![[Pasted image 20240502192900.png]]
+	5. or we can do java based config 
+	6. ![[Pasted image 20240502193019.png]]
+
+44. How can we upload a file in spring? 
+	1. file is binary data 
+	2. we have class like MultipartFile and anotation 
+		1. ![[Pasted image 20240502193228.png]]
+
+45. How do you maintain versioning for RestApi? 
+	1. if we dont want any bug in current endpoint with new changes which is in production then we will do versioning 
+	2. there are various strategies 
+	3. at endpoint level 
