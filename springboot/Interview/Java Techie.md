@@ -399,3 +399,48 @@
 			2. not recommended for traditional 
 			3. ![[Pasted image 20240502203219.png]]
 		4. Advance Rest Client 
+
+### Part 5 
+
+49. How will you handle exception in your project ?
+	1.  we can create custom exception. 
+	2. better to throw them instead of framework handling it. 
+	3. we can make them either runtime or checked exception 
+	4. For handling it globally we can use **@RestControllerAdvice** 
+	- create class with @RestControllerAdvice 
+	- create method with and give our custom exception as parameter 
+	- annotate the method with @ExceptionHandler(customexception.class )
+	- and return the custom dto class with error message 
+	- in spring boot 3.0 onwards we have <mark style="background: #FF5582A6;">ProblemDetail</mark> class for returning error 
+		- ![[Pasted image 20240503191959.png]]
+	- [[springboot/ExceptionHandling/@RestControllerAdvice|@RestControllerAdvice]]
+
+50. How can you avoid defining handlers for multiple exceptions, or what is the best practice for handling exceptions ? 
+	1. acc to video we can catch multiple exception in single catch and create handler for that 
+	2. acc to me we can add multiple exception in @ExceptionHandler annotation
+
+51. How will you validate or sanitize your request payload ? 
+	1. add spring-boot-starter-validation dependency 
+	2. importing from jakarta now 
+	3. in the class 
+		1. ![[Pasted image 20240503192832.png]]
+		2. ![[Pasted image 20240503193358.png]]
+
+52. How can you populate validation error message to the end users? 
+	1. we have to catch the error in ExceptionHandler method 
+	2. exception thrown is @MethodArgumentNotValidException
+		1. ![[Pasted image 20240503194120.png]]
+
+53. How can you define custom bean validation ? 
+	1. we have to create annotation 
+		1. ![[Pasted image 20240503194407.png]]
+	2. implementation to the annotation 
+		1. ![[Pasted image 20240503194433.png]]
+		2. WE HAVE TO IMPLEMENT CONSTRAINVALIDATION
+
+54. ![[Pasted image 20240503194643.png]]
+	1. we can use the profiles concept  
+	- bean according to profile 
+		- ![[Pasted image 20240503195025.png]]
+	- <mark style="background: #FF5582A6;">spring.profile.active = prod </mark>
+	-  

@@ -3403,6 +3403,9 @@ embedded
 extension
 external
 extra
+endpoint
+endpoing
+exposed
 in
 interface
 interview
@@ -4576,6 +4579,7 @@ ioc
 instantiates
 implement
 initializtion
+idempotent
 java
 javascript
 jc
@@ -6805,6 +6809,7 @@ transaction
 thymeleaf
 though
 tomcat
+traditional
 code
 class
 constants
@@ -8085,6 +8090,10 @@ comma
 compact
 could
 caching
+controller
+consume
+client
+customexception
 we
 when
 want
@@ -9178,6 +9187,8 @@ window
 who
 whole
 websocket
+webservices
+willget
 need
 necessary
 never
@@ -10257,6 +10268,9 @@ nxU
 nvqj
 njW
 nJx
+negotiation
+notes
+netflix
 Enum
 Encapsulation
 EntityManager
@@ -11389,6 +11403,7 @@ Explain
 Embed
 EnableAutoConfiguration
 Environment
+ExceptionHandler
 use
 universal
 used
@@ -12482,6 +12497,10 @@ unsafe
 under
 usecases
 utitization
+updata
+unsupported
+unhealthy
+upload
 our
 of
 or
@@ -13633,6 +13652,10 @@ older
 orderServiceImpl
 orderserviceimpl
 orderRepositoryImpl
+operation
+observed
+okay
+origin
 project
 public
 private
@@ -14771,6 +14794,15 @@ prototype
 proper
 plain
 processes
+postMapping
+putMapping
+partial
+patchMapping
+pathVariable
+produces
+payload
+principle
+param
 less
 lower
 letter
@@ -17133,6 +17165,11 @@ solution
 surfing
 stackoverflow
 saw
+subsequent
+send
+successful
+strategies
+swagger
 rules
 restrictions
 returning
@@ -18324,6 +18361,9 @@ read
 regards
 register
 race
+restful
+requestParam
+requst
 follow
 for
 from
@@ -19454,6 +19494,8 @@ fully
 factories
 former
 forcefully
+full
+feign
 get
 gap
 general
@@ -20536,6 +20578,8 @@ gPdb
 gJUG
 getter
 getProperty
+gateway
+globally
 SDLC
 Software
 Super
@@ -21657,6 +21701,7 @@ SINGLETON
 Session
 ServletContext
 ScopedProxyMode
+Scenario
 Developement
 Data
 DataSource
@@ -22751,6 +22796,7 @@ DqD
 DfL
 DataSourceAutoConfiguration
 DatasourceAutoConfiguration
+Delete
 Life
 Logic
 Let
@@ -24906,6 +24952,10 @@ CommandLineRunner
 Connection
 ConfigurationProperties
 ConfigurableBeanFactory
+CRUD
+CROSS
+CrossOrigin
+Client
 devops
 default
 data
@@ -26105,6 +26155,14 @@ datafile
 difficult
 destroyer
 destruction
+deleteMapping
+did
+deserialize
+domain
+doc
+documentation
+declarative
+dto
 make
 more
 method
@@ -27291,6 +27349,12 @@ member
 mutable
 matchIfMissing
 moment
+model
+media
+mymediatype
+mapping
+mediatype
+maintain
 ACCESS
 Abstraction
 Angular
@@ -28328,6 +28392,7 @@ AopAutoConfiguration
 ApplicationContext
 Autowire
 APPLICATION
+Advance
 MODIFIERS
 My
 Material
@@ -29390,6 +29455,9 @@ MCY
 Mpv
 MQy
 MKyR
+MediaType
+MVC
+MultipartFile
 accessModifiers
 access
 around
@@ -30531,6 +30599,10 @@ annotations
 annotate
 andis
 alive
+absent
+authentication
+authorization
+async
 NOTE
 Name
 New
@@ -32759,6 +32831,8 @@ hashcode
 hibernate
 happen
 human
+hitting
+handlers
 keyword
 keywork
 kafka
@@ -35867,6 +35941,10 @@ PsLr
 Properties
 PostConstruct
 Prototype
+Put
+Patch
+POST
+ProblemDetail
 Java
 JPA
 JCA
@@ -39153,6 +39231,9 @@ banner
 breakpoint
 bind
 baeldung
+behave
+binary
+bug
 Business
 By
 Boot
@@ -40171,6 +40252,7 @@ BqEJ
 Bean
 BACKBONE
 BeanPostProcessor
+BadRequest
 Return
 Reactor
 Remember
@@ -41296,6 +41378,14 @@ RestController
 ResponseBody
 Readability
 Request
+REST
+RequestMapping
+RequestParam
+RequestBody
+Rest
+RestApi
+RestControllerAdvice
+ResponseStatus
 value
 void
 vanilla
@@ -42453,6 +42543,8 @@ valuse
 visbility
 very
 vscodeextension
+violet
+versioning
 qoutes
 question
 qIron
@@ -43501,6 +43593,7 @@ qih
 qwLy
 qtsH
 qfg
+query
 How
 Here
 Hystrix
@@ -44547,6 +44640,10 @@ HJF
 HRc
 HmS
 Heavy
+Have
+HTTP
+Hidden
+HttpStatus
 you
 your
 yQsf
@@ -51045,6 +51142,8 @@ GHbD
 GGat
 GRH
 GWbS
+Get
+GetMapping
 zf
 zq
 zt
