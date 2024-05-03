@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/47.0 Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.50818634033203,
-    "collapsed": true
+    "width": 267.50818634033203
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/47.0 Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/47.0 Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/Interview/Java Techie.md"
+                "file": "core-java/47.0 Interface.md"
               }
             }
           },
@@ -168,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +181,19 @@
   },
   "active": "826203bd59550710",
   "lastOpenFiles": [
+    "core-java/42.0 Inheritance.md",
+    "springboot/Interview/Java Techie.md",
+    "core-java/images/Pasted image 20240502203219.png",
+    "core-java/images/Pasted image 20240502202932.png",
+    "core-java/images/Pasted image 20240502202304.png",
+    "core-java/images/Pasted image 20240502202017.png",
+    "core-java/images/Pasted image 20240502202007.png",
+    "core-java/images/Pasted image 20240502201815.png",
+    "core-java/images/Pasted image 20240502200148.png",
     "core-java/images/Pasted image 20240502193228.png",
     "core-java/images/Pasted image 20240502193019.png",
     "core-java/images/Pasted image 20240502192950.png",
-    "core-java/images/Pasted image 20240502192900.png",
-    "core-java/images/Pasted image 20240502192443.png",
-    "core-java/images/Pasted image 20240502191752.png",
-    "core-java/images/Pasted image 20240502191238.png",
-    "core-java/images/Pasted image 20240502191217.png",
-    "core-java/images/Pasted image 20240502191204.png",
-    "core-java/images/Pasted image 20240502183500.png",
-    "core-java/images/Pasted image 20240502182137.png",
     "Links.md",
-    "springboot/Interview/Java Techie.md",
     "core-java/Interview/Java Interview Questions and Answers.pdf",
     "core-java/59.0 Garbage Collector.md",
     "RXJS/BehaviourSubject/Subject.md",

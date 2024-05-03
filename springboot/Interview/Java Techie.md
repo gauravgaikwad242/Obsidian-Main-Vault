@@ -368,4 +368,34 @@
 45. How do you maintain versioning for RestApi? 
 	1. if we dont want any bug in current endpoint with new changes which is in production then we will do versioning 
 	2. there are various strategies 
-	3. at endpoint level 
+	3. at endpoint level in @GetMapping 
+	4. in request parameter
+	5. in header 
+
+46. How will you document the rest API ? 
+	1. we can do swagger (Open API) implementation
+	2. ![[Pasted image 20240502200148.png]]
+	3. and hit this endpoint for api UI 
+		1. ![[Pasted image 20240502201815.png]]
+	4. for api doc 
+		1. ![[Pasted image 20240502202017.png]]
+
+47. How do you hide some endpoing to be exposed as documentation? 
+	1. we can use @Hidden on endpoint method 
+	2. to add notes to the api 
+		1. ![[Pasted image 20240502202304.png]]
+
+48. How can we consume any rest full webservices?  
+	1. we have 
+		1. rest template 
+		2. <mark style="background: #FFF3A3A6;">feign client </mark>
+			1. declarative  ( by netflix )
+			2. proxy as interface 
+			3. code will be created at runtime 
+			4. ![[Pasted image 20240502202932.png]]
+			5. by default load balancing 
+		3. Web Client 
+			1. async and non blocking 
+			2. not recommended for traditional 
+			3. ![[Pasted image 20240502203219.png]]
+		4. Advance Rest Client 
