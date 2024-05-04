@@ -443,4 +443,216 @@
 	- bean according to profile 
 		- ![[Pasted image 20240503195025.png]]
 	- <mark style="background: #FF5582A6;">spring.profile.active = prod </mark>
-	-  
+
+55. How can you enable a specific environment without without using profies ? OR what is the alternatvie to profiles to achieving same use case? 
+	1. yes there is a way, in old we only had profiles but in new spring we have <mark style="background: #FFB86CA6;">condition</mark> 
+	2. we have annotations like @ConditionalOn...., there are lots of annotation 
+	3. in prop file we have app.active.env 
+		1. ![[Pasted image 20240504091320.png]]
+
+56. what is difference between @Profile and @Conditional 
+	1. profile is for spring implementation 
+	2. conditional we can do custom implementation
+
+57. what is aop? 
+	1. aspect oriented programming 
+	2. cross cutting concerns 
+	3. secondary logic 
+		1. transaction 
+		2. logging 
+		3. validation 
+		4. auditing 
+		5. notification 
+	4. we reduce the duplication of the code 
+	5. Aspect means the class which contains the secondary logic 
+
+58. What is pointcut and join Point in AOP ? 
+	1. JoinPoint --> the target where we want to implement the aspect 
+		1. like some method , class , package 
+	2. PointCut --> the expression to tell the aop what is our joinPoint 
+
+59. What are the different types of advice ? 
+	1. Before Advice
+	2. After Advice 
+		1. it does not care about exception 
+	3. After Returning Advice 
+		1. exec only if there is no exception 
+	4. After Throwing Advice 
+		1. only in case of exception 
+	5. Around Advice  
+		1. key advice 
+		2. lots of customization we can do 
+
+60. ![[Pasted image 20240504094018.png]]
+	1. ![[Pasted image 20240504094626.png]]
+
+### Part 6 
+
+61.  0:49 : How does your application interact with the database and which framework are you using ? 
+	1. we are using spring data jpa 
+	- to connect to database using jpa 
+		1. create entity class and annotate with @Entity 
+		2. create id field and annotate with @Id and for auto incr @GeneratedValue 
+		3. we can customize the table name and column name with @Table and @Column 
+		4. create Repository interface 
+		5. define datasource and jpa properties 
+		6. ![[Pasted image 20240504105120.png]]
+		7. dialect will help jpa to finetune database and helps the database to create query 
+		8. if we have field employeeName in database we will get employee_name automatically because of naming strategy 
+
+62. 11:22 :  why is it important to configure a physical naming strategy ? 
+	1. to disable customization of column name ![[Pasted image 20240504171022.png]]
+	2. ![[Pasted image 20240504171049.png]]
+
+63. 14:07 : what are the key benefits of using spring data JPA ? 
+	1. simplify the development, 
+	2. min configuration 
+	3. more focus on business logic
+	4. gives high level abstraction 
+	5. reduce the boilerplate code by giving CRUD operations
+	6. features such as named-Query, JPA query , specification 
+
+64. 21:00 : What are the differences between hibernate JPA and Spring Data JPA ? 
+	1. we have 3 frameworks 
+		1. Hibernate - 
+			1. ORM (table mapping will be done by hibernate)
+			2. also helps in caching 
+			3. 
+		2. JPA 
+			1. Specification 
+			2. Contains no implementation 
+			3. in java terms we can say like Interface 
+			4. and hibernate is Implementation 
+		3. Spring Data JPA 
+			1. another layer of abstraction on top of JPA 
+			2. utilities 
+
+65. 24:19 : <mark style="background: #FF5582A6;">How can you connect multiple databases or data sources in a single application ? </mark> (https://github.com/Java-Techie-jt/multi-datasource.git)
+	1. is it possible using spring data JPA --> Yes 
+	- steps 
+		1. for single db ![[Pasted image 20240504173258.png]]
+		2. for multi we need multi datasource 
+			1. ![[Pasted image 20240504173410.png]]
+		3. if database types is diff like mysql and postgres then we also need diff entity manager, transacttion manager 
+		4. define Entity 
+		5. define Repository 
+		6. we need two different data-source 
+		7. we need to give different prefix for datasources 
+			1. ![[Pasted image 20240504173906.png]]
+		8. we have to configure the datasource object bean and transaction manager 
+		9. Why do we have @Primary on one config and not on both 
+			1. spring boot needs one default datasource 
+			2. if it doesnt find anything it will use this primary datasource
+
+```
+
+package com.javatechie.config;
+
+import jakarta.persistence.EntityManagerFactory;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+import org.springframework.orm.jpa.JpaTransactionManager;
+import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
+import org.springframework.transaction.PlatformTransactionManager;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
+
+
+import javax.sql.DataSource;
+import java.util.HashMap;
+import java.util.Map;
+
+@Configuration
+@EnableTransactionManagement
+@EnableJpaRepositories(
+        entityManagerFactoryRef = "employeeEntityManagerFactory",
+        transactionManagerRef = "employeeTransactionManager",
+        basePackages = { "com.javatechie.repository.employee" })
+public class EmployeeDataSourceConfig {
+
+    @Primary
+    @Bean(name = "employeeProperties")
+    @ConfigurationProperties("spring.datasource.employee")
+    public DataSourceProperties dataSourceProperties() {
+        return new DataSourceProperties();
+    }
+
+    @Primary
+    @Bean(name = "employeeDatasource")
+    @ConfigurationProperties(prefix = "spring.datasource.employee")
+    public DataSource datasource(@Qualifier("employeeProperties") DataSourceProperties properties) {
+        return properties.initializeDataSourceBuilder()
+                .build();
+    }
+
+    @Primary
+    @Bean(name = "employeeEntityManagerFactory")
+    public LocalContainerEntityManagerFactoryBean entityManagerFactoryBean
+            (EntityManagerFactoryBuilder builder, @Qualifier("employeeDatasource") DataSource dataSource) {
+        Map<String, Object> jpaProps = new HashMap<>();
+        jpaProps.put("hibernate.hbm2ddl.auto", "update");
+        jpaProps.put("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
+        return builder.dataSource(dataSource)
+                .properties(jpaProps)
+                .packages("com.javatechie.entity.employee")
+                .persistenceUnit("employee").build();
+    }
+
+    @Primary
+    @Bean(name = "employeeTransactionManager")
+    @ConfigurationProperties("spring.jpa")
+    public PlatformTransactionManager transactionManager(
+            @Qualifier("employeeEntityManagerFactory") EntityManagerFactory entityManagerFactory) {
+        return new JpaTransactionManager(entityManagerFactory);
+    }
+}
+``` 
+
+ 66. 39:48 : What are the different ways to define custom queries in spring Data JPA ? 
+	 1. Method Syntax (derived query)  
+		 1. ![[Pasted image 20240504181634.png]]
+	 2. Query (JPQL)
+		 1.  ![[Pasted image 20240504181524.png]]
+	 3. SQL 
+	1. ![[Pasted image 20240504181837.png]]
+		1. ![[Pasted image 20240504181932.png]]
+	2. find avg of employee salary
+		1. we cannot achieve this with derived query we will use JPA Jpql 
+		2. ![[Pasted image 20240504182503.png]]
+ 
+ 
+ 67. 56:20 : How will you define entity relationships or association mapping in spring Data JPA ?
+	 1. Note : we should not use associations in microservices  
+	 2. explain the hibernate mappings 
+
+68. 1:08:11 : is this possible to execute join query in spring data jpa ? if yes, how can you add some insights ? 
+	1. ![[Pasted image 20240504184237.png]]
+
+69.  1:19:22 : How will you implement pagination and sorting in Spring Data JPA ? 
+	1. with pageRequest and pageable 
+
+
+### Part 7
+
+![[Pasted image 20240504184915.png]]
+
+
+
+61.  0:49 : How does your application interact with the database and which framework are you using ? 
+62. 11:22 :  why is it important to configure a physical naming strategy ? 
+63. 14:07 : what are the key benefits of using spring data JPA ? 
+64. 21:00 : What are the differences between hibernate JPA and Spring Data JPA ? 
+65. 24:19 : How can you connect multiple databases or data sources in a single application ?
+
+ 66. 39:48 : What are the different ways to define custom queries in spring Data JPA ? 
+ 
+ 67. 56:20 : How will you define entity relationships or association mapping in spring Data JPA ?
+
+68. 1:08:11 : is this possible to execute join query in spring data jpa ? if yes, how can you add some insights ? 
+
+69. 1:19:22 : How will you implement pagination and sorting in Spring Data JPA ? 

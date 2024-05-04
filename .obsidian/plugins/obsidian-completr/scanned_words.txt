@@ -4580,6 +4580,7 @@ instantiates
 implement
 initializtion
 idempotent
+importing
 java
 javascript
 jc
@@ -5696,6 +5697,7 @@ jaK
 jackson
 jpa
 jar
+jakarta
 to
 than
 tools
@@ -6873,7 +6875,6 @@ criteria
 chances
 content
 capacity
-crucial
 compilation
 com
 copy
@@ -7373,7 +7374,6 @@ came
 come
 creator
 corr
-cRU
 cYT
 cYN
 cDT
@@ -14342,7 +14342,6 @@ palindrome
 pool
 packageName
 positions
-problem
 participate
 practical
 performing
@@ -14803,6 +14802,10 @@ produces
 payload
 principle
 param
+populate
+profiles
+profile
+prod
 less
 lower
 letter
@@ -17170,6 +17173,7 @@ send
 successful
 strategies
 swagger
+sanitize
 rules
 restrictions
 returning
@@ -24641,7 +24645,6 @@ ClO
 CpN
 CzF
 CXb
-Cruv
 CZz
 CeHuwB
 CDe
@@ -24888,7 +24891,6 @@ CMT
 CCw
 CHP
 CYOek
-Cru
 Cqt
 CwOS
 Ccio
@@ -24936,7 +24938,6 @@ CMx
 Chs
 CuI
 CyS
-CrU
 CAw
 Cjhgi
 CCYVy
@@ -24956,6 +24957,7 @@ CRUD
 CROSS
 CrossOrigin
 Client
+CONSTRAINVALIDATION
 devops
 default
 data
@@ -29458,6 +29460,7 @@ MKyR
 MediaType
 MVC
 MultipartFile
+MethodArgumentNotValidException
 accessModifiers
 access
 around
@@ -30603,6 +30606,7 @@ absent
 authentication
 authorization
 async
+acc
 NOTE
 Name
 New
@@ -32833,6 +32837,7 @@ happen
 human
 hitting
 handlers
+handler
 keyword
 keywork
 kafka
@@ -38078,6 +38083,7 @@ IavK
 IntKvr
 ITd
 Injection
+IMPLEMENT
 be
 byte
 boolean
@@ -42545,6 +42551,9 @@ very
 vscodeextension
 violet
 versioning
+video
+validate
+validation
 qoutes
 question
 qIron
@@ -44644,6 +44653,7 @@ Have
 HTTP
 Hidden
 HttpStatus
+HAVE
 you
 your
 yQsf
