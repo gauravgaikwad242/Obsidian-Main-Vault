@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "826203bd59550710",
+            "id": "1ee3f1d6ba151053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/58.1 Final keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5120544433594,
-    "collapsed": true
+    "width": 353.5120544433594
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/58.1 Final keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/Interview/Java Techie.md",
+                "file": "core-java/58.1 Final keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/Interview/Java Techie.md"
+                "file": "core-java/58.1 Final keyword.md"
               }
             }
           },
@@ -181,8 +180,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "826203bd59550710",
+  "active": "1ee3f1d6ba151053",
   "lastOpenFiles": [
+    "core-java/58.0 Clone method.md",
+    "core-java/57.2 Demon Thread.md",
+    "core-java/57.1 Thread Pooling.md",
+    "core-java/57.0 Thread Group.md",
+    "core-java/56.0.md",
+    "core-java/55.0  Join, Sleep, Interrupt, Yield.md",
+    "core-java/54.1 Thread Priority.md",
+    "core-java/54.0 start() and run().md",
+    "core-java/53.1 steps to create thread.md",
+    "core-java/53 multithreading.md",
+    "core-java/1. Intro.md",
+    "core-java/Interview/Java Interview Questions and Answers.pdf",
+    "core-java/Interview/most common java questions.md",
+    "core-java/Interview/Collection Questions.md",
+    "core-java/Interview/DOUBT.md",
+    "springboot/Interview/Java Techie.md",
     "core-java/io-streams/Passport Appointment Receipt.pdf",
     "core-java/images/Pasted image 20240504184915.png",
     "core-java/images/Pasted image 20240504184237.png",
@@ -195,40 +210,24 @@
     "core-java/images/Pasted image 20240504173410.png",
     "core-java/images/Pasted image 20240504173258.png",
     "springboot/ExceptionHandling/@RestControllerAdvice.md",
-    "springboot/Interview/Java Techie.md",
     "springboot/ExceptionHandling",
     "springboot/Untitled.md",
     "core-java/42.0 Inheritance.md",
     "core-java/47.0 Interface.md",
     "Links.md",
-    "core-java/Interview/Java Interview Questions and Answers.pdf",
     "core-java/59.0 Garbage Collector.md",
     "RXJS/BehaviourSubject/Subject.md",
     "RXJS/BehaviourSubject/ReplaySubject.md",
     "RXJS/BehaviourSubject/PlainSubject.md",
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
-    "core-java/programms/4callmethodbyobj.md",
     "springboot/Interview",
-    "untitled/Untitled.md",
-    "core-java/75.0 Optional class.md",
-    "core-java/5.0 Class.md",
-    "core-java/4.0 JVM JRE & JDK.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
-    "core-java/1. Intro.md",
-    "core-java/2. History & c vs c++ vs java.md",
-    "core-java/Interview/most common java questions.md",
-    "core-java/Interview/DOUBT.md",
-    "core-java/Interview/Collection Questions.md",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
     "core-java/io-streams/2-Feb-2024.pdf",
-    "core-java/6.0 Object Class.md",
-    "springboot/_spring-core/Spring Bean Factory and Application Context.md",
     "springboot/_spring-core",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",
-    "core-java/io-streams",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

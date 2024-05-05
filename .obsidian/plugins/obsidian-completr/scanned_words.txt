@@ -1138,6 +1138,8 @@ Twx
 Tomcat
 TARGET
 Test
+Throwing
+Tasking
 Fundamental
 For
 First
@@ -3406,6 +3408,11 @@ extra
 endpoint
 endpoing
 exposed
+exec
+employeeName
+extending
+exists
+explicitly
 in
 interface
 interview
@@ -4581,6 +4588,7 @@ implement
 initializtion
 idempotent
 importing
+incr
 java
 javascript
 jc
@@ -5698,6 +5706,7 @@ jackson
 jpa
 jar
 jakarta
+joinPoint
 to
 than
 tools
@@ -6812,6 +6821,11 @@ thymeleaf
 though
 tomcat
 traditional
+terms
+transacttion
+task
+threading
+therad
 code
 class
 constants
@@ -8094,6 +8108,12 @@ controller
 consume
 client
 customexception
+cross
+cutting
+concerns
+care
+customization
+cpu
 we
 when
 want
@@ -9189,6 +9209,7 @@ whole
 websocket
 webservices
 willget
+worker
 need
 necessary
 never
@@ -10271,6 +10292,9 @@ nJx
 negotiation
 notes
 netflix
+notification
+naming
+named
 Enum
 Encapsulation
 EntityManager
@@ -11404,6 +11428,7 @@ Embed
 EnableAutoConfiguration
 Environment
 ExceptionHandler
+Entity
 use
 universal
 used
@@ -12501,6 +12526,7 @@ updata
 unsupported
 unhealthy
 upload
+utilities
 our
 of
 or
@@ -13656,6 +13682,7 @@ operation
 observed
 okay
 origin
+optimize
 project
 public
 private
@@ -14806,6 +14833,14 @@ populate
 profiles
 profile
 prod
+profies
+pointcut
+physical
+postgres
+pagination
+pageRequest
+pageable
+prior
 less
 lower
 letter
@@ -15914,6 +15949,8 @@ loose
 lever
 loaded
 layer
+lots
+logging
 syntax
 set
 security
@@ -17174,6 +17211,18 @@ successful
 strategies
 swagger
 sanitize
+strategy
+simplify
+specification
+salary
+switching
+smallest
+share
+starting
+sized
+submitted
+shutdown
+setdemon
 rules
 restrictions
 returning
@@ -18368,6 +18417,9 @@ race
 restful
 requestParam
 requst
+relationships
+runnable
+reuse
 follow
 for
 from
@@ -19500,6 +19552,10 @@ former
 forcefully
 full
 feign
+finetune
+frameworks
+find
+failure
 get
 gap
 general
@@ -21706,6 +21762,8 @@ Session
 ServletContext
 ScopedProxyMode
 Scenario
+Specification
+SWITCHING
 Developement
 Data
 DataSource
@@ -23858,6 +23916,7 @@ Lfn
 LaI
 LinkedList
 Lazy
+LOCATION
 Cycle
 CONCEPTS
 CLASS
@@ -24958,6 +25017,10 @@ CROSS
 CrossOrigin
 Client
 CONSTRAINVALIDATION
+ConditionalOn
+Conditional
+Contains
+CONTEXT
 devops
 default
 data
@@ -26165,6 +26228,10 @@ doc
 documentation
 declarative
 dto
+duplication
+differences
+datasources
+demon
 make
 more
 method
@@ -27357,6 +27424,10 @@ mymediatype
 mapping
 mediatype
 maintain
+mysql
+manager
+mappings
+multitasking
 ACCESS
 Abstraction
 Angular
@@ -28395,6 +28466,10 @@ ApplicationContext
 Autowire
 APPLICATION
 Advance
+Aspect
+Advice
+Around
+ADDRESS
 MODIFIERS
 My
 Material
@@ -29461,6 +29536,7 @@ MediaType
 MVC
 MultipartFile
 MethodArgumentNotValidException
+Multitasking
 accessModifiers
 access
 around
@@ -30607,6 +30683,15 @@ authentication
 authorization
 async
 acc
+alternatvie
+achieving
+aspect
+auditing
+advice
+avg
+association
+associations
+actively
 NOTE
 Name
 New
@@ -32838,6 +32923,8 @@ human
 hitting
 handlers
 handler
+had
+host
 keyword
 keywork
 kafka
@@ -34925,6 +35012,7 @@ OBkQ
 OjP
 OUm
 ObjectFactory
+ORM
 Powers
 Polymorphism
 Postgres
@@ -35950,6 +36038,11 @@ Put
 Patch
 POST
 ProblemDetail
+Profile
+Point
+PointCut
+Primary
+Performing
 Java
 JPA
 JCA
@@ -37044,6 +37137,9 @@ JoB
 JwE
 JHJrS
 Jetty
+JoinPoint
+JPQL
+Jpql
 Inheritance
 It
 In
@@ -39240,6 +39336,9 @@ baeldung
 behave
 binary
 bug
+benefits
+business
+boilerplate
 Business
 By
 Boot
@@ -40259,6 +40358,7 @@ Bean
 BACKBONE
 BeanPostProcessor
 BadRequest
+Before
 Return
 Reactor
 Remember
@@ -43603,6 +43703,7 @@ qwLy
 qtsH
 qfg
 query
+queries
 How
 Here
 Hystrix
@@ -44654,6 +44755,7 @@ HTTP
 Hidden
 HttpStatus
 HAVE
+Hibernate
 you
 your
 yQsf
@@ -51154,6 +51256,7 @@ GRH
 GWbS
 Get
 GetMapping
+GeneratedValue
 zf
 zq
 zt
@@ -53312,6 +53415,7 @@ QbN
 QfZ
 QVVI
 Qualifier
+Query
 xN
 xl
 xu
