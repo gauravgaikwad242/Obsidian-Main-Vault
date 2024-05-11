@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c251b069320c146",
+            "id": "1ee3f1d6ba151053",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "core-java/Interview/Java Interview Questions and Answers.pdf"
+                "file": "springboot/Interview/Java Techie.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1ee3f1d6ba151053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/58.1 Final keyword.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/58.1 Final keyword.md",
+                "file": "springboot/Interview/Java Techie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/58.1 Final keyword.md",
+                "file": "springboot/Interview/Java Techie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/58.1 Final keyword.md"
+                "file": "springboot/Interview/Java Techie.md"
               }
             }
           },
@@ -167,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +170,22 @@
   },
   "active": "1ee3f1d6ba151053",
   "lastOpenFiles": [
+    "core-java/io-streams/Passport Appointment Receipt.pdf",
+    "core-java/io-streams/Data & Object Streams.pdf",
+    "core-java/io-streams/Buffered Streams.png",
+    "core-java/io-streams/Buffered Streams.pdf",
+    "core-java/61.0 Buffer Streams.md",
+    "core-java/62.0 Data Streams.md",
+    "core-java/60.0 io Streams.md",
+    "core-java/io-streams/2-Feb-2024.pdf",
+    "core-java/io-streams/2-Feb-2024 part 1.png",
+    "core-java/io-streams/2-Feb-2024 part 2.png",
+    "core-java/io-streams/5-Feb-2024.png",
+    "core-java/62.1 Serialization, Object Streams.md",
+    "core-java/63.0 Collection Framework.md",
+    "core-java/59.0 Garbage Collector.md",
+    "springboot/Interview/Java Techie.md",
+    "core-java/58.1 Final keyword.md",
     "core-java/58.0 Clone method.md",
     "core-java/57.2 Demon Thread.md",
     "core-java/57.1 Thread Pooling.md",
@@ -197,34 +201,17 @@
     "core-java/Interview/most common java questions.md",
     "core-java/Interview/Collection Questions.md",
     "core-java/Interview/DOUBT.md",
-    "springboot/Interview/Java Techie.md",
-    "core-java/io-streams/Passport Appointment Receipt.pdf",
     "core-java/images/Pasted image 20240504184915.png",
     "core-java/images/Pasted image 20240504184237.png",
     "core-java/images/Pasted image 20240504182503.png",
     "core-java/images/Pasted image 20240504181932.png",
     "core-java/images/Pasted image 20240504181837.png",
     "core-java/images/Pasted image 20240504181634.png",
-    "core-java/images/Pasted image 20240504181524.png",
-    "core-java/images/Pasted image 20240504173906.png",
-    "core-java/images/Pasted image 20240504173410.png",
-    "core-java/images/Pasted image 20240504173258.png",
     "springboot/ExceptionHandling/@RestControllerAdvice.md",
     "springboot/ExceptionHandling",
     "springboot/Untitled.md",
     "core-java/42.0 Inheritance.md",
-    "core-java/47.0 Interface.md",
-    "Links.md",
-    "core-java/59.0 Garbage Collector.md",
-    "RXJS/BehaviourSubject/Subject.md",
-    "RXJS/BehaviourSubject/ReplaySubject.md",
-    "RXJS/BehaviourSubject/PlainSubject.md",
-    "RXJS/BehaviourSubject/BehaviourSubject.md",
-    "RXJS/BehaviourSubject/AsyncSubject.md",
     "springboot/Interview",
-    "core-java/io-streams/Data & Object Streams.pdf",
-    "core-java/io-streams/Buffered Streams.pdf",
-    "core-java/io-streams/2-Feb-2024.pdf",
     "springboot/_spring-core",
     "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/io-streams/Buffered Streams.png.crdownload",

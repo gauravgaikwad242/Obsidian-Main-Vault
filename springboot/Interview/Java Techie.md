@@ -512,7 +512,7 @@
 	5. reduce the boilerplate code by giving CRUD operations
 	6. features such as named-Query, JPA query , specification 
 
-64. 21:00 : What are the differences between hibernate JPA and Spring Data JPA ? 
+64. 21:00 : What are the differences between hibernate,    JPA and Spring Data JPA ? 
 	1. we have 3 frameworks 
 		1. Hibernate - 
 			1. ORM (table mapping will be done by hibernate)
