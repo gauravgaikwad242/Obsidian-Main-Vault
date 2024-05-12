@@ -1144,6 +1144,7 @@ TGu
 TxM
 TUz
 TDGDGFG
+TreeSet
 Fundamental
 For
 First
@@ -2257,6 +2258,11 @@ FfHe
 Fä
 FcK
 FMuo
+FileInputStrea
+FileReader
+FileWriter
+From
+Framework
 elements
 enum
 else
@@ -4601,6 +4607,7 @@ idempotent
 importing
 incr
 iRpi
+interfacae
 java
 javascript
 jc
@@ -5723,6 +5730,7 @@ jGGGooo
 jbbR
 jaaa
 jsIv
+javatechie
 to
 than
 tools
@@ -6843,6 +6851,7 @@ task
 threading
 therad
 tspu
+throwing
 code
 class
 constants
@@ -8134,6 +8143,12 @@ cpu
 cGI
 cuo
 cOZ
+completed
+comparison
+characteristics
+concepts
+contract
+compiling
 we
 when
 want
@@ -11462,6 +11477,7 @@ EvUU
 EfRt
 EsBC
 Ewo
+Elements
 use
 universal
 used
@@ -12562,6 +12578,7 @@ upload
 utilities
 uTW
 umSV
+uid
 our
 of
 or
@@ -13719,6 +13736,7 @@ okay
 origin
 optimize
 openPopup
+oops
 project
 public
 private
@@ -14878,6 +14896,8 @@ pageRequest
 pageable
 prior
 phll
+pillar
+poly
 less
 lower
 letter
@@ -17262,6 +17282,7 @@ sized
 submitted
 shutdown
 setdemon
+structures
 rules
 restrictions
 returning
@@ -21815,6 +21836,7 @@ SWITCHING
 Szz
 SBs
 SWl
+Synchronization
 Developement
 Data
 DataSource
@@ -23976,6 +23998,7 @@ LBo
 LInV
 LPV
 LiNy
+LinkedHashSet
 Cycle
 CONCEPTS
 CLASS
@@ -25082,6 +25105,8 @@ Contains
 CONTEXT
 CCCo
 CAPTURING
+Capacity
+Collections
 devops
 default
 data
@@ -27493,6 +27518,7 @@ mappings
 multitasking
 mDJH
 mom
+mandatorily
 ACCESS
 Abstraction
 Angular
@@ -28542,6 +28568,8 @@ APkk
 AppOnlineProject
 AJY
 Abb
+Allowed
+Available
 MODIFIERS
 My
 Material
@@ -29612,6 +29640,7 @@ Multitasking
 MsF
 MINORS
 McB
+Maintained
 accessModifiers
 access
 around
@@ -30770,6 +30799,7 @@ actively
 abb
 aee
 aAm
+aquiring
 NOTE
 Name
 New
@@ -31840,6 +31870,7 @@ NOTV
 NIe
 NirmalaUI
 Ngqq
+Null
 has
 have
 hiding
@@ -33007,6 +33038,7 @@ handler
 had
 host
 hjjj
+happens
 keyword
 keywork
 kafka
@@ -35103,6 +35135,7 @@ OhQ
 OhC
 Oik
 OUO
+OutputStream
 Powers
 Polymorphism
 Postgres
@@ -36140,6 +36173,7 @@ PHOTOGRAPHS
 PEBz
 Pkg
 PNx
+PriorityQueue
 Java
 JPA
 JCA
@@ -38284,6 +38318,8 @@ Injection
 IMPLEMENT
 IKK
 Ivx
+InputStream
+Insertion
 be
 byte
 boolean
@@ -40470,6 +40506,12 @@ Bmm
 Barcode
 BWhHG
 BZoK
+BufferedInputStream
+BufferedOutputStream
+BufferedFileReader
+BufferedFileWriter
+BufferedReader
+BufferedWriter
 Return
 Reactor
 Remember
@@ -41606,6 +41648,7 @@ ResponseStatus
 Receipt
 RPA
 RJY
+Reader
 value
 void
 vanilla
@@ -44878,6 +44921,9 @@ Hibernate
 HpppSS
 Hwc
 HVI
+HashSet
+Heterogeneous
+Hashcode
 you
 your
 yQsf
@@ -50276,6 +50322,7 @@ WfX
 WebApplicationContext
 WebSocket
 WHvU
+Writer
 Generated
 Go
 Gv
