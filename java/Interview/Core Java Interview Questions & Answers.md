@@ -63,4 +63,108 @@
 11. How to write custom exception ? 
 	1. extend the exception class by the custom exception and pass message to super() 
 12. throw and throws 
-	1. 
+	1. [[52 throw and throws]]
+13. Exception tricky questions 
+	1. parent class we cannot use before child class 
+	2. so first we have to handle child and then parent (exception hierarchy)
+14. try catch finally return scenario questions 
+	1. output is 3 
+		1. ![[Pasted image 20240512093252.png]]
+	2. output is 2 
+		1. ![[Pasted image 20240512093322.png]]
+	3. output is 3 
+		1. ![[Pasted image 20240512093349.png]]
+15. How to break flow of finally? 
+	1. ![[Pasted image 20240512093445.png]]
+	2. with exception in finally or system.exit(0);
+16. How many way we can create string object ? 
+16. string object creation scenario?
+16. what is scp, string constant pool?
+	1. with new String()
+		- in this scenario 2 objects will be created 
+		1. object -> new -> heap 
+		2. object -> literal -> scp 
+	2. or with String abc = "stp";
+		- <mark style="background: #FF5582A6;">here no object will be created as in above scenario it is already created </mark>
+		2. object -> literal -> scp 
+	3. to prove above 
+		1. ![[Pasted image 20240512094451.png]]
+		2. <mark style="background: #FF5582A6;">we will get true in above code </mark>
+		3. intern() points to the scp , and it is used to get scp reference 
+17. why string is immutable ?
+	1. [[36.0 String Handling]]
+	2. when we create a same string two times it will create only one object in scp hence it is immutable 
+	3. it is made immutable for security purpose , if one reference is changed it will change all of the references and that is security issue 
+	4. ![[Pasted image 20240512095055.png]]
+	5. ![[Pasted image 20240512095103.png]]
+	6. ![[Pasted image 20240512095224.png]]
+18. How to use mutable class and what is the difference between stringbuffer and stringbuilder ? 
+	1. ![[Pasted image 20240512095356.png]]
+	2. equals method difference - data reference reference  
+	3. concat append append 
+19. <mark style="background: #FF5582A6;">How can we write our own custom immutable class</mark> ? 
+	1. make class as final - so no one can inherit 
+	2. declare all fields (instance var) as private and final 
+	3. say to to setters 
+	4. initialize all var in constructor 
+	5. perform cloning of mutable object while returning 
+		1. for obje like data , list etc 
+		2. for data -> data.clone()
+		3. for list collection.unmodifiable(list)
+			1. or new ArrayList(list)
+20. Which one is good to store password in java string or char[] and why ?
+	1. ![[Pasted image 20240512104605.png]]
+	2. ![[Pasted image 20240512104718.png]]
+21. What is marker interface (tagging interface) ? can we create our own marker interface ? 
+	1. interface which does not have any element in it like method or fields 
+	2. yes we can create our own marker interface .
+	3. ![[Pasted image 20240512104858.png]]
+	4. it will check with **instanceof** if it has implementation of the marker interface
+
+22. What all collection you used in your project ? 
+	1. ![[Pasted image 20240512170301.png]]
+23. diff between list and set 
+24. diff between Arraylist and LinkedList
+	1. ![[Pasted image 20240512170449.png]]
+![[Pasted image 20240512175639.png]]
+
+25. List object creation scenario ?
+	1. which one list = Arraylist or Arraylist = Arraylist 
+	2. first one is better due to loose coupling 
+26. Declaring a List field with the final keyword ?
+	1. we can add elements 
+	2. but we cannot re-assign
+	3. if we dont want modifiable the we can use collection.unmodifiable 
+27. <mark style="background: #FF5582A6;">How can i write custom ArrayList where i dont want to allow duplicate ?</mark> 
+	1. we can create class extend ArrayList 
+	2. we can override add method  
+28. Why set doesnt allow duplicate elements ? 
+	1. it internally uses map to store elements 
+		1. ![[Pasted image 20240512180922.png]]
+29. <mark style="background: #FF5582A6;">What is the diff between COMPARABLE and COMPARATOR</mark>
+	1. ![[Pasted image 20240512185508.png]]
+30. multi comparing using comparator scenario 
+31. what is diff between fail fast and fail safe iterator ? 
+	1. it fails because of modcount value is not same 
+	2. ![[Pasted image 20240512193342.png]]
+	3. fail fast 
+		1. ![[Pasted image 20240512193504.png]]
+	4. fail safe 
+		1. ![[Pasted image 20240512193611.png]]
+		2. here it will return clone of the list 
+		3. so if we print we will not see c 
+		4. <mark style="background: #FF5582A6;">but for map we use concurrent map and there it will return actual object </mark>
+32. what is need of concurrenthashmap and how it is diff from Hashmap? 
+	1. ![[Pasted image 20240512194045.png]]
+33. if we have hashTable which is already synchronized thenn why we need ConcurrentHashMap ? 
+	1. ![[Pasted image 20240512194758.png]]
+34. ![[Pasted image 20240512194849.png]]
+35. <mark style="background: #FF5582A6;">How HashMap internally works ?</mark>
+	1. if key is null it will be placed in 0 bucket 
+	2. ![[Pasted image 20240512200456.png]]
+	3. ![[Pasted image 20240512200623.png]]
+36. what is enhancement done to hashmap in java 8? 
+	1.<mark style="background: #FF5582A6;"> balanced tree instead of linkedlist for buckets sometimes in some condition </mark>
+37. How treeMap internally works ? 
+	1. treemap will sort the key 
+	2. ![[Pasted image 20240512200952.png]]
