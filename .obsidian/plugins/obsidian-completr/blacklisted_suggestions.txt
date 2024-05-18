@@ -3,3 +3,9 @@ users
 username
 userdefined
 index
+cRU
+Cru
+CrU
+Cruv
+crucial
+problem
