@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/_Spring Boot.md",
+                "file": "springboot/webflux/Streaming data with webflux.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "springboot/_Spring Boot.md",
+            "file": "springboot/webflux/Streaming data with webflux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "springboot/_Spring Boot.md",
+            "file": "springboot/webflux/Streaming data with webflux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "springboot/_Spring Boot.md"
+            "file": "springboot/webflux/Streaming data with webflux.md"
           }
         }
       },
@@ -151,11 +151,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d614c6edceff0f",
+  "active": "3075850afc4f279b",
   "lastOpenFiles": [
+    "springboot/ExceptionHandling/@RestControllerAdvice.md",
+    "java/Interview/Core Java Interview Questions & Answers.md",
+    "core-java/images/Pasted image 20240511191557.png",
+    "core-java/images/Pasted image 20240504184915.png",
+    "core-java/images/Pasted image 20240504184237.png",
+    "core-java/images/Pasted image 20240504182503.png",
+    "core-java/images/Pasted image 20240504181932.png",
+    "core-java/images/Pasted image 20240504181837.png",
+    "core-java/images/Pasted image 20240504181634.png",
+    "core-java/images/Pasted image 20240504181524.png",
+    "core-java/images/Pasted image 20240504173906.png",
+    "core-java/images/Pasted image 20240504173410.png",
+    "/springboot/Interview/Java Techie.md",
+    "/springboot/ExceptionHandling/@RestControllerAdvice.md",
+    "/java/Interview/Core Java Interview Questions & Answers.md",
+    "/core-java/69.1 collection.md",
+    "/core-java/60.0 io Streams.md",
+    "springboot/ExceptionHandling",
+    "java/Interview",
+    "/springboot/ExceptionHandling",
+    "/java/Interview",
+    "core-java/Interview/java interview question.pdf",
+    "springboot/Interview/Java Techie.md",
+    "core-java/1. Intro.md",
+    "springboot/webflux/Streaming data with webflux.md",
+    "springboot/Interview",
+    "/springboot/Interview",
+    "springboot/_Spring Boot.md",
     "springboot/@RestControllerAdvice.md",
     "Links.md",
-    "Pasted image 20230813084603.png",
     "postgres/KEYWORDS/WHERE.md",
     "/Links.md",
     "java/Streams/Operators/peek-streams.md",
@@ -169,28 +196,9 @@
     "springboot/Microservices/CIRCUIT-BREAKER.md",
     "postgres/KEYWORDS/LIKE.md",
     "postgres/KEYWORDS/IN.md",
-    "postgres/KEYWORDS/BIGSERIAL.md",
-    "postgres/KEYWORDS/BETWEEN.md",
-    "postgres/DATATYPE/DATATYPES.md",
-    "RXJS/--ALL-RXJS.md",
-    "/RXJS/MERGE-MAP.md",
-    "/RXJS/ZIP-RXJS.md",
-    "/RXJS/SWITCH-MAP.md",
-    "/RXJS/FORK-JOIN-RXJS.md",
-    "/RXJS/EXHAUST-MAP.md",
-    "/RXJS/DESTINCT-UNTIL-CHANGED-RXJS.md",
-    "/RXJS/DEBOUNCE-TIME-RXJS.md",
     "postgres/DATATYPE",
     "/postgres/DATATYPE",
-    "/Pasted image 20230813084603.png",
     "/Untitled 1.canvas",
-    "links",
-    "java/functional-inteface",
-    "java/Streams/Operators",
-    "java/Streams",
-    "RXJS",
-    "/links",
-    "/java/functional-inteface",
-    "/java/Streams/Operators"
+    "links"
   ]
 }
