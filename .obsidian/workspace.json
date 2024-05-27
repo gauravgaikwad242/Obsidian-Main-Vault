@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5120544433594
+    "width": 233.50355911254883
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md"
+                "file": "java/Interview/Core Java Interview Questions & Answers.md"
               }
             }
           },
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 264.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,9 +210,17 @@
   },
   "active": "6f1735549d37d63d",
   "lastOpenFiles": [
+    "core-java/52 throw and throws.md",
+    "java/Interview/Core Java Interview Questions & Answers.md",
+    "springboot/ExceptionHandling/@RestControllerAdvice.md",
+    "core-java/Interview/Java Interview Questions and Answers.pdf",
+    "core-java/Interview/java interview question.pdf",
+    "core-java/Interview/most common java questions.md",
+    "core-java/Interview/Collection Questions.md",
+    "core-java/69.1 collection.md",
+    "core-java/63.0 Collection Framework.md",
     "springboot/Interview/Java Techie.md",
     "java/Interview/Others.md",
-    "java/Interview/Core Java Interview Questions & Answers.md",
     "core-java/25. Wrapper Classes.md",
     "core-java/images/Pasted image 20240512200952.png",
     "core-java/images/Pasted image 20240512200623.png",
@@ -224,10 +232,7 @@
     "core-java/images/Pasted image 20240512193504.png",
     "core-java/images/Pasted image 20240512193342.png",
     "core-java/images/Pasted image 20240512185508.png",
-    "core-java/63.0 Collection Framework.md",
-    "core-java/69.1 collection.md",
     "core-java/36.0 String Handling.md",
-    "core-java/52 throw and throws.md",
     "core-java/61.0 Buffer Streams.md",
     "core-java/60.0 io Streams.md",
     "core-java/1. Intro.md",
@@ -243,19 +248,13 @@
     "core-java/73.0 Method Referencing.md",
     "core-java/72.1 Lambda Expression.md",
     "core-java/72.0 Java 8 features.md",
-    "core-java/69.0 Queue Interface.md",
-    "core-java/68.0 Set.md",
-    "core-java/67.0 LinkedList.md",
-    "core-java/64.0 ArrayList.md",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
     "core-java/io-streams/Passport Appointment Receipt.pdf",
     "core-java/io-streams/2-Feb-2024.pdf",
-    "core-java/Interview/Java Interview Questions and Answers.pdf",
     "springboot/ExceptionHandling",
     "springboot/Interview",
     "springboot/_spring-core",
-    "core-java/io-streams/5-Feb-2024.png.crdownload",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
