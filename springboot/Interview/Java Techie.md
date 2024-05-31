@@ -611,7 +611,7 @@ public class EmployeeDataSourceConfig {
         return new JpaTransactionManager(entityManagerFactory);
     }
 }
-``` 
+```
 
  66. 39:48 : What are the different ways to define custom queries in spring Data JPA ? 
 	 1. Method Syntax (derived query)  

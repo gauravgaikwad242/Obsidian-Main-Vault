@@ -2263,6 +2263,7 @@ FileReader
 FileWriter
 From
 Framework
+FEFF
 elements
 enum
 else
@@ -3430,6 +3431,9 @@ extending
 exists
 explicitly
 eXd
+enhancement
+eUdy
+eTS
 in
 interface
 interview
@@ -4608,6 +4612,8 @@ importing
 incr
 iRpi
 interfacae
+intern
+ilovepdf
 java
 javascript
 jc
@@ -5731,6 +5737,7 @@ jbbR
 jaaa
 jsIv
 javatechie
+jyL
 to
 than
 tools
@@ -6852,6 +6859,11 @@ threading
 therad
 tspu
 throwing
+tricky
+tagging
+thenn
+treeMap
+treemap
 code
 class
 constants
@@ -8149,6 +8161,10 @@ characteristics
 concepts
 contract
 compiling
+comparator
+concurrent
+concurrenthashmap
+collectors
 we
 when
 want
@@ -12579,6 +12595,8 @@ utilities
 uTW
 umSV
 uid
+unmodifiable
+uqM
 our
 of
 or
@@ -13737,6 +13755,7 @@ origin
 optimize
 openPopup
 oops
+obje
 project
 public
 private
@@ -14898,6 +14917,8 @@ prior
 phll
 pillar
 poly
+prove
+points
 less
 lower
 letter
@@ -16010,6 +16031,8 @@ lots
 logging
 ldd
 logo
+literal
+lQN
 syntax
 set
 security
@@ -17283,6 +17306,14 @@ submitted
 shutdown
 setdemon
 structures
+scp
+stp
+stringbuffer
+stringbuilder
+sometimes
+sort
+sDgSb
+sXf
 rules
 restrictions
 returning
@@ -20709,6 +20740,7 @@ gateway
 globally
 gß
 gfa
+gUW
 SDLC
 Software
 Super
@@ -22935,6 +22967,7 @@ Delete
 DNNN
 DIg
 Dci
+Declaring
 Life
 Logic
 Let
@@ -25107,6 +25140,7 @@ CCCo
 CAPTURING
 Capacity
 Collections
+ConcurrentHashMap
 devops
 default
 data
@@ -26320,6 +26354,7 @@ datasources
 demon
 drSSSii
 dWPj
+datatime
 make
 more
 method
@@ -27519,6 +27554,8 @@ multitasking
 mDJH
 mom
 mandatorily
+modifiable
+modcount
 ACCESS
 Abstraction
 Angular
@@ -28570,6 +28607,7 @@ AJY
 Abb
 Allowed
 Available
+Arial
 MODIFIERS
 My
 Material
@@ -29641,6 +29679,8 @@ MsF
 MINORS
 McB
 Maintained
+Metaspace
+MCJ
 accessModifiers
 access
 around
@@ -30800,6 +30840,7 @@ abb
 aee
 aAm
 aquiring
+already
 NOTE
 Name
 New
@@ -33039,6 +33080,9 @@ had
 host
 hjjj
 happens
+hashTable
+hashmap
+hhk
 keyword
 keywork
 kafka
@@ -34070,6 +34114,7 @@ kill
 kmmmff
 kccS
 kkkA
+kqm
 OOPS
 OBJECT
 Object
@@ -35136,6 +35181,7 @@ OhC
 Oik
 OUO
 OutputStream
+OKm
 Powers
 Polymorphism
 Postgres
@@ -36174,6 +36220,8 @@ PEBz
 Pkg
 PNx
 PriorityQueue
+Permanent
+PermGen
 Java
 JPA
 JCA
@@ -39482,6 +39530,9 @@ boilerplate
 bkkK
 bZHc
 bLg
+bucket
+balanced
+buckets
 Business
 By
 Boot
@@ -44924,6 +44975,8 @@ HVI
 HashSet
 Heterogeneous
 Hashcode
+Hashmap
+HashMap
 you
 your
 yQsf
@@ -49283,6 +49336,7 @@ UXG
 UDR
 Ubz
 Uxl
+UQj
 With
 When
 Works
@@ -50323,6 +50377,7 @@ WebApplicationContext
 WebSocket
 WHvU
 Writer
+Which
 Generated
 Go
 Gv
@@ -51448,6 +51503,7 @@ GeneratedValue
 Gli
 GGGy
 GUIDELINES
+Generation
 zf
 zq
 zt
@@ -53615,6 +53671,7 @@ Query
 QEu
 QÖ
 QMo
+QJr
 xN
 xl
 xu
@@ -54649,6 +54706,7 @@ xQB
 xKN
 xlF
 xiiVU
+xRHmq
 ZL
 ZH
 Zx
@@ -57732,6 +57790,8 @@ XVBB
 Xä
 XenC
 Xej
+XjZ
+XZH
 är
 äp
 äR
