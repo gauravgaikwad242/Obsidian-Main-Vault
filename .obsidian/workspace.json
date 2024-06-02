@@ -58,9 +58,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6340551b364ef09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-java/1. Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f26d9d2776d8f2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md"
+                "file": "springboot/ExceptionHandling/@RestControllerAdvice.md"
               }
             }
           },
@@ -208,10 +232,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f1735549d37d63d",
+  "active": "f26d9d2776d8f2fc",
   "lastOpenFiles": [
-    "core-java/52 throw and throws.md",
+    "springboot/webflux/Streaming data with webflux.md",
+    "springboot/Interview/Java Techie.md",
+    "core-java/1. Intro.md",
+    "core-java/2. History & c vs c++ vs java.md",
     "java/Interview/Core Java Interview Questions & Answers.md",
+    "core-java/52 throw and throws.md",
     "springboot/ExceptionHandling/@RestControllerAdvice.md",
     "core-java/Interview/Java Interview Questions and Answers.pdf",
     "core-java/Interview/java interview question.pdf",
@@ -219,7 +247,6 @@
     "core-java/Interview/Collection Questions.md",
     "core-java/69.1 collection.md",
     "core-java/63.0 Collection Framework.md",
-    "springboot/Interview/Java Techie.md",
     "java/Interview/Others.md",
     "core-java/25. Wrapper Classes.md",
     "core-java/images/Pasted image 20240512200952.png",
@@ -235,7 +262,6 @@
     "core-java/36.0 String Handling.md",
     "core-java/61.0 Buffer Streams.md",
     "core-java/60.0 io Streams.md",
-    "core-java/1. Intro.md",
     "core-java/7.0 Object Class Methods.md",
     "core-java/44.0 Polymorphism.md",
     "core-java/46.0 Abstraction.md",
@@ -247,7 +273,6 @@
     "core-java/75.3 Instance Block.md",
     "core-java/73.0 Method Referencing.md",
     "core-java/72.1 Lambda Expression.md",
-    "core-java/72.0 Java 8 features.md",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
     "core-java/io-streams/Passport Appointment Receipt.pdf",
