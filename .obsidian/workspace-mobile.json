@@ -11,11 +11,9 @@
             "id": "22d614c6edceff0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "springboot/webflux/Streaming data with webflux.md",
-                "mode": "source",
-                "source": false
+                "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
               }
             }
           }
@@ -97,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "springboot/webflux/Streaming data with webflux.md",
+            "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "springboot/webflux/Streaming data with webflux.md",
+            "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "springboot/webflux/Streaming data with webflux.md"
+            "file": "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf"
           }
         }
       },
@@ -151,8 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3075850afc4f279b",
+  "active": "22d614c6edceff0f",
   "lastOpenFiles": [
+    "springboot/webflux/Streaming data with webflux.md",
+    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "springboot/ExceptionHandling/@RestControllerAdvice.md",
     "java/Interview/Core Java Interview Questions & Answers.md",
     "core-java/images/Pasted image 20240511191557.png",
@@ -177,7 +177,6 @@
     "core-java/Interview/java interview question.pdf",
     "springboot/Interview/Java Techie.md",
     "core-java/1. Intro.md",
-    "springboot/webflux/Streaming data with webflux.md",
     "springboot/Interview",
     "/springboot/Interview",
     "springboot/_Spring Boot.md",
@@ -195,10 +194,8 @@
     "springboot/Microservices/LOAD-BALANCING.md",
     "springboot/Microservices/CIRCUIT-BREAKER.md",
     "postgres/KEYWORDS/LIKE.md",
-    "postgres/KEYWORDS/IN.md",
     "postgres/DATATYPE",
     "/postgres/DATATYPE",
-    "/Untitled 1.canvas",
-    "links"
+    "/Untitled 1.canvas"
   ]
 }
