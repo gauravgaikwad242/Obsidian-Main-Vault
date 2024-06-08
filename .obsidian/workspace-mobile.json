@@ -151,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d614c6edceff0f",
+  "active": "97a8343abe10ed46",
   "lastOpenFiles": [
+    "Angular-14/Sources.md",
+    "Project-Reactor/Operators/limitRate.md",
     "Project-Reactor/Operators/handle.md",
     "Project-Reactor/Operators/delayElements.md",
     "Project-Reactor/Operators/defaultIfEmpty.md",
@@ -195,8 +197,6 @@
     "/Links.md",
     "java/Streams/Operators/peek-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
-    "RXJS/ZIP-RXJS.md",
-    "RXJS/FORK-JOIN-RXJS.md",
     "postgres/DATATYPE",
     "/postgres/DATATYPE",
     "/Untitled 1.canvas"
