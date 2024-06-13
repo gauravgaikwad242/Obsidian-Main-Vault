@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,6 +234,7 @@
   },
   "active": "f26d9d2776d8f2fc",
   "lastOpenFiles": [
+    "Angular-14/Sources.md",
     "springboot/_Spring Boot.md",
     "springboot/_officialDoc.md",
     "springboot/SPEL/Official Doc.md",
@@ -272,7 +274,6 @@
     "core-java/42.0 Inheritance.md",
     "core-java/41.1 Encapsulation.md",
     "java/Interview",
-    "core-java/75.2 New Date Time API.md",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
     "core-java/io-streams/Passport Appointment Receipt.pdf",
