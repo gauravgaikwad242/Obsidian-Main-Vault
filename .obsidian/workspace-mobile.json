@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+                "file": "core-java/3.0 Internal Architecture of JVM.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+            "file": "core-java/3.0 Internal Architecture of JVM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RXJS/BehaviourSubject/ReplaySubject.md",
+            "file": "core-java/3.0 Internal Architecture of JVM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "RXJS/BehaviourSubject/ReplaySubject.md"
+            "file": "core-java/3.0 Internal Architecture of JVM.md"
           }
         }
       },
@@ -153,6 +153,7 @@
   },
   "active": "22d614c6edceff0f",
   "lastOpenFiles": [
+    "RXJS/BehaviourSubject/ReplaySubject.md",
     "RXJS/BehaviourSubject/PlainSubject.md",
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
@@ -196,7 +197,6 @@
     "/springboot/ExceptionHandling",
     "/java/Interview",
     "core-java/Interview/java interview question.pdf",
-    "core-java/1. Intro.md",
     "springboot/Interview",
     "/springboot/Interview",
     "/Untitled 1.canvas"
