@@ -36,55 +36,19 @@
             }
           },
           {
-            "id": "c69ba7ff04ae0ded",
+            "id": "53714a6d81829efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Interview/Others.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f1735549d37d63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6340551b364ef09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-java/1. Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f26d9d2776d8f2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/Websocket/Intro.md",
+                "file": "core-java/44.0 Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/Websocket/Intro.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/Websocket/Intro.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/Websocket/Intro.md"
+                "file": "java/Interview/Core Java Interview Questions & Answers.md"
               }
             }
           },
@@ -232,19 +196,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26d9d2776d8f2fc",
+  "active": "c4600d98387d25b8",
   "lastOpenFiles": [
+    "core-java/44.0 Polymorphism.md",
+    "core-java/46.0 Abstraction.md",
+    "java/Interview/Core Java Interview Questions & Answers.md",
+    "springboot/Interview/Java Techie.md",
+    "springboot/ExceptionHandling/@RestControllerAdvice.md",
+    "springboot/Websocket/Intro.md",
     "Angular-14/Sources.md",
     "springboot/_Spring Boot.md",
     "springboot/_officialDoc.md",
     "springboot/SPEL/Official Doc.md",
-    "springboot/ExceptionHandling/@RestControllerAdvice.md",
     "springboot/SPEL",
     "springboot/webflux/Streaming data with webflux.md",
-    "springboot/Interview/Java Techie.md",
     "core-java/1. Intro.md",
     "core-java/2. History & c vs c++ vs java.md",
-    "java/Interview/Core Java Interview Questions & Answers.md",
     "core-java/52 throw and throws.md",
     "core-java/Interview/Java Interview Questions and Answers.pdf",
     "core-java/Interview/java interview question.pdf",
@@ -268,11 +235,8 @@
     "core-java/61.0 Buffer Streams.md",
     "core-java/60.0 io Streams.md",
     "core-java/7.0 Object Class Methods.md",
-    "core-java/44.0 Polymorphism.md",
-    "core-java/46.0 Abstraction.md",
     "core-java/45 Method Overriding.md",
     "core-java/42.0 Inheritance.md",
-    "core-java/41.1 Encapsulation.md",
     "java/Interview",
     "core-java/io-streams/Data & Object Streams.pdf",
     "core-java/io-streams/Buffered Streams.pdf",
