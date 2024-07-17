@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/3.0 Internal Architecture of JVM.md",
-                "mode": "preview",
+                "file": "RXJS/BehaviourSubject/PlainSubject.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "core-java/3.0 Internal Architecture of JVM.md",
+            "file": "RXJS/BehaviourSubject/PlainSubject.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "core-java/3.0 Internal Architecture of JVM.md",
+            "file": "RXJS/BehaviourSubject/PlainSubject.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "core-java/3.0 Internal Architecture of JVM.md"
+            "file": "RXJS/BehaviourSubject/PlainSubject.md"
           }
         }
       },
@@ -153,13 +153,23 @@
   },
   "active": "22d614c6edceff0f",
   "lastOpenFiles": [
-    "RXJS/BehaviourSubject/ReplaySubject.md",
-    "RXJS/BehaviourSubject/PlainSubject.md",
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
-    "Project-Reactor/Operators/limitRate.md",
-    "springboot/_officialDoc.md",
+    "RXJS/BehaviourSubject/Subject.md",
+    "springboot/question/InterviewPrep_SpringBoot (1).pdf",
     "springboot/SPEL/Official Doc.md",
+    "springboot/@RestControllerAdvice.md",
+    "springboot/_officialDoc.md",
+    "springboot/webflux/Streaming data with webflux.md",
+    "core-java/programms/1st programm.md",
+    "core-java/11.01 Datatypes.pdf",
+    "core-java/67.0 LinkedList.md",
+    "core-java/75.0 Optional class.md",
+    "core-java/73.0 Method Referencing.md",
+    "core-java/3.0 Internal Architecture of JVM.md",
+    "RXJS/BehaviourSubject/ReplaySubject.md",
+    "RXJS/BehaviourSubject/PlainSubject.md",
+    "Project-Reactor/Operators/limitRate.md",
     "/springboot/_officialDoc.md",
     "/springboot/SPEL/Official Doc.md",
     "springboot/SPEL",
@@ -184,21 +194,11 @@
     "core-java/images/Pasted image 20240512193504.png",
     "core-java/images/Pasted image 20240512193342.png",
     "core-java/images/Pasted image 20240512185508.png",
-    "/springboot/Interview/Java Techie.md",
-    "/java/Interview/Others.md",
-    "/java/Interview/Core Java Interview Questions & Answers.md",
-    "/core-java/69.1 collection.md",
-    "springboot/webflux/Streaming data with webflux.md",
-    "springboot/ExceptionHandling/@RestControllerAdvice.md",
-    "/springboot/ExceptionHandling/@RestControllerAdvice.md",
-    "/core-java/60.0 io Streams.md",
     "springboot/ExceptionHandling",
     "java/Interview",
     "/springboot/ExceptionHandling",
     "/java/Interview",
     "core-java/Interview/java interview question.pdf",
-    "springboot/Interview",
-    "/springboot/Interview",
     "/Untitled 1.canvas"
   ]
 }
