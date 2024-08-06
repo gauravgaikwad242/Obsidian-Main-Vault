@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "file": "core-java/44.0 Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "file": "core-java/44.0 Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md"
+                "file": "core-java/44.0 Polymorphism.md"
               }
             }
           },
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4600d98387d25b8",
+  "active": "53714a6d81829efd",
   "lastOpenFiles": [
+    "springboot/Interview/Java Techie.md",
+    "BACKEND/Next_Cloud",
+    "BACKEND/Microservice",
+    "BACKEND/Multi-threading",
+    "java/Interview/Core Java Interview Questions & Answers.md",
+    "BACKEND/Untitled.md",
+    "BACKEND/unit-testing",
+    "BACKEND/Kafka",
+    "Untitled",
+    "BACKEND",
     "core-java/44.0 Polymorphism.md",
     "core-java/46.0 Abstraction.md",
-    "java/Interview/Core Java Interview Questions & Answers.md",
-    "springboot/Interview/Java Techie.md",
     "springboot/ExceptionHandling/@RestControllerAdvice.md",
     "springboot/Websocket/Intro.md",
     "Angular-14/Sources.md",
@@ -235,15 +242,6 @@
     "core-java/61.0 Buffer Streams.md",
     "core-java/60.0 io Streams.md",
     "core-java/7.0 Object Class Methods.md",
-    "core-java/45 Method Overriding.md",
-    "core-java/42.0 Inheritance.md",
-    "java/Interview",
-    "core-java/io-streams/Data & Object Streams.pdf",
-    "core-java/io-streams/Buffered Streams.pdf",
-    "core-java/io-streams/Passport Appointment Receipt.pdf",
-    "core-java/io-streams/2-Feb-2024.pdf",
-    "springboot/ExceptionHandling",
-    "springboot/Interview",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
