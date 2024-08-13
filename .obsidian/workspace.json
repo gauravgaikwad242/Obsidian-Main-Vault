@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "springboot/Interview/Java Techie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -29,26 +29,38 @@
               "type": "markdown",
               "state": {
                 "file": "java/Interview/Core Java Interview Questions & Answers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "53714a6d81829efd",
+            "id": "d157b4f7a99d3753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/44.0 Polymorphism.md",
+                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3e1aa704624f0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Streams/Operators/min-max-streams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-java/44.0 Polymorphism.md",
+                "file": "java/Streams/Operators/min-max-streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-java/44.0 Polymorphism.md",
+                "file": "java/Streams/Operators/min-max-streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-java/44.0 Polymorphism.md"
+                "file": "java/Streams/Operators/min-max-streams.md"
               }
             }
           },
@@ -183,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,39 +208,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53714a6d81829efd",
+  "active": "b3e1aa704624f0e0",
   "lastOpenFiles": [
-    "springboot/Interview/Java Techie.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "java/Streams/Operators/collect-streams.md",
+    "java/Streams/Operators/boxed-streams.md",
+    "core-java/47.1 Ambiguity In Interface.md",
+    "core-java/44.0 Polymorphism.md",
+    "core-java/43.3 super & super().md",
+    "core-java/43.2 Multiple Inheritance.md",
+    "core-java/43.1 Multi-level & hierarchical Inheritance.md",
+    "core-java/43.0 Single Inheritance.md",
+    "core-java/42.0 Types of Inheritance.md",
+    "core-java/32.0 this Keywork.md",
+    "core-java/32.0 Scanner Class.md",
+    "core-java/31.1 Jump statements.md",
+    "core-java/31.0 for each loop.md",
+    "core-java/30.0 Understanding for loop.md",
+    "core-java/29.0 Iteration Statement.md",
+    "core-java/28.0 switch case.md",
+    "core-java/27.0 Control Statements.md",
+    "core-java/26. Wrapper Class.md",
+    "core-java/25. Wrapper Classes.md",
+    "core-java/24.0 Type casting.md",
+    "core-java/23.0.md",
+    "core-java/22.0 static block.md",
+    "core-java/21.0 Static Keyword.md",
+    "core-java/15.1- constructor.pdf",
+    "core-java/11.01 Datatypes.pdf",
     "BACKEND/Next_Cloud",
     "BACKEND/Microservice",
     "BACKEND/Multi-threading",
-    "java/Interview/Core Java Interview Questions & Answers.md",
-    "BACKEND/Untitled.md",
     "BACKEND/unit-testing",
     "BACKEND/Kafka",
     "Untitled",
     "BACKEND",
-    "core-java/44.0 Polymorphism.md",
-    "core-java/46.0 Abstraction.md",
-    "springboot/ExceptionHandling/@RestControllerAdvice.md",
-    "springboot/Websocket/Intro.md",
-    "Angular-14/Sources.md",
-    "springboot/_Spring Boot.md",
-    "springboot/_officialDoc.md",
-    "springboot/SPEL/Official Doc.md",
     "springboot/SPEL",
-    "springboot/webflux/Streaming data with webflux.md",
-    "core-java/1. Intro.md",
-    "core-java/2. History & c vs c++ vs java.md",
-    "core-java/52 throw and throws.md",
-    "core-java/Interview/Java Interview Questions and Answers.pdf",
-    "core-java/Interview/java interview question.pdf",
-    "core-java/Interview/most common java questions.md",
-    "core-java/Interview/Collection Questions.md",
-    "core-java/69.1 collection.md",
-    "core-java/63.0 Collection Framework.md",
-    "java/Interview/Others.md",
-    "core-java/25. Wrapper Classes.md",
     "core-java/images/Pasted image 20240512200952.png",
     "core-java/images/Pasted image 20240512200623.png",
     "core-java/images/Pasted image 20240512200456.png",
@@ -238,10 +256,6 @@
     "core-java/images/Pasted image 20240512193504.png",
     "core-java/images/Pasted image 20240512193342.png",
     "core-java/images/Pasted image 20240512185508.png",
-    "core-java/36.0 String Handling.md",
-    "core-java/61.0 Buffer Streams.md",
-    "core-java/60.0 io Streams.md",
-    "core-java/7.0 Object Class Methods.md",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
