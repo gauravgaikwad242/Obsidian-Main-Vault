@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "springboot/Interview/Java Techie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50355911254883
+    "width": 233.50355911254883,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Streams/Operators/min-max-streams.md",
+                "file": "springboot/Interview/Java Techie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Streams/Operators/min-max-streams.md",
+                "file": "springboot/Interview/Java Techie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Streams/Operators/min-max-streams.md"
+                "file": "springboot/Interview/Java Techie.md"
               }
             }
           },
@@ -208,8 +208,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e1aa704624f0e0",
+  "active": "1ee3f1d6ba151053",
   "lastOpenFiles": [
+    "java/Streams/Operators/min-max-streams.md",
     "java/Streams/Operators/groupingby-partitionby-streams.md",
     "java/Streams/Operators/findfirst-findany-streams.md",
     "java/Streams/Operators/distinct-streams.md",
@@ -235,7 +236,6 @@
     "core-java/24.0 Type casting.md",
     "core-java/23.0.md",
     "core-java/22.0 static block.md",
-    "core-java/21.0 Static Keyword.md",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
     "BACKEND/Next_Cloud",
