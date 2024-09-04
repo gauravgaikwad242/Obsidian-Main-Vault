@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
+                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
+                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
+                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md"
+                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md"
               }
             }
           },
@@ -191,9 +191,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f446fc566bf18a0e",
+  "active": "52d0d93cd202bc02",
   "lastOpenFiles": [
+    "BACKEND/Jakarta Servlet/Untitled 3.md",
+    "BACKEND/Jakarta Servlet/Untitled 1.md",
+    "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+    "BACKEND/Jakarta Servlet/13 @WebServlet.md",
+    "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
+    "core-java/images/Pasted image 20240904153905.png",
+    "core-java/images/Pasted image 20240904152941.png",
+    "BACKEND/Jakarta Servlet/Untitled 2.md",
+    "BACKEND/Jakarta Servlet/11 More about web.xml file.md",
+    "BACKEND/Jakarta Servlet/10 Servlet and Tomcat Compatibility.md",
     "BACKEND/Jakarta Servlet/0.0 Index.md",
+    "BACKEND/Jakarta Servlet/9.0 J2EE vs JavaEE vs Jakarta EE.md",
+    "BACKEND/Jakarta Servlet/8.0 First Jakarta Servlet class.md",
+    "BACKEND/Jakarta Servlet/7.0 Development Env 2.md",
+    "BACKEND/Jakarta Servlet/6.0 Development Env Setup.md",
+    "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
+    "core-java/images/Pasted image 20240904122617.png",
     "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
     "BACKEND/Jakarta Servlet/3.0 HTTP - Request and Response.md",
     "BACKEND/Jakarta Servlet/2.0 Web Dynamics Intro.md",
@@ -210,19 +226,6 @@
     "java/Streams/Operators/collect-streams.md",
     "java/Streams/Operators/boxed-streams.md",
     "core-java/47.1 Ambiguity In Interface.md",
-    "core-java/44.0 Polymorphism.md",
-    "core-java/43.3 super & super().md",
-    "core-java/43.2 Multiple Inheritance.md",
-    "core-java/43.1 Multi-level & hierarchical Inheritance.md",
-    "core-java/43.0 Single Inheritance.md",
-    "core-java/42.0 Types of Inheritance.md",
-    "core-java/32.0 this Keywork.md",
-    "core-java/32.0 Scanner Class.md",
-    "core-java/31.1 Jump statements.md",
-    "core-java/31.0 for each loop.md",
-    "core-java/30.0 Understanding for loop.md",
-    "core-java/29.0 Iteration Statement.md",
-    "core-java/28.0 switch case.md",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
     "BACKEND/Next_Cloud",
@@ -236,9 +239,6 @@
     "core-java/images/Pasted image 20240512200456.png",
     "core-java/images/Pasted image 20240512194849.png",
     "core-java/images/Pasted image 20240512194758.png",
-    "core-java/images/Pasted image 20240512194045.png",
-    "core-java/images/Pasted image 20240512193611.png",
-    "core-java/images/Pasted image 20240512193504.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

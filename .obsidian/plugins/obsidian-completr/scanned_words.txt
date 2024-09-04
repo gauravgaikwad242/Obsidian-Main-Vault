@@ -2265,6 +2265,7 @@ FileWriter
 From
 Framework
 FEFF
+Flow
 elements
 enum
 else
@@ -4615,6 +4616,12 @@ iRpi
 interfacae
 intern
 ilovepdf
+interacts
+itself
+involving
+involve
+initial
+involved
 java
 javascript
 jc
@@ -5739,6 +5746,7 @@ jaaa
 jsIv
 javatechie
 jyL
+jsp
 to
 than
 tools
@@ -6866,6 +6874,7 @@ thenn
 treeMap
 treemap
 termination
+technology
 code
 class
 constants
@@ -8168,6 +8177,9 @@ concurrent
 concurrenthashmap
 collectors
 collaborative
+central
+codes
+communication
 we
 when
 want
@@ -9270,6 +9282,7 @@ wuc
 wmM
 wnPo
 wants
+webserver
 need
 necessary
 never
@@ -11498,6 +11511,7 @@ EfRt
 EsBC
 Ewo
 Elements
+EBA
 use
 universal
 used
@@ -14923,6 +14937,7 @@ pillar
 poly
 prove
 points
+preparing
 less
 lower
 letter
@@ -16037,6 +16052,9 @@ ldd
 logo
 literal
 lQN
+listens
+listening
+leveraging
 syntax
 set
 security
@@ -17320,6 +17338,10 @@ sDgSb
 sXf
 stock
 sends
+serving
+serve
+servlets
+specifically
 rules
 restrictions
 returning
@@ -18520,6 +18542,9 @@ reuse
 rqSs
 rcS
 req
+routes
+relevant
+rendering
 follow
 for
 from
@@ -19661,6 +19686,9 @@ fffO
 fMj
 fmFF
 fISO
+forwards
+front
+further
 get
 gap
 general
@@ -21878,6 +21906,10 @@ SBs
 SWl
 Synchronization
 Shake
+Server
+Servlet
+Since
+Summary
 Developement
 Data
 DataSource
@@ -22977,6 +23009,8 @@ DNNN
 DIg
 Dci
 Declaring
+DispatcherServlet
+Determining
 Life
 Logic
 Let
@@ -25151,6 +25185,8 @@ CAPTURING
 Capacity
 Collections
 ConcurrentHashMap
+Container
+Components
 devops
 default
 data
@@ -26366,6 +26402,8 @@ drSSSii
 dWPj
 datatime
 docs
+doent
+deployed
 make
 more
 method
@@ -27567,6 +27605,8 @@ mom
 mandatorily
 modifiable
 modcount
+manages
+mapped
 ACCESS
 Abstraction
 Angular
@@ -28619,6 +28659,7 @@ Abb
 Allowed
 Available
 Arial
+Apache
 MODIFIERS
 My
 Material
@@ -29692,6 +29733,7 @@ McB
 Maintained
 Metaspace
 MCJ
+Mapping
 accessModifiers
 access
 around
@@ -30852,6 +30894,7 @@ aee
 aAm
 aquiring
 already
+appropriate
 NOTE
 Name
 New
@@ -33095,6 +33138,8 @@ hashTable
 hashmap
 hhk
 hinting
+handles
+hands
 keyword
 keywork
 kafka
@@ -34127,6 +34172,7 @@ kmmmff
 kccS
 kkkA
 kqm
+kind
 OOPS
 OBJECT
 Object
@@ -36234,6 +36280,8 @@ PNx
 PriorityQueue
 Permanent
 PermGen
+Postman
+Processing
 Java
 JPA
 JCA
@@ -38380,6 +38428,8 @@ IKK
 Ivx
 InputStream
 Insertion
+IIS
+Involved
 be
 byte
 boolean
@@ -41714,6 +41764,8 @@ RJY
 Reader
 Real
 Repeated
+Receives
+Routing
 value
 void
 vanilla
@@ -49353,6 +49405,7 @@ Ubz
 Uxl
 UQj
 Updates
+Undertow
 With
 When
 Works
@@ -50395,6 +50448,7 @@ WHvU
 Writer
 Which
 WEBSOCKET
+Within
 Generated
 Go
 Gv
@@ -51521,6 +51575,9 @@ Gli
 GGGy
 GUIDELINES
 Generation
+GlassFish
+GET
+Generating
 zf
 zq
 zt
