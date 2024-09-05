@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/14 XML vs Annotations.md"
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md"
               }
             }
           },
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,19 +192,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d0d93cd202bc02",
+  "active": "f446fc566bf18a0e",
   "lastOpenFiles": [
-    "BACKEND/Jakarta Servlet/Untitled 3.md",
+    "BACKEND/Jakarta Servlet/Untitled 2.md",
     "BACKEND/Jakarta Servlet/Untitled 1.md",
-    "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+    "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
+    "BACKEND/Jakarta Servlet/16 step 2 - Thread.md",
+    "BACKEND/Jakarta Servlet/15 Create Own Web Container - step 1 Server Socker & Socket.md",
     "BACKEND/Jakarta Servlet/13 @WebServlet.md",
+    "BACKEND/Jakarta Servlet/0.0 Index.md",
+    "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+    "BACKEND/Jakarta Servlet/Untitled 3.md",
     "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
     "core-java/images/Pasted image 20240904153905.png",
     "core-java/images/Pasted image 20240904152941.png",
-    "BACKEND/Jakarta Servlet/Untitled 2.md",
     "BACKEND/Jakarta Servlet/11 More about web.xml file.md",
     "BACKEND/Jakarta Servlet/10 Servlet and Tomcat Compatibility.md",
-    "BACKEND/Jakarta Servlet/0.0 Index.md",
     "BACKEND/Jakarta Servlet/9.0 J2EE vs JavaEE vs Jakarta EE.md",
     "BACKEND/Jakarta Servlet/8.0 First Jakarta Servlet class.md",
     "BACKEND/Jakarta Servlet/7.0 Development Env 2.md",
@@ -223,9 +227,6 @@
     "java/Streams/Operators/groupingby-partitionby-streams.md",
     "java/Streams/Operators/findfirst-findany-streams.md",
     "java/Streams/Operators/distinct-streams.md",
-    "java/Streams/Operators/collect-streams.md",
-    "java/Streams/Operators/boxed-streams.md",
-    "core-java/47.1 Ambiguity In Interface.md",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
     "BACKEND/Next_Cloud",
