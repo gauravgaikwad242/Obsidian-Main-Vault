@@ -1,3 +1,4 @@
+**Definition**: A Servlet is a Java class that handles HTTP requests and responses in Java EE (Jakarta EE). It is part of the **Java Servlet API**, which is used to create dynamic web applications.
 
 1. we can just say that servlet is java class which extends HttpServlet class
 ![[Pasted image 20240904152941.png]]

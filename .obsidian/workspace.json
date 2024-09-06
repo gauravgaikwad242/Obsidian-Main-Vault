@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Streams/Operators/min-max-streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f446fc566bf18a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
+                "file": "BACKEND/JSF/Java server faces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50355911254883
+    "width": 233.50355911254883,
+    "collapsed": true
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
+                "file": "BACKEND/JSF/Java server faces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
+                "file": "BACKEND/JSF/Java server faces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md"
+                "file": "BACKEND/JSF/Java server faces.md"
               }
             }
           },
@@ -192,41 +181,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f446fc566bf18a0e",
+  "active": "b3e1aa704624f0e0",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240906105239.png",
+    "core-java/images/Pasted image 20240906105228.png",
+    "core-java/images/Pasted image 20240906105214.png",
+    "core-java/images/Pasted image 20240906105025.png",
+    "core-java/images/Pasted image 20240906104804.png",
+    "core-java/images/Pasted image 20240906104755.png",
+    "core-java/images/Pasted image 20240906104738.png",
+    "core-java/images/Pasted image 20240906104708.png",
+    "core-java/images/Pasted image 20240906104641.png",
+    "core-java/images/Pasted image 20240906104614.png",
+    "core-java/images/Pasted image 20240906104554.png",
+    "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
+    "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
+    "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
+    "Links.md",
+    "java/Streams/Operators/min-max-streams.md",
+    "[Getting.md",
+    "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
     "BACKEND/Jakarta Servlet/Untitled 2.md",
     "BACKEND/Jakarta Servlet/Untitled 1.md",
-    "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
     "BACKEND/Jakarta Servlet/16 step 2 - Thread.md",
     "BACKEND/Jakarta Servlet/15 Create Own Web Container - step 1 Server Socker & Socket.md",
     "BACKEND/Jakarta Servlet/13 @WebServlet.md",
     "BACKEND/Jakarta Servlet/0.0 Index.md",
     "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
     "BACKEND/Jakarta Servlet/Untitled 3.md",
-    "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
-    "core-java/images/Pasted image 20240904153905.png",
-    "core-java/images/Pasted image 20240904152941.png",
     "BACKEND/Jakarta Servlet/11 More about web.xml file.md",
     "BACKEND/Jakarta Servlet/10 Servlet and Tomcat Compatibility.md",
     "BACKEND/Jakarta Servlet/9.0 J2EE vs JavaEE vs Jakarta EE.md",
     "BACKEND/Jakarta Servlet/8.0 First Jakarta Servlet class.md",
     "BACKEND/Jakarta Servlet/7.0 Development Env 2.md",
     "BACKEND/Jakarta Servlet/6.0 Development Env Setup.md",
-    "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
-    "core-java/images/Pasted image 20240904122617.png",
-    "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
     "BACKEND/Jakarta Servlet/3.0 HTTP - Request and Response.md",
     "BACKEND/Jakarta Servlet/2.0 Web Dynamics Intro.md",
-    "core-java/images/Pasted image 20240904114025.png",
     "BACKEND/JSF/Java server faces.md",
     "BACKEND/Jakarta Servlet",
-    "core-java/images/Pasted image 20240904100803.png",
     "springboot/Interview/Java Techie.md",
     "BACKEND/JSF",
-    "java/Streams/Operators/min-max-streams.md",
-    "java/Streams/Operators/groupingby-partitionby-streams.md",
-    "java/Streams/Operators/findfirst-findany-streams.md",
-    "java/Streams/Operators/distinct-streams.md",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
     "BACKEND/Next_Cloud",
@@ -235,11 +229,6 @@
     "BACKEND/unit-testing",
     "BACKEND/Kafka",
     "Untitled",
-    "core-java/images/Pasted image 20240512200952.png",
-    "core-java/images/Pasted image 20240512200623.png",
-    "core-java/images/Pasted image 20240512200456.png",
-    "core-java/images/Pasted image 20240512194849.png",
-    "core-java/images/Pasted image 20240512194758.png",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
