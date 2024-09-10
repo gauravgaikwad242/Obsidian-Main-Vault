@@ -24082,6 +24082,7 @@ LPV
 LiNy
 LinkedHashSet
 Live
+Lifecycle
 Cycle
 CONCEPTS
 CLASS
@@ -27614,6 +27615,7 @@ modcount
 manages
 mapped
 mean
+managed
 ACCESS
 Abstraction
 Angular
@@ -29741,6 +29743,7 @@ Maintained
 Metaspace
 MCJ
 Mapping
+Managed
 accessModifiers
 access
 around
@@ -37392,6 +37395,7 @@ Jzz
 JJJbbb
 JFq
 JMAy
+JSF
 Inheritance
 It
 In
@@ -40634,6 +40638,7 @@ BufferedFileReader
 BufferedFileWriter
 BufferedReader
 BufferedWriter
+Backing
 Return
 Reactor
 Remember
