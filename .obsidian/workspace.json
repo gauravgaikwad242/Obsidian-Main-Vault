@@ -8,83 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ee3f1d6ba151053",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/Interview/Java Techie.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c4600d98387d25b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c69ba7ff04ae0ded",
+            "id": "d157b4f7a99d3753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Interview/Others.md",
+                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f1735549d37d63d",
+            "id": "b3e1aa704624f0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "file": "java/Streams/Operators/min-max-streams.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6340551b364ef09f",
+            "id": "f446fc566bf18a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/1. Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f26d9d2776d8f2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/_Spring Boot.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/_Spring Boot.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/_Spring Boot.md",
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/_Spring Boot.md"
+                "file": "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md"
               }
             }
           },
@@ -219,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,54 +192,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26d9d2776d8f2fc",
+  "active": "f446fc566bf18a0e",
   "lastOpenFiles": [
-    "springboot/_officialDoc.md",
-    "springboot/SPEL/Official Doc.md",
-    "springboot/ExceptionHandling/@RestControllerAdvice.md",
-    "springboot/SPEL",
-    "springboot/webflux/Streaming data with webflux.md",
+    "BACKEND/Jakarta Servlet/Untitled 2.md",
+    "BACKEND/Jakarta Servlet/Untitled 1.md",
+    "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
+    "BACKEND/Jakarta Servlet/16 step 2 - Thread.md",
+    "BACKEND/Jakarta Servlet/15 Create Own Web Container - step 1 Server Socker & Socket.md",
+    "BACKEND/Jakarta Servlet/13 @WebServlet.md",
+    "BACKEND/Jakarta Servlet/0.0 Index.md",
+    "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
+    "BACKEND/Jakarta Servlet/Untitled 3.md",
+    "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
+    "core-java/images/Pasted image 20240904153905.png",
+    "core-java/images/Pasted image 20240904152941.png",
+    "BACKEND/Jakarta Servlet/11 More about web.xml file.md",
+    "BACKEND/Jakarta Servlet/10 Servlet and Tomcat Compatibility.md",
+    "BACKEND/Jakarta Servlet/9.0 J2EE vs JavaEE vs Jakarta EE.md",
+    "BACKEND/Jakarta Servlet/8.0 First Jakarta Servlet class.md",
+    "BACKEND/Jakarta Servlet/7.0 Development Env 2.md",
+    "BACKEND/Jakarta Servlet/6.0 Development Env Setup.md",
+    "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
+    "core-java/images/Pasted image 20240904122617.png",
+    "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
+    "BACKEND/Jakarta Servlet/3.0 HTTP - Request and Response.md",
+    "BACKEND/Jakarta Servlet/2.0 Web Dynamics Intro.md",
+    "core-java/images/Pasted image 20240904114025.png",
+    "BACKEND/JSF/Java server faces.md",
+    "BACKEND/Jakarta Servlet",
+    "core-java/images/Pasted image 20240904100803.png",
     "springboot/Interview/Java Techie.md",
-    "core-java/1. Intro.md",
-    "core-java/2. History & c vs c++ vs java.md",
-    "java/Interview/Core Java Interview Questions & Answers.md",
-    "core-java/52 throw and throws.md",
-    "core-java/Interview/Java Interview Questions and Answers.pdf",
-    "core-java/Interview/java interview question.pdf",
-    "core-java/Interview/most common java questions.md",
-    "core-java/Interview/Collection Questions.md",
-    "core-java/69.1 collection.md",
-    "core-java/63.0 Collection Framework.md",
-    "java/Interview/Others.md",
-    "core-java/25. Wrapper Classes.md",
+    "BACKEND/JSF",
+    "java/Streams/Operators/min-max-streams.md",
+    "java/Streams/Operators/groupingby-partitionby-streams.md",
+    "java/Streams/Operators/findfirst-findany-streams.md",
+    "java/Streams/Operators/distinct-streams.md",
+    "core-java/15.1- constructor.pdf",
+    "core-java/11.01 Datatypes.pdf",
+    "BACKEND/Next_Cloud",
+    "BACKEND/Microservice",
+    "BACKEND/Multi-threading",
+    "BACKEND/unit-testing",
+    "BACKEND/Kafka",
+    "Untitled",
     "core-java/images/Pasted image 20240512200952.png",
     "core-java/images/Pasted image 20240512200623.png",
     "core-java/images/Pasted image 20240512200456.png",
     "core-java/images/Pasted image 20240512194849.png",
     "core-java/images/Pasted image 20240512194758.png",
-    "core-java/images/Pasted image 20240512194045.png",
-    "core-java/images/Pasted image 20240512193611.png",
-    "core-java/images/Pasted image 20240512193504.png",
-    "core-java/images/Pasted image 20240512193342.png",
-    "core-java/images/Pasted image 20240512185508.png",
-    "core-java/36.0 String Handling.md",
-    "core-java/61.0 Buffer Streams.md",
-    "core-java/60.0 io Streams.md",
-    "core-java/7.0 Object Class Methods.md",
-    "core-java/44.0 Polymorphism.md",
-    "core-java/46.0 Abstraction.md",
-    "core-java/45 Method Overriding.md",
-    "core-java/42.0 Inheritance.md",
-    "core-java/41.1 Encapsulation.md",
-    "java/Interview",
-    "core-java/75.2 New Date Time API.md",
-    "core-java/75.3 Instance Block.md",
-    "core-java/io-streams/Data & Object Streams.pdf",
-    "core-java/io-streams/Buffered Streams.pdf",
-    "core-java/io-streams/Passport Appointment Receipt.pdf",
-    "core-java/io-streams/2-Feb-2024.pdf",
-    "springboot/ExceptionHandling",
-    "springboot/Interview",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

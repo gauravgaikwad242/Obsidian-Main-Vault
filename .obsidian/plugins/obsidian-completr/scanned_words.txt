@@ -1145,6 +1145,7 @@ TxM
 TUz
 TDGDGFG
 TreeSet
+Tutorial
 Fundamental
 For
 First
@@ -2264,6 +2265,7 @@ FileWriter
 From
 Framework
 FEFF
+Flow
 elements
 enum
 else
@@ -4614,6 +4616,12 @@ iRpi
 interfacae
 intern
 ilovepdf
+interacts
+itself
+involving
+involve
+initial
+involved
 java
 javascript
 jc
@@ -5738,6 +5746,7 @@ jaaa
 jsIv
 javatechie
 jyL
+jsp
 to
 than
 tools
@@ -6864,6 +6873,8 @@ tagging
 thenn
 treeMap
 treemap
+termination
+technology
 code
 class
 constants
@@ -8165,6 +8176,10 @@ comparator
 concurrent
 concurrenthashmap
 collectors
+collaborative
+central
+codes
+communication
 we
 when
 want
@@ -9266,6 +9281,8 @@ wssSPP
 wuc
 wmM
 wnPo
+wants
+webserver
 need
 necessary
 never
@@ -11494,6 +11511,7 @@ EfRt
 EsBC
 Ewo
 Elements
+EBA
 use
 universal
 used
@@ -12597,6 +12615,7 @@ umSV
 uid
 unmodifiable
 uqM
+urls
 our
 of
 or
@@ -14919,6 +14938,7 @@ pillar
 poly
 prove
 points
+preparing
 less
 lower
 letter
@@ -16033,6 +16053,9 @@ ldd
 logo
 literal
 lQN
+listens
+listening
+leveraging
 syntax
 set
 security
@@ -17314,6 +17337,12 @@ sometimes
 sort
 sDgSb
 sXf
+stock
+sends
+serving
+serve
+servlets
+specifically
 rules
 restrictions
 returning
@@ -18513,6 +18542,10 @@ runnable
 reuse
 rqSs
 rcS
+req
+routes
+relevant
+rendering
 follow
 for
 from
@@ -19654,6 +19687,9 @@ fffO
 fMj
 fmFF
 fISO
+forwards
+front
+further
 get
 gap
 general
@@ -20741,6 +20777,7 @@ globally
 gß
 gfa
 gUW
+gaming
 SDLC
 Software
 Super
@@ -21869,6 +21906,12 @@ Szz
 SBs
 SWl
 Synchronization
+Shake
+Server
+Servlet
+Since
+Summary
+Step
 Developement
 Data
 DataSource
@@ -22968,6 +23011,8 @@ DNNN
 DIg
 Dci
 Declaring
+DispatcherServlet
+Determining
 Life
 Logic
 Let
@@ -24032,6 +24077,7 @@ LInV
 LPV
 LiNy
 LinkedHashSet
+Live
 Cycle
 CONCEPTS
 CLASS
@@ -25141,6 +25187,8 @@ CAPTURING
 Capacity
 Collections
 ConcurrentHashMap
+Container
+Components
 devops
 default
 data
@@ -26355,6 +26403,9 @@ demon
 drSSSii
 dWPj
 datatime
+docs
+doent
+deployed
 make
 more
 method
@@ -27556,6 +27607,8 @@ mom
 mandatorily
 modifiable
 modcount
+manages
+mapped
 ACCESS
 Abstraction
 Angular
@@ -28608,6 +28661,7 @@ Abb
 Allowed
 Available
 Arial
+Apache
 MODIFIERS
 My
 Material
@@ -29681,6 +29735,7 @@ McB
 Maintained
 Metaspace
 MCJ
+Mapping
 accessModifiers
 access
 around
@@ -30841,6 +30896,8 @@ aee
 aAm
 aquiring
 already
+appropriate
+affect
 NOTE
 Name
 New
@@ -33083,6 +33140,9 @@ happens
 hashTable
 hashmap
 hhk
+hinting
+handles
+hands
 keyword
 keywork
 kafka
@@ -34115,6 +34175,7 @@ kmmmff
 kccS
 kkkA
 kqm
+kind
 OOPS
 OBJECT
 Object
@@ -36222,6 +36283,8 @@ PNx
 PriorityQueue
 Permanent
 PermGen
+Postman
+Processing
 Java
 JPA
 JCA
@@ -38368,6 +38431,8 @@ IKK
 Ivx
 InputStream
 Insertion
+IIS
+Involved
 be
 byte
 boolean
@@ -41700,6 +41765,11 @@ Receipt
 RPA
 RJY
 Reader
+Real
+Repeated
+Receives
+Routing
+Reading
 value
 void
 vanilla
@@ -48274,6 +48344,7 @@ YQQQXX
 YXXXii
 Ycc
 YPPP
+YouTube
 Usage
 URLs
 URL
@@ -49337,6 +49408,8 @@ UDR
 Ubz
 Uxl
 UQj
+Updates
+Undertow
 With
 When
 Works
@@ -50378,6 +50451,8 @@ WebSocket
 WHvU
 Writer
 Which
+WEBSOCKET
+Within
 Generated
 Go
 Gv
@@ -51504,6 +51579,9 @@ Gli
 GGGy
 GUIDELINES
 Generation
+GlassFish
+GET
+Generating
 zf
 zq
 zt
