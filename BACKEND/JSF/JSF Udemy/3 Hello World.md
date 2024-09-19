@@ -1,0 +1,16 @@
+- install eclipse in EE edition 
+- new project 
+	- dynamic project 
+		- configure runtime with web server (tomcat)
+		- configuration -> modify (click button) -> add JSF 
+		- ![[Pasted image 20240919163256.png]]
+- next 
+- remove current java/src... folder 
+- add src folder 
+- ![[Pasted image 20240919163408.png]]
+- next
+- rename content directory to webContent and check checkbox for web.xml
+- next 
+- disable library 
+	- ![[Pasted image 20240919163607.png]]
+- 

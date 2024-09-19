@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/JSF/Java server faces.md",
+                "file": "BACKEND/JSF/JSF Udemy/3 Hello World.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/JSF/Java server faces.md",
+                "file": "BACKEND/JSF/JSF Udemy/3 Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/JSF/Java server faces.md",
+                "file": "BACKEND/JSF/JSF Udemy/3 Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/JSF/Java server faces.md"
+                "file": "BACKEND/JSF/JSF Udemy/3 Hello World.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +181,16 @@
   },
   "active": "b3e1aa704624f0e0",
   "lastOpenFiles": [
+    "core-java/images/Pasted image 20240919163607.png",
+    "core-java/images/Pasted image 20240919163408.png",
+    "core-java/images/Pasted image 20240919163256.png",
+    "BACKEND/JSF/JSF Udemy/2.2 JSF - Behind Scenes.md",
+    "core-java/images/WhatsApp Image 2024-09-19 at 14.44.11_2db65c22.jpg",
+    "BACKEND/JSF/JSF Udemy/2.1 Dev Env.md",
+    "BACKEND/JSF/JSF Udemy/1 INTRO.md",
+    "BACKEND/JSF/JSF Udemy/3 Hello World.md",
+    "BACKEND/JSF/Java server faces.md",
+    "BACKEND/JSF/JSF Udemy",
     "core-java/images/Pasted image 20240906105239.png",
     "core-java/images/Pasted image 20240906105228.png",
     "core-java/images/Pasted image 20240906105214.png",
@@ -189,10 +198,6 @@
     "core-java/images/Pasted image 20240906104804.png",
     "core-java/images/Pasted image 20240906104755.png",
     "core-java/images/Pasted image 20240906104738.png",
-    "core-java/images/Pasted image 20240906104708.png",
-    "core-java/images/Pasted image 20240906104641.png",
-    "core-java/images/Pasted image 20240906104614.png",
-    "core-java/images/Pasted image 20240906104554.png",
     "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
     "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
     "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
@@ -213,12 +218,7 @@
     "BACKEND/Jakarta Servlet/9.0 J2EE vs JavaEE vs Jakarta EE.md",
     "BACKEND/Jakarta Servlet/8.0 First Jakarta Servlet class.md",
     "BACKEND/Jakarta Servlet/7.0 Development Env 2.md",
-    "BACKEND/Jakarta Servlet/6.0 Development Env Setup.md",
-    "BACKEND/Jakarta Servlet/3.0 HTTP - Request and Response.md",
-    "BACKEND/Jakarta Servlet/2.0 Web Dynamics Intro.md",
-    "BACKEND/JSF/Java server faces.md",
     "BACKEND/Jakarta Servlet",
-    "springboot/Interview/Java Techie.md",
     "BACKEND/JSF",
     "core-java/15.1- constructor.pdf",
     "core-java/11.01 Datatypes.pdf",
@@ -227,7 +227,6 @@
     "BACKEND/Multi-threading",
     "BACKEND/unit-testing",
     "BACKEND/Kafka",
-    "Untitled",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

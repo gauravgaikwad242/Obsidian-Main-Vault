@@ -1146,6 +1146,7 @@ TUz
 TDGDGFG
 TreeSet
 Tutorial
+Third
 Fundamental
 For
 First
@@ -2266,6 +2267,7 @@ From
 Framework
 FEFF
 Flow
+Faces
 elements
 enum
 else
@@ -4622,6 +4624,8 @@ involving
 involve
 initial
 involved
+integration
+install
 java
 javascript
 jc
@@ -5747,6 +5751,8 @@ jsIv
 javatechie
 jyL
 jsp
+javaEE
+jboss
 to
 than
 tools
@@ -8180,6 +8186,7 @@ collaborative
 central
 codes
 communication
+click
 we
 when
 want
@@ -11512,6 +11519,7 @@ EsBC
 Ewo
 Elements
 EBA
+Eclipse
 use
 universal
 used
@@ -13775,6 +13783,7 @@ optimize
 openPopup
 oops
 obje
+openfaces
 project
 public
 private
@@ -14939,6 +14948,7 @@ poly
 prove
 points
 preparing
+primefaces
 less
 lower
 letter
@@ -16056,6 +16066,7 @@ lQN
 listens
 listening
 leveraging
+lot
 syntax
 set
 security
@@ -17344,6 +17355,7 @@ serve
 servlets
 specifically
 served
+shops
 rules
 restrictions
 returning
@@ -18550,6 +18562,9 @@ rendering
 refreshed
 regular
 reasons
+render
+renders
+rischfaces
 follow
 for
 from
@@ -19694,6 +19709,7 @@ fISO
 forwards
 front
 further
+follows
 get
 gap
 general
@@ -21916,6 +21932,7 @@ Servlet
 Since
 Summary
 Step
+Source
 Developement
 Data
 DataSource
@@ -23017,6 +23034,7 @@ Dci
 Declaring
 DispatcherServlet
 Determining
+Dev
 Life
 Logic
 Let
@@ -25194,6 +25212,7 @@ Collections
 ConcurrentHashMap
 Container
 Components
+Connecting
 devops
 default
 data
@@ -26411,6 +26430,9 @@ datatime
 docs
 doent
 deployed
+displaying
+deploy
+directory
 make
 more
 method
@@ -27616,6 +27638,7 @@ manages
 mapped
 mean
 managed
+manage
 ACCESS
 Abstraction
 Angular
@@ -30906,6 +30929,7 @@ aquiring
 already
 appropriate
 affect
+apps
 NOTE
 Name
 New
@@ -35251,6 +35275,7 @@ Oik
 OUO
 OutputStream
 OKm
+OpenFaces
 Powers
 Polymorphism
 Postgres
@@ -36293,6 +36318,8 @@ Permanent
 PermGen
 Postman
 Processing
+Party
+PrimeFaces
 Java
 JPA
 JCA
@@ -37396,6 +37423,7 @@ JJJbbb
 JFq
 JMAy
 JSF
+JavaServer
 Inheritance
 It
 In
@@ -38443,6 +38471,8 @@ Insertion
 IIS
 Involved
 IOC
+Input
+IDE
 be
 byte
 boolean
@@ -39608,6 +39638,8 @@ bLg
 bucket
 balanced
 buckets
+built
+browse
 Business
 By
 Boot
@@ -40639,6 +40671,7 @@ BufferedFileWriter
 BufferedReader
 BufferedWriter
 Backing
+Benifits
 Return
 Reactor
 Remember
@@ -41781,6 +41814,7 @@ Repeated
 Receives
 Routing
 Reading
+RichFaces
 value
 void
 vanilla
@@ -45059,6 +45093,7 @@ Hashcode
 Hashmap
 HashMap
 HttpServlet
+Help
 you
 your
 yQsf
@@ -47283,6 +47318,7 @@ VRRjllD
 Vie
 Vkh
 Vdu
+View
 You
 Yes
 Yv
