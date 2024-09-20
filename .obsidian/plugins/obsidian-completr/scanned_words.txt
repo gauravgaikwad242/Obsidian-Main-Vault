@@ -3440,6 +3440,7 @@ eUdy
 eTS
 eclipse
 edition
+expose
 in
 interface
 interview
@@ -4628,6 +4629,7 @@ initial
 involved
 integration
 install
+inputText
 java
 javascript
 jc
@@ -5755,6 +5757,8 @@ jyL
 jsp
 javaEE
 jboss
+jsf
+javax
 to
 than
 tools
@@ -8189,6 +8193,7 @@ central
 codes
 communication
 click
+confuse
 we
 when
 want
@@ -11523,6 +11528,8 @@ Ewo
 Elements
 EBA
 Eclipse
+EJB
+Expression
 use
 universal
 used
@@ -17359,6 +17366,8 @@ servlets
 specifically
 served
 shops
+student
+setFirstName
 rules
 restrictions
 returning
@@ -19714,6 +19723,8 @@ forwards
 front
 further
 follows
+faces
+firstName
 get
 gap
 general
@@ -20802,6 +20813,7 @@ gß
 gfa
 gUW
 gaming
+getFirstName
 SDLC
 Software
 Super
@@ -24105,6 +24117,7 @@ LiNy
 LinkedHashSet
 Live
 Lifecycle
+Language
 Cycle
 CONCEPTS
 CLASS
@@ -29771,6 +29784,7 @@ Metaspace
 MCJ
 Mapping
 Managed
+ManagedBean
 accessModifiers
 access
 around
@@ -30934,6 +30948,7 @@ already
 appropriate
 affect
 apps
+arg
 NOTE
 Name
 New
@@ -32005,6 +32020,7 @@ NIe
 NirmalaUI
 Ngqq
 Null
+Namespaces
 has
 have
 hiding
@@ -40676,6 +40692,7 @@ BufferedReader
 BufferedWriter
 Backing
 Benifits
+Beans
 Return
 Reactor
 Remember
@@ -41819,6 +41836,8 @@ Receives
 Routing
 Reading
 RichFaces
+Requirement
+REF
 value
 void
 vanilla
@@ -54837,6 +54856,7 @@ xKN
 xlF
 xiiVU
 xRHmq
+xhtml
 ZL
 ZH
 Zx

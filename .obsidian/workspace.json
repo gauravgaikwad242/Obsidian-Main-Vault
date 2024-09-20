@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +182,13 @@
   },
   "active": "b3e1aa704624f0e0",
   "lastOpenFiles": [
+    "BACKEND/JSF/JSF Udemy/5 Managed Beans.md",
+    "BACKEND/JSF/JSF Udemy/6 Dropdown List.md",
+    "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf 1.jpg",
+    "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf.jpg",
+    "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
     "core-java/images/WhatsApp Image 2024-09-20 at 08.22.45_9caa2175.jpg",
     "core-java/images/WhatsApp Image 2024-09-20 at 08.11.25_d6ccb09b.jpg",
-    "BACKEND/JSF/JSF Udemy/Untitled 2.md",
-    "BACKEND/JSF/JSF Udemy/Untitled 1.md",
-    "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
     "BACKEND/JSF/JSF Udemy/3 Hello World.md",
     "core-java/images/Pasted image 20240919163607.png",
     "core-java/images/Pasted image 20240919163408.png",
@@ -198,9 +201,6 @@
     "BACKEND/JSF/JSF Udemy",
     "core-java/images/Pasted image 20240906105239.png",
     "core-java/images/Pasted image 20240906105228.png",
-    "core-java/images/Pasted image 20240906105214.png",
-    "core-java/images/Pasted image 20240906105025.png",
-    "core-java/images/Pasted image 20240906104804.png",
     "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
     "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
     "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
