@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
+                "file": "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
+                "file": "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
+                "file": "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/JSF/JSF Udemy/4 HTML Forms.md"
+                "file": "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md"
               }
             }
           },
@@ -182,11 +182,18 @@
   },
   "active": "b3e1aa704624f0e0",
   "lastOpenFiles": [
-    "BACKEND/JSF/JSF Udemy/5 Managed Beans.md",
+    "BACKEND/JSF/JSF Udemy/9 Pre-Populating Values.md",
+    "BACKEND/JSF/JSF Udemy/Untitled 3.md",
+    "BACKEND/JSF/JSF Udemy/Untitled 2.md",
+    "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
+    "BACKEND/JSF/JSF Udemy/8 Radio Button& Loop.md",
+    "BACKEND/JSF/JSF Udemy/7 Radio Button.md",
+    "BACKEND/JSF/JSF Udemy/6.2 Dropdown List Dynamic.md",
     "BACKEND/JSF/JSF Udemy/6 Dropdown List.md",
+    "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
+    "BACKEND/JSF/JSF Udemy/5 Managed Beans.md",
     "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf 1.jpg",
     "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf.jpg",
-    "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
     "core-java/images/WhatsApp Image 2024-09-20 at 08.22.45_9caa2175.jpg",
     "core-java/images/WhatsApp Image 2024-09-20 at 08.11.25_d6ccb09b.jpg",
     "BACKEND/JSF/JSF Udemy/3 Hello World.md",
@@ -212,12 +219,6 @@
     "BACKEND/Jakarta Servlet/Untitled 1.md",
     "BACKEND/Jakarta Servlet/16 step 2 - Thread.md",
     "BACKEND/Jakarta Servlet/15 Create Own Web Container - step 1 Server Socker & Socket.md",
-    "BACKEND/Jakarta Servlet/13 @WebServlet.md",
-    "BACKEND/Jakarta Servlet/0.0 Index.md",
-    "BACKEND/Jakarta Servlet/14 XML vs Annotations.md",
-    "BACKEND/Jakarta Servlet/Untitled 3.md",
-    "BACKEND/Jakarta Servlet/11 More about web.xml file.md",
-    "BACKEND/Jakarta Servlet/10 Servlet and Tomcat Compatibility.md",
     "BACKEND/Jakarta Servlet",
     "BACKEND/JSF",
     "core-java/15.1- constructor.pdf",

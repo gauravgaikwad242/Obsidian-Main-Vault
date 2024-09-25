@@ -3441,6 +3441,7 @@ eTS
 eclipse
 edition
 expose
+equivalent
 in
 interface
 interview
@@ -4630,6 +4631,8 @@ involved
 integration
 install
 inputText
+itemValue
+itemLabel
 java
 javascript
 jc
@@ -8194,6 +8197,7 @@ codes
 communication
 click
 confuse
+countryList
 we
 when
 want
@@ -17368,6 +17372,8 @@ served
 shops
 student
 setFirstName
+selectItems
+selectItem
 rules
 restrictions
 returning
@@ -18578,6 +18584,7 @@ render
 renders
 rischfaces
 rename
+represented
 follow
 for
 from
@@ -38493,6 +38500,7 @@ Involved
 IOC
 Input
 IDE
+India
 be
 byte
 boolean
