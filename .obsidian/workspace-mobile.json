@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/BehaviourSubject/PlainSubject.md",
+                "file": "java/Interview/Core Java Interview Questions & Answers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6e48f51cb60409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RXJS/BehaviourSubject/PlainSubject.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RXJS/BehaviourSubject/PlainSubject.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "RXJS/BehaviourSubject/PlainSubject.md"
+            "file": "Untitled.md"
           }
         }
       },
@@ -151,39 +164,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d614c6edceff0f",
+  "active": "0d6e48f51cb60409",
   "lastOpenFiles": [
+    "java/Interview/Core Java Interview Questions & Answers.md",
+    "Untitled.md",
+    "Angular-14/httpclient/status code in response.md",
+    "Angular-14/httpclient/http Interceptors.md",
+    "Angular-14/httpclient/headers injection.md",
+    "Angular-14/form/Template Form.md",
+    "springboot/Websocket/Intro.md",
+    "springboot/webflux/Streaming data with webflux.md",
+    "rabbitmq/Exchanges.md",
+    "java/links/JAVA LINKS.md",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "rabbitmq/commands.md",
+    "springboot/SPEL/Official Doc.md",
+    "Angular-14/form/Custom Validator.md",
+    "core-java/47.0 Interface.md",
+    "core-java/18.0 incr and decr operator.md",
+    "core-java/1. Intro.md",
+    "RXJS/BehaviourSubject/PlainSubject.md",
     "RXJS/BehaviourSubject/BehaviourSubject.md",
     "RXJS/BehaviourSubject/AsyncSubject.md",
     "RXJS/BehaviourSubject/Subject.md",
     "springboot/question/InterviewPrep_SpringBoot (1).pdf",
-    "springboot/SPEL/Official Doc.md",
     "springboot/@RestControllerAdvice.md",
     "springboot/_officialDoc.md",
-    "springboot/webflux/Streaming data with webflux.md",
     "core-java/programms/1st programm.md",
     "core-java/11.01 Datatypes.pdf",
     "core-java/67.0 LinkedList.md",
     "core-java/75.0 Optional class.md",
-    "core-java/73.0 Method Referencing.md",
-    "core-java/3.0 Internal Architecture of JVM.md",
-    "RXJS/BehaviourSubject/ReplaySubject.md",
-    "RXJS/BehaviourSubject/PlainSubject.md",
-    "Project-Reactor/Operators/limitRate.md",
-    "/springboot/_officialDoc.md",
-    "/springboot/SPEL/Official Doc.md",
     "springboot/SPEL",
     "/springboot/SPEL",
-    "Angular-14/Sources.md",
-    "Project-Reactor/Operators/handle.md",
-    "Project-Reactor/Operators/delayElements.md",
-    "Project-Reactor/Operators/defaultIfEmpty.md",
-    "Project-Reactor/creation/Mono.justOrEmpty.md",
-    "core-java/Interview/most common java questions.md",
-    "java/Interview/Core Java Interview Questions & Answers.md",
-    "springboot/Interview/Java Techie.md",
     "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
-    "java/Interview/Others.md",
     "core-java/images/Pasted image 20240512200952.png",
     "core-java/images/Pasted image 20240512200623.png",
     "core-java/images/Pasted image 20240512200456.png",
