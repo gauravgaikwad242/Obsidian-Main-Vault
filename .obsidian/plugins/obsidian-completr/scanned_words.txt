@@ -4633,6 +4633,7 @@ install
 inputText
 itemValue
 itemLabel
+inputtext
 java
 javascript
 jc
@@ -8198,6 +8199,8 @@ communication
 click
 confuse
 countryList
+customizing
+closing
 we
 when
 want
@@ -25237,6 +25240,7 @@ ConcurrentHashMap
 Container
 Components
 Connecting
+Custom
 devops
 default
 data
@@ -27663,6 +27667,7 @@ mapped
 mean
 managed
 manage
+match
 ACCESS
 Abstraction
 Angular
@@ -30956,6 +30961,7 @@ appropriate
 affect
 apps
 arg
+additionally
 NOTE
 Name
 New
@@ -41846,6 +41852,7 @@ Reading
 RichFaces
 Requirement
 REF
+Regex
 value
 void
 vanilla
@@ -43006,12 +43013,15 @@ vscodeextension
 violet
 versioning
 video
-validate
 validation
 vhO
 vvvQQQ
 vfV
 vkj
+validateLength
+validateDouble
+validateLong
+validateRegex
 qoutes
 question
 qIron
@@ -47350,6 +47360,7 @@ Vie
 Vkh
 Vdu
 View
+Validation
 You
 Yes
 Yv
