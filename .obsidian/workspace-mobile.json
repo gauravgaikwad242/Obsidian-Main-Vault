@@ -11,14 +11,12 @@
             "id": "0d6e48f51cb60409",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "RXJS/ZIP-RXJS.md",
-                "mode": "source",
-                "source": false
+                "file": "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java"
               },
               "icon": "lucide-file",
-              "title": "ZIP-RXJS"
+              "title": "Lec01Mono"
             }
           }
         ]
@@ -181,7 +179,14 @@
   },
   "active": "0d6e48f51cb60409",
   "lastOpenFiles": [
+    "Angular-14/routing/path param.md",
+    "Angular-14/routing/query param.md",
+    "DSA/DataStructures/array/delete.md",
     "rabbitmq/commands.md",
+    "springboot/question/spring-interview-questions.pdf",
+    "springboot/question/InterviewPrep_SpringBoot (1).pdf",
+    "springboot/SPEL/Official Doc.md",
+    "RXJS/ZIP-RXJS.md",
     "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
@@ -207,16 +212,9 @@
     "Angular-14/httpclient/status code in response.md",
     "Angular-14/httpclient/http Interceptors.md",
     "Angular-14/httpclient/headers injection.md",
-    "Angular-14/form/Template Form.md",
-    "springboot/Websocket/Intro.md",
-    "springboot/webflux/Streaming data with webflux.md",
-    "rabbitmq/Exchanges.md",
-    "java/links/JAVA LINKS.md",
-    "springboot/question/InterviewPrep_SpringBoot (1).pdf",
     "core-java/11.01 Datatypes.pdf",
     "springboot/SPEL",
     "/springboot/SPEL",
-    "Angular-14/questions/Top-100-Angular-Interview-Questions-PDF.pdf",
     "core-java/images/Pasted image 20240512200952.png",
     "core-java/images/Pasted image 20240512200623.png",
     "core-java/images/Pasted image 20240512200456.png",
