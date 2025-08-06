@@ -3441,6 +3441,7 @@ eTS
 eclipse
 edition
 expose
+equivalent
 in
 interface
 interview
@@ -4630,6 +4631,9 @@ involved
 integration
 install
 inputText
+itemValue
+itemLabel
+inputtext
 java
 javascript
 jc
@@ -8194,6 +8198,9 @@ codes
 communication
 click
 confuse
+countryList
+customizing
+closing
 we
 when
 want
@@ -17368,6 +17375,8 @@ served
 shops
 student
 setFirstName
+selectItems
+selectItem
 rules
 restrictions
 returning
@@ -18578,6 +18587,7 @@ render
 renders
 rischfaces
 rename
+represented
 follow
 for
 from
@@ -25230,6 +25240,9 @@ ConcurrentHashMap
 Container
 Components
 Connecting
+Custom
+Certified
+Cloud
 devops
 default
 data
@@ -27656,6 +27669,7 @@ mapped
 mean
 managed
 manage
+match
 ACCESS
 Abstraction
 Angular
@@ -30949,6 +30963,7 @@ appropriate
 affect
 apps
 arg
+additionally
 NOTE
 Name
 New
@@ -36340,6 +36355,7 @@ Postman
 Processing
 Party
 PrimeFaces
+Practitioner
 Java
 JPA
 JCA
@@ -38493,6 +38509,7 @@ Involved
 IOC
 Input
 IDE
+India
 be
 byte
 boolean
@@ -41838,6 +41855,7 @@ Reading
 RichFaces
 Requirement
 REF
+Regex
 value
 void
 vanilla
@@ -42998,12 +43016,15 @@ vscodeextension
 violet
 versioning
 video
-validate
 validation
 vhO
 vvvQQQ
 vfV
 vkj
+validateLength
+validateDouble
+validateLong
+validateRegex
 qoutes
 question
 qIron
@@ -47342,6 +47363,7 @@ Vie
 Vkh
 Vdu
 View
+Validation
 You
 Yes
 Yv
@@ -49481,6 +49503,8 @@ Uxl
 UQj
 Updates
 Undertow
+Ultimate
+Udemy
 With
 When
 Works
