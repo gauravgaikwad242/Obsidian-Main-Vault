@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "53cf75d53fde1fb1",
+        "id": "63e7726cb99b5d87",
         "type": "tabs",
         "children": [
           {
-            "id": "d157b4f7a99d3753",
+            "id": "a854e672050f021c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-java/39.0 String StringBuffer StringBuilder.md",
+                "file": "AWS/cloud practitioner/UDEMY-Course/10 - Types of Cloud Computing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10 - Types of Cloud Computing"
             }
           },
           {
-            "id": "b3e1aa704624f0e0",
+            "id": "b96af3b80fc97dd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "AWS/URLs.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
@@ -51,8 +53,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -61,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unboxing",
+                "query": "tag:#sampleQuestionURL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.50355911254883
+    "width": 200
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -115,10 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,8 +139,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/URLs.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -147,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -159,7 +180,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -176,15 +199,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "b3e1aa704624f0e0",
+  "active": "b96af3b80fc97dd1",
   "lastOpenFiles": [
-    "AWS/cloud practitioner",
-    "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
+    "core-java/images/Pasted image 20250806172916.png",
+    "core-java/images/Pasted image 20250806172815.png",
+    "AWS/cloud practitioner/UDEMY-Course/09 - What is cloud computing.md",
+    "AWS/cloud practitioner/UDEMY-Course/10 - Types of Cloud Computing.md",
+    "core-java/images/Pasted image 20250806172220.png",
+    "core-java/images/Pasted image 20250806172136.png",
+    "core-java/images/Pasted image 20250806172015.png",
+    "AWS/cloud practitioner/UDEMY-Course/08 - What is cloud.md",
+    "core-java/images/Pasted image 20250806170401.png",
+    "AWS/cloud practitioner/AWS Certified Cloud Practitioner Slides v40.pdf",
+    "AWS/cloud practitioner/code/s3/beach.jpg",
     "AWS/URLs.md",
-    "AWS",
+    "Project-Reactor/code/mycode/udemy/ReactiveApplication.java",
+    "AWS/cloud practitioner/UDEMY-Course/01 - starting.md",
+    "AWS/cloud practitioner/code/s3/index.html",
+    "AWS/cloud practitioner/code/s3/coffee.jpg",
+    "AWS/cloud practitioner/code/ec2-fundamentals/test",
+    "AWS/cloud practitioner/code/ec2-fundamentals/ec2-user-data.sh",
+    "AWS/cloud practitioner/code/cloudformation/1-ec2-with-sg-eip.yaml",
+    "AWS/cloud practitioner/code/cloudformation/0-just-ec2.yaml",
+    "AWS/cloud practitioner/code/s3",
+    "AWS/cloud practitioner/code/ec2-fundamentals",
+    "AWS/cloud practitioner/code/cloudformation",
+    "AWS/code/s3/coffee.jpg",
+    "AWS/code/s3/beach.jpg",
+    "AWS/code_v2024-12-24/s3/coffee.jpg",
+    "AWS/cloud practitioner/UDEMY-Course/Untitled.md",
+    "AWS/cloud practitioner/UDEMY-Course/02-Account creation - TODO.md",
+    "core-java/39.0 String StringBuffer StringBuilder.md",
+    "java/functional-inteface/Standard Functional Interface.md",
+    "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
     "Untitled.md",
     "BACKEND/JSF/JSF Udemy/9 Pre-Populating Values.md",
     "BACKEND/JSF/JSF Udemy/Untitled 3.md",
@@ -195,38 +246,11 @@
     "BACKEND/JSF/JSF Udemy/6 Dropdown List.md",
     "BACKEND/JSF/JSF Udemy/4 HTML Forms.md",
     "BACKEND/JSF/JSF Udemy/5 Managed Beans.md",
-    "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf 1.jpg",
-    "core-java/images/WhatsApp Image 2024-09-20 at 09.56.57_1de2b7bf.jpg",
-    "core-java/images/WhatsApp Image 2024-09-20 at 08.22.45_9caa2175.jpg",
-    "core-java/images/WhatsApp Image 2024-09-20 at 08.11.25_d6ccb09b.jpg",
     "BACKEND/JSF/JSF Udemy/3 Hello World.md",
-    "core-java/images/Pasted image 20240919163607.png",
-    "core-java/images/Pasted image 20240919163408.png",
-    "core-java/images/Pasted image 20240919163256.png",
     "BACKEND/JSF/JSF Udemy/2.2 JSF - Behind Scenes.md",
-    "core-java/images/WhatsApp Image 2024-09-19 at 14.44.11_2db65c22.jpg",
     "BACKEND/JSF/JSF Udemy/2.1 Dev Env.md",
     "BACKEND/JSF/JSF Udemy/1 INTRO.md",
     "BACKEND/JSF/Java server faces.md",
-    "BACKEND/JSF/JSF Udemy",
-    "core-java/images/Pasted image 20240906105239.png",
-    "core-java/images/Pasted image 20240906105228.png",
-    "BACKEND/Jakarta Servlet/12 What is a Servlet.md",
-    "BACKEND/Jakarta Servlet/5.0 Servlet Architecture.md",
-    "BACKEND/Jakarta Servlet/4.0 Web Server vs Web Container.md",
-    "Links.md",
-    "java/Streams/Operators/min-max-streams.md",
-    "[Getting.md",
-    "BACKEND/Jakarta Servlet/17 Step 3 - Define Interface & Config.md",
-    "BACKEND/Jakarta Servlet/Untitled 2.md",
-    "BACKEND/Jakarta Servlet",
-    "BACKEND/JSF",
-    "core-java/15.1- constructor.pdf",
-    "core-java/11.01 Datatypes.pdf",
-    "BACKEND/Next_Cloud",
-    "BACKEND/Microservice",
-    "BACKEND/Multi-threading",
-    "BACKEND/unit-testing",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
