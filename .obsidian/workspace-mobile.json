@@ -11,12 +11,14 @@
             "id": "0d6e48f51cb60409",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java"
+                "file": "Angular-14/routing/path param.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec01Mono"
+              "title": "path param"
             }
           }
         ]
@@ -158,8 +160,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -179,6 +181,7 @@
   },
   "active": "0d6e48f51cb60409",
   "lastOpenFiles": [
+    "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java",
     "Angular-14/routing/path param.md",
     "Angular-14/routing/query param.md",
     "DSA/DataStructures/array/delete.md",
@@ -187,7 +190,6 @@
     "springboot/question/InterviewPrep_SpringBoot (1).pdf",
     "springboot/SPEL/Official Doc.md",
     "RXJS/ZIP-RXJS.md",
-    "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java",
     "java/Streams/Operators/boxed-streams.md",
     "java/Streams/Operators/anymatch-allmatch-nonematch-streams.md",
     "Project-Reactor/code/udemy/sec04/Lec04LimitRate.java",
@@ -211,7 +213,6 @@
     "java/Interview/Core Java Interview Questions & Answers.md",
     "Angular-14/httpclient/status code in response.md",
     "Angular-14/httpclient/http Interceptors.md",
-    "Angular-14/httpclient/headers injection.md",
     "core-java/11.01 Datatypes.pdf",
     "springboot/SPEL",
     "/springboot/SPEL",
