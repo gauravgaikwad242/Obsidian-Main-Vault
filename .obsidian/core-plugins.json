@@ -26,6 +26,10 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
+<<<<<<< HEAD
   "properties": true,
   "webviewer": false
+=======
+  "properties": true
+>>>>>>> origin/master
 }
