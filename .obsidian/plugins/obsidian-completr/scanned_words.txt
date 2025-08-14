@@ -6555,6 +6555,8 @@ iYMb
 iIF
 iRc
 iNe
+infra
+instant
 java
 javascript
 jc
@@ -11518,6 +11520,8 @@ commit
 commands
 conflicted
 conflicts
+companies
+computin
 we
 when
 want
@@ -21050,6 +21054,13 @@ ppbn
 pfTY
 pUKg
 plugins
+premises
+product
+pricings
+pay
+power
+pricing
+prem
 less
 lower
 letter
@@ -24446,6 +24457,7 @@ stg
 snOq
 shO
 strongly
+storage
 rules
 restrictions
 returning
@@ -29296,6 +29308,7 @@ guE
 gMfs
 gcy
 gztp
+github
 SDLC
 Software
 Super
@@ -30858,6 +30871,7 @@ SiHCI
 Snn
 Sfz
 SDv
+SaaS
 Developement
 Data
 DataSource
@@ -36950,6 +36964,8 @@ dSs
 dBR
 deleted
 desired
+demand
+delivery
 make
 more
 method
@@ -43369,6 +43385,7 @@ affn
 ach
 aAc
 aRWWg
+azure
 NOTE
 Name
 New
@@ -51076,6 +51093,10 @@ Phc
 PbIU
 PIv
 PDFContext
+PaaS
+Pricing
+Pay
+Private
 Java
 JPA
 JCA
@@ -54172,6 +54193,8 @@ IVPM
 IYa
 IvK
 Instructions
+IaaS
+Infrastructure
 be
 byte
 boolean
@@ -63457,6 +63480,7 @@ HoBz
 HMFHA
 HhK
 HEAD
+Heroku
 you
 your
 yQsf
