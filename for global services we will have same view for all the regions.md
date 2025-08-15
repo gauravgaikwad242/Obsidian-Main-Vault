@@ -1,0 +1,1 @@
+#### for global services we will have same view for all the regions

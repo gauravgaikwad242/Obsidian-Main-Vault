@@ -1,0 +1,2 @@
+ - login top right , click on multi session
+ - then in new tab click on add session on login 
