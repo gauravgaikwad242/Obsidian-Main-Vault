@@ -1,4 +1,4 @@
-- on-demand delivery of computer power, data storage, and other IT resources
+- <mark style="background: #FF5582A6;">on-demand delivery of computer power</mark>, data storage, and other IT resources
 - pay as you go - pricing 
 - right type and size of computin 
 - instant access 
