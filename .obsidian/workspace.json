@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +221,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60592059ab1c7ecc",
+  "active": "b99a53b872f93822",
   "lastOpenFiles": [
     "AWS/cloud practitioner/UDEMY-Course/15 IAM Users and Group Hands-On.md",
     "AWS/cloud practitioner/UDEMY-Course/14 IAM-Users and Groups.md",
