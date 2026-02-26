@@ -6559,6 +6559,8 @@ iRc
 iNe
 infra
 instant
+intro
+init
 java
 javascript
 jc
@@ -8164,6 +8166,7 @@ jtd
 jNb
 jjAfwV
 jjY
+jpeg
 to
 than
 tools
@@ -9701,6 +9704,9 @@ tNi
 tMi
 tSU
 tsou
+toSubscribe
+testpod
+token
 code
 class
 constants
@@ -11532,6 +11538,12 @@ cooling
 closest
 course
 compute
+curl
+chmod
+containerPort
+cni
+chown
+cert
 we
 when
 want
@@ -14702,6 +14714,8 @@ njt
 nEh
 nMCg
 nWmuWE
+nano
+nodes
 Enum
 Encapsulation
 EntityManager
@@ -16290,6 +16304,9 @@ EAy
 EmQm
 Eoy
 EXu
+Exported
+ENVIRONMENT
+END
 use
 universal
 used
@@ -17874,6 +17891,8 @@ uXg
 uSj
 upj
 unrelated
+usr
+ubuntu
 our
 of
 or
@@ -21074,6 +21093,8 @@ pricing
 prem
 packets
 packet
+processed
+pod
 less
 lower
 letter
@@ -22666,6 +22687,8 @@ laUm
 lTH
 listed
 login
+linecap
+linejoin
 syntax
 set
 security
@@ -24474,6 +24497,11 @@ strongly
 storage
 supply
 scaling
+subscribe
+stroke
+spec
+systemctl
+sha
 rules
 restrictions
 returning
@@ -26176,6 +26204,9 @@ regions
 region
 regional
 rabbitmqtemplate
+reactor
+restartPolicy
+rxtqllrs
 follow
 for
 from
@@ -27749,6 +27780,9 @@ fljKFi
 fVd
 fGHtT
 fGw
+fromJust
+fill
+fhu
 get
 gap
 general
@@ -30901,6 +30935,7 @@ Switch
 SENDER
 SENDING
 SAME
+SAVE
 Developement
 Data
 DataSource
@@ -32376,6 +32411,7 @@ DNC
 DNS
 DEPENDENCIES
 DEPENDECY
+Defaults
 Life
 Logic
 Let
@@ -33856,6 +33892,8 @@ Lci
 LZo
 LOGIC
 LISTENING
+LONG
+LIKE
 Cycle
 CONCEPTS
 CLASS
@@ -35361,6 +35399,10 @@ CczJ
 Conflicts
 CONFIGURATION
 CUSTOM
+CONTAINER
+COMMANDS
+COMMAND
+CONFIGURE
 devops
 default
 data
@@ -37004,6 +37046,9 @@ demand
 delivery
 device
 disasters
+docker
+deb
+dbf
 make
 more
 method
@@ -38760,6 +38805,9 @@ macOS
 master
 maintenance
 messageconverter
+mono
+minikube
+mkdir
 ACCESS
 Abstraction
 Angular
@@ -41838,6 +41886,12 @@ MpN
 Mdy
 MNa
 MESSAGE
+Mono
+MegaMind
+Minikube
+MULTI
+MYNAME
+MASTER
 accessModifiers
 access
 around
@@ -43430,6 +43484,7 @@ aAc
 aRWWg
 azure
 alphabetical
+apiVersion
 NOTE
 Name
 New
@@ -44965,6 +45020,11 @@ NBQ
 NxD
 NlE
 Netword
+Never
+NODE
+NODES
+NOTEPAD
+NOW
 has
 have
 hiding
@@ -46540,6 +46600,8 @@ hpp
 hyis
 hrg
 hYbw
+httpd
+https
 keyword
 keywork
 kafka
@@ -48084,6 +48146,11 @@ kAW
 knD
 kojhZ
 kHy
+kubectl
+kubernetes
+kubelet
+kubeadm
+kube
 OOPS
 OBJECT
 Object
@@ -51144,6 +51211,8 @@ Pay
 Private
 Problems
 PRODUCER
+PORTS
+PROVIDED
 Java
 JPA
 JCA
@@ -55827,6 +55896,8 @@ bZY
 buS
 bcW
 bCn
+bin
+bdef
 Business
 By
 Boot
@@ -57268,6 +57339,9 @@ Bjjj
 Bor
 Build
 BEANS
+BHUPINDER
+BOOTSTRAPPING
+BELOW
 Return
 Reactor
 Remember
@@ -58912,6 +58986,7 @@ RAd
 RiaR
 RAM
 Router
+RUN
 value
 void
 vanilla
@@ -60580,6 +60655,7 @@ vdb
 vtC
 vscode
 viewing
+viewBox
 qoutes
 question
 qIron
@@ -63531,6 +63607,7 @@ HMFHA
 HhK
 HEAD
 Heroku
+HOME
 you
 your
 yQsf
@@ -66714,6 +66791,7 @@ VHnq
 ViX
 VkKK
 Version
+VARIABLES
 You
 Yes
 Yv
@@ -71345,6 +71423,7 @@ Wcx
 WFPKB
 WyO
 WNx
+WORKER
 Generated
 Go
 Gv
@@ -72988,6 +73067,7 @@ Gkw
 GWpa
 Gjj
 GPß
+GIVEN
 zf
 zq
 zt
@@ -77726,6 +77806,7 @@ xcIK
 xrg
 xNTv
 xNU
+xenial
 ZL
 ZH
 Zx
@@ -80813,6 +80894,7 @@ KXyv
 Kkd
 KYX
 KSY
+Kubectl
 XT
 XZ
 XJ

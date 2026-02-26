@@ -3,5 +3,7 @@
   "obsidian-completr",
   "obsidian-html-tags-autocomplete",
   "highlightr-plugin",
-  "vscode-editor"
+  "vscode-editor",
+  "obsidian-importer",
+  "obsidian-excalidraw-plugin"
 ]
