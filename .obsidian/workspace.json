@@ -39,16 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/cloud practitioner/UDEMY-Course/16 Multi Session.md",
+                "file": "springboot/Interview/Java Techie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Multi Session"
+              "title": "Java Techie"
+            }
+          },
+          {
+            "id": "5f91218cdf0649c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#text-align",
+                "query": "restcontr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,8 +211,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           }
         ],
@@ -212,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -221,8 +235,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b99a53b872f93822",
+  "active": "5f91218cdf0649c2",
   "lastOpenFiles": [
+    "rabbitmq/Integration with SpringBoot-1. basic.md",
+    "springboot/ExceptionHandling/@RestControllerAdvice.md",
+    "AWS/cloud practitioner/UDEMY-Course/16 Multi Session.md",
     "AWS/cloud practitioner/UDEMY-Course/15 IAM Users and Group Hands-On.md",
     "AWS/cloud practitioner/UDEMY-Course/14 IAM-Users and Groups.md",
     "core-java/images/Pasted image 20250815125009.png",
@@ -239,7 +256,6 @@
     "AWS/cloud practitioner/UDEMY-Course/09 - Types of Cloud Computing.md",
     "AWS/cloud practitioner/UDEMY-Course/08 - What is cloud computing.md",
     "AWS/cloud practitioner/UDEMY-Course/08 - What is cloud.md",
-    "AWS/cloud practitioner/UDEMY-Course/16 Multi Session.md",
     "CSS/freecodecamp/08-Styling Lists.md",
     "CSS/freecodecamp/06-typography.md",
     "AWS/cloud practitioner/UDEMY-Course/02-Account creation - TODO.md",
@@ -267,7 +283,6 @@
     "BACKEND/JSF/JSF Udemy/10 JSF Form Validation.md",
     "BACKEND/JSF/JSF Udemy/9 Pre-Populating Values.md",
     "BACKEND/JSF/JSF Udemy/Untitled 3.md",
-    "BACKEND/JSF/JSF Udemy/Untitled 2.md",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
