@@ -1584,6 +1584,7 @@ TFW
 TNSx
 Terminology
 THIS
+THAN
 Fundamental
 For
 First
@@ -3199,6 +3200,7 @@ FPy
 FkGb
 FNM
 FCd
+FUNCTION
 elements
 enum
 else
@@ -11545,6 +11547,7 @@ containerPort
 cni
 chown
 cert
+criterial
 we
 when
 want
@@ -16308,6 +16311,7 @@ EXu
 Exported
 ENVIRONMENT
 END
+EQUAL
 use
 universal
 used
@@ -30937,6 +30941,7 @@ SENDER
 SENDING
 SAME
 SAVE
+SORT
 Developement
 Data
 DataSource
@@ -32413,6 +32418,7 @@ DNS
 DEPENDENCIES
 DEPENDECY
 Defaults
+DESC
 Life
 Logic
 Let
@@ -33895,6 +33901,7 @@ LOGIC
 LISTENING
 LONG
 LIKE
+LESS
 Cycle
 CONCEPTS
 CLASS
@@ -35404,6 +35411,7 @@ CONTAINER
 COMMANDS
 COMMAND
 CONFIGURE
+COMPARE
 devops
 default
 data
@@ -38809,6 +38817,7 @@ messageconverter
 mono
 minikube
 mkdir
+meets
 ACCESS
 Abstraction
 Angular
@@ -40277,6 +40286,7 @@ AAAAEU
 Additional
 AMQPTEMPLATE
 ABOVE
+ASC
 MODIFIERS
 My
 Material
@@ -41893,6 +41903,7 @@ Minikube
 MULTI
 MYNAME
 MASTER
+MATCHING
 accessModifiers
 access
 around
@@ -49720,6 +49731,7 @@ OzZ
 OJWP
 OIK
 OqOJ
+ORDER
 Powers
 Polymorphism
 Postgres
@@ -58988,6 +59000,7 @@ RiaR
 RAM
 Router
 RUN
+REGEX
 value
 void
 vanilla
@@ -71426,6 +71439,7 @@ WFPKB
 WyO
 WNx
 WORKER
+WILDCARDS
 Generated
 Go
 Gv
@@ -73070,6 +73084,7 @@ GWpa
 Gjj
 GPß
 GIVEN
+GREATER
 zf
 zq
 zt
@@ -80897,6 +80912,7 @@ Kkd
 KYX
 KSY
 Kubectl
+KEYWORDS
 XT
 XZ
 XJ
