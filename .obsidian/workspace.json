@@ -81,12 +81,14 @@
             "id": "ad0c49441f3678f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "postgres/table/TABLE_LIFECYCLE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "TABLE_LIFECYCLE"
             }
           }
         ],
@@ -254,17 +256,17 @@
   },
   "active": "ad0c49441f3678f2",
   "lastOpenFiles": [
-    "postgres/Links.md",
-    "postgres/Starting After Installation.md",
-    "Untitled 1.base",
-    "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/MOCK DATA.md",
     "postgres/table/_Table.md",
+    "postgres/KEYWORDS/BIGSERIAL.md",
     "postgres/DATATYPE/DATATYPES.md",
+    "postgres/Starting After Installation.md",
+    "postgres/Links.md",
+    "Untitled 1.base",
+    "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/KEYWORDS/WHERE.md",
     "postgres/KEYWORDS/AND-OR.md",
-    "postgres/KEYWORDS/BIGSERIAL.md",
     "postgres/KEYWORDS/COMPARISON.md",
     "postgres/KEYWORDS/LIKE.md",
     "postgres/KEYWORDS/ORDER_BY.md",
