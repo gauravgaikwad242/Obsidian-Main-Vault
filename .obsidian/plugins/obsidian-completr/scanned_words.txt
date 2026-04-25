@@ -3201,6 +3201,8 @@ FkGb
 FNM
 FCd
 FUNCTION
+FlatFileItemWriter
+FluxIntro
 elements
 enum
 else
@@ -4844,6 +4846,8 @@ eru
 eqwD
 editor
 eXIfMM
+earlier
+essential
 in
 interface
 interview
@@ -6564,6 +6568,8 @@ infra
 instant
 intro
 init
+inverse
+inner
 java
 javascript
 jc
@@ -8170,6 +8176,7 @@ jNb
 jjAfwV
 jjY
 jpeg
+javacommand
 to
 than
 tools
@@ -9710,6 +9717,8 @@ tsou
 toSubscribe
 testpod
 token
+terminal
+terminate
 code
 class
 constants
@@ -11548,6 +11557,8 @@ cni
 chown
 cert
 criterial
+concatenates
+combine
 we
 when
 want
@@ -14720,6 +14731,7 @@ nMCg
 nWmuWE
 nano
 nodes
+natural
 Enum
 Encapsulation
 EntityManager
@@ -19499,6 +19511,8 @@ ojg
 orx
 oeS
 occurrence
+owning
+ordering
 project
 public
 private
@@ -21100,6 +21114,10 @@ packets
 packet
 processed
 pod
+propagate
+producing
+performs
+persistence
 less
 lower
 letter
@@ -24507,6 +24525,13 @@ stroke
 spec
 systemctl
 sha
+skips
+satisfy
+sum
+sec
+saving
+saves
+saved
 rules
 restrictions
 returning
@@ -26212,6 +26237,9 @@ rabbitmqtemplate
 reactor
 restartPolicy
 rxtqllrs
+refers
+respectively
+reduction
 follow
 for
 from
@@ -27788,6 +27816,9 @@ fGw
 fromJust
 fill
 fhu
+foreign
+flattening
+flat
 get
 gap
 general
@@ -30942,6 +30973,8 @@ SENDING
 SAME
 SAVE
 SORT
+Some
+Sorts
 Developement
 Data
 DataSource
@@ -32419,6 +32452,8 @@ DEPENDENCIES
 DEPENDECY
 Defaults
 DESC
+Depending
+DelimatedLineAggregator
 Life
 Logic
 Let
@@ -35412,6 +35447,7 @@ COMMANDS
 COMMAND
 CONFIGURE
 COMPARE
+Converts
 devops
 default
 data
@@ -37059,6 +37095,14 @@ docker
 deb
 dbf
 dangerous
+discussed
+debugging
+dataStream
+depending
+deleting
+deletes
+detaching
+detached
 make
 more
 method
@@ -38819,6 +38863,9 @@ mono
 minikube
 mkdir
 meets
+maximum
+merges
+merge
 ACCESS
 Abstraction
 Angular
@@ -40288,6 +40335,8 @@ Additional
 AMQPTEMPLATE
 ABOVE
 ASC
+Apart
+Applies
 MODIFIERS
 My
 Material
@@ -41905,6 +41954,8 @@ MULTI
 MYNAME
 MASTER
 MATCHING
+Many
+ManyToOne
 accessModifiers
 access
 around
@@ -43499,6 +43550,7 @@ azure
 alphabetical
 apiVersion
 authenticated
+adding
 NOTE
 Name
 New
@@ -45039,6 +45091,7 @@ NODE
 NODES
 NOTEPAD
 NOW
+Notes
 has
 have
 hiding
@@ -46616,6 +46669,7 @@ hrg
 hYbw
 httpd
 https
+hid
 keyword
 keywork
 kafka
@@ -49734,6 +49788,9 @@ OJWP
 OIK
 OqOJ
 ORDER
+One
+Owning
+OPERATORS
 Powers
 Polymorphism
 Postgres
@@ -51228,6 +51285,7 @@ Problems
 PRODUCER
 PORTS
 PROVIDED
+Performs
 Java
 JPA
 JCA
@@ -52734,6 +52792,7 @@ JbM
 Jdr
 JlC
 JwP
+JoinColumn
 Inheritance
 It
 In
@@ -54326,6 +54385,8 @@ IvK
 Instructions
 IaaS
 Infrastructure
+Inverse
+Important
 be
 byte
 boolean
@@ -59003,6 +59064,8 @@ RAM
 Router
 RUN
 REGEX
+Removes
+Refreshes
 value
 void
 vanilla
@@ -69902,6 +69965,8 @@ UUgv
 UnM
 Uen
 Ufg
+Util
+Utility
 With
 When
 Works

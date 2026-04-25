@@ -69,30 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres/Links.md",
+                "file": "springboot/jpa/cascade type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "ad0c49441f3678f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgres/table/TABLE_LIFECYCLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TABLE_LIFECYCLE"
+              "title": "cascade type"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stream.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5120544433594
   },
   "right": {
     "id": "c70907c57a1a0c58",
@@ -254,38 +240,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad0c49441f3678f2",
+  "active": "158ecabe70801d1a",
   "lastOpenFiles": [
+    "springboot/jpa/one - to - many.md",
+    "postgres/Links.md",
+    "Project-Reactor/code/mycode/udemy/intro/sec02_flux/Lec01FluxIntro.java",
+    "java/INDEX-JAVA.md",
+    "java/commands.md",
+    "java/builder pattern.md",
+    "java/Streams/Untitled.md",
+    "java/Streams/OPERATORS.md",
+    "java/Streams/index-streams.md",
+    "java/Streams/Operators/reduce-streams.md",
+    "java/Streams/Operators/sorted-stream.md",
+    "java/Streams/Operators/to-array-streams.md",
+    "springboot/jpa/cascade type.md",
+    "springboot/jpa/many-to-many.md",
+    "springboot/jpa/orphanRemoval.md",
+    "springboot/jpa/multiple-database.md",
+    "springboot/jpa/MapsId.md",
+    "springboot/jpa/Entity Graph.md",
+    "springboot/jpa/Attribute-converter.md",
+    "postgres/table/TABLE_LIFECYCLE.md",
     "postgres/table/TABLE WITH CONTSTRAINTS.md",
     "postgres/table/MOCK DATA.md",
     "postgres/table/_Table.md",
     "postgres/KEYWORDS/BIGSERIAL.md",
     "postgres/DATATYPE/DATATYPES.md",
     "postgres/Starting After Installation.md",
-    "postgres/Links.md",
     "Untitled 1.base",
-    "postgres/table/TABLE_LIFECYCLE.md",
-    "postgres/KEYWORDS/WHERE.md",
-    "postgres/KEYWORDS/AND-OR.md",
-    "postgres/KEYWORDS/COMPARISON.md",
-    "postgres/KEYWORDS/LIKE.md",
-    "postgres/KEYWORDS/ORDER_BY.md",
-    "postgres/KEYWORDS/SELECT.md",
-    "Angular-14/httpclient/http Interceptors.md",
-    "Angular-14/httpclient/headers injection.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Untitled.base",
-    "Untitled 2.md",
-    "2026-02-27.md",
     "Pasted image 20230813084603.png",
     "Pasted image 20230806204752.png",
-    "Links.md",
-    "for global services we will have same view for all the regions.md",
-    "springboot/Interview/Java Techie.md",
-    "RXJS/_decision tree link.md",
-    "OneNote/DevelopmentAndOperations/k8sImages/lec 48 minicube.md",
-    "OneNote/DevelopmentAndOperations/k8sImages/Untitled-20260227002301.md",
     "OneNote/DevelopmentAndOperations/k8sImages/Untitled-20260227002301 - Ink.svg",
     "Project-Reactor/code/mycode/udemy/intro/mono/Lec01Mono.java",
     "core-java/images/Exported image 20260227002805-22.jpeg",
@@ -301,7 +287,6 @@
     "OneNote/DevelopmentAndOperations",
     "OneNote",
     "AWS/cloud practitioner/AWS Certified Cloud Practitioner Slides v40.pdf",
-    "Project-Reactor/code/mycode/udemy/ReactiveApplication.java",
     "core-java/programms/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
