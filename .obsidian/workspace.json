@@ -76,21 +76,9 @@
               "icon": "lucide-file",
               "title": "status code in response"
             }
-          },
-          {
-            "id": "8280978911db8d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +254,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8280978911db8d53",
+  "active": "703dcedf6429e0a7",
   "lastOpenFiles": [
     "Angular-14/httpclient/http Interceptors.md",
     "Angular-14/httpclient/headers injection.md",
