@@ -15,3 +15,4 @@ we can use private window for multi session login for multiple users
 - put in alias we added for unique url or account id 
 - and password 
 we can see on top right the login info as IAM user , else it is root user 
+
