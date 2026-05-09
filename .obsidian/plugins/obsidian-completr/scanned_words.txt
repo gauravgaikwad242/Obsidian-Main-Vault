@@ -1584,6 +1584,7 @@ TFW
 TNSx
 Terminology
 THIS
+Text
 Fundamental
 For
 First
@@ -4846,6 +4847,7 @@ earlier
 essential
 excalidraw
 enforce
+encrypted
 in
 interface
 interview
@@ -6571,6 +6573,7 @@ inner
 isolated
 iamreadonlyaccess
 iamreadonly
+infinite
 java
 javascript
 jc
@@ -11558,6 +11561,9 @@ containerPort
 cni
 chown
 cert
+compliance
+cheaper
+console
 we
 when
 want
@@ -14731,6 +14737,7 @@ nWmuWE
 nano
 nodes
 natural
+namespace
 Enum
 Encapsulation
 EntityManager
@@ -16322,6 +16329,9 @@ EXu
 Exported
 ENVIRONMENT
 END
+EXCALIDRAW
+Excalidraw
+Element
 use
 universal
 used
@@ -17909,6 +17919,8 @@ unrelated
 usr
 ubuntu
 ussers
+uploading
+uploaded
 our
 of
 or
@@ -19512,6 +19524,8 @@ oeS
 occurrence
 owning
 ordering
+ownership
+opened
 project
 public
 private
@@ -21129,6 +21143,8 @@ palette
 phone
 python
 programmatic
+presigned
+publicaly
 less
 lower
 letter
@@ -22725,6 +22741,8 @@ linecap
 linejoin
 low
 launch
+lakes
+logged
 syntax
 set
 security
@@ -26266,6 +26284,7 @@ revise
 roles
 rotate
 review
+recovery
 follow
 for
 from
@@ -27847,6 +27866,8 @@ flattening
 flat
 firewall
 formation
+foldername
+force
 get
 gap
 general
@@ -29435,6 +29456,7 @@ groups
 governance
 gave
 granted
+grant
 SDLC
 Software
 Super
@@ -31003,6 +31025,9 @@ SENDER
 SENDING
 SAME
 SAVE
+SSE
+Security
+Saving
 Developement
 Data
 DataSource
@@ -32479,6 +32504,8 @@ DNS
 DEPENDENCIES
 DEPENDECY
 Defaults
+Drawing
+Decompress
 Life
 Logic
 Let
@@ -33961,6 +33988,7 @@ LOGIC
 LISTENING
 LONG
 LIKE
+Links
 Cycle
 CONCEPTS
 CLASS
@@ -35470,6 +35498,7 @@ CONTAINER
 COMMANDS
 COMMAND
 CONFIGURE
+Constraint
 devops
 default
 data
@@ -37127,6 +37156,9 @@ detaching
 detached
 disaster
 decompress
+directories
+disabled
+directorylike
 make
 more
 method
@@ -38886,6 +38918,8 @@ messageconverter
 mono
 minikube
 mkdir
+multipart
+menu
 ACCESS
 Abstraction
 Angular
@@ -40354,6 +40388,8 @@ AAAAEU
 Additional
 AMQPTEMPLATE
 ABOVE
+Archiving
+ACLs
 MODIFIERS
 My
 Material
@@ -41970,6 +42006,9 @@ Minikube
 MULTI
 MYNAME
 MASTER
+MFA
+Max
+MORE
 accessModifiers
 access
 around
@@ -43579,6 +43618,9 @@ analyse
 authenticator
 auth
 audit
+advertised
+analytics
+advance
 NOTE
 Name
 New
@@ -46698,6 +46740,7 @@ hYbw
 httpd
 https
 hid
+hosting
 keyword
 keywork
 kafka
@@ -49816,6 +49859,8 @@ OzZ
 OJWP
 OIK
 OqOJ
+Objects
+OPTIONS
 Powers
 Polymorphism
 Postgres
@@ -56012,6 +56057,7 @@ bdef
 belong
 bandwidth
 behalf
+bucketname
 Business
 By
 Boot
@@ -57457,6 +57503,9 @@ BHUPINDER
 BOOTSTRAPPING
 BELOW
 Beanstalk
+Backup
+Buckets
+Bucket
 Return
 Reactor
 Remember
@@ -59102,6 +59151,7 @@ RiaR
 RAM
 Router
 RUN
+Role
 value
 void
 vanilla
@@ -63728,6 +63778,7 @@ HEAD
 Heroku
 HOME
 Hardware
+Hands
 you
 your
 yQsf
@@ -73193,6 +73244,8 @@ GWpa
 Gjj
 GPß
 GIVEN
+General
+Global
 zf
 zq
 zt

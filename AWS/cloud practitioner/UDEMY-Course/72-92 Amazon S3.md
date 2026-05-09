@@ -55,9 +55,27 @@
 
 # 74 Bucket Policy 
 
+### S3 - Security 
+![[Pasted image 20260501203531.png]]
 
 
+### S3 bucket Policies 
+- JSON based Policies 
+	- ![[Pasted image 20260501204330.png]]
+	- ![[Pasted image 20260501204347.png]]
 
+
+### S3 bucket policies are for : 
+- giving public access to bucket 
+- force objects to be encrypted at upload 
+- grant access to another access (cross account access)
+
+### Public access - policy 
+- if user wants to access publicaly we can set the policy 
+- if user in IAM  wants to access then we can set the policy to the IAM user then he can access 
+- if EC2 instance wants to access we can assign role to the instance 
+- advance is cross user access 
+- ![[Pasted image 20260501205443.png]]
 
 
 
