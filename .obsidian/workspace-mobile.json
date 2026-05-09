@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b69bff2239489a6b",
+        "id": "516e63a22cc67235",
         "type": "tabs",
         "children": [
           {
-            "id": "0d6e48f51cb60409",
+            "id": "8bda6f91f61c0ff1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OneNote/DevelopmentAndOperations/New Section 1/Docker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "0d6e48f51cb60409",
+  "active": "97a8343abe10ed46",
   "lastOpenFiles": [
+    "OneNote/DevelopmentAndOperations/New Section 1/Docker.md",
     "AWS/URLs.md",
     "Project X",
     "Angular-14/routing/path param.md",
