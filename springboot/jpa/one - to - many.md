@@ -5,7 +5,7 @@
 @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)  
 private List<Address> addresses;
 ```
-
+![[Pasted image 20260509175011.png]]
 ## Address.java (Owning side)
 
 ```java

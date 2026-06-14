@@ -1585,6 +1585,8 @@ TNSx
 Terminology
 THIS
 Text
+THAN
+TAKES
 Fundamental
 For
 First
@@ -3200,6 +3202,10 @@ FPy
 FkGb
 FNM
 FCd
+FROM
+FILE
+FETCH
+FUNCTION
 elements
 enum
 else
@@ -11564,6 +11570,7 @@ cert
 compliance
 cheaper
 console
+criterial
 we
 when
 want
@@ -16332,6 +16339,8 @@ END
 EXCALIDRAW
 Excalidraw
 Element
+EQUAL
+EXECUTE
 use
 universal
 used
@@ -31028,6 +31037,9 @@ SAVE
 SSE
 Security
 Saving
+SELECT
+SUPPOSE
+SORT
 Developement
 Data
 DataSource
@@ -32506,6 +32518,7 @@ DEPENDECY
 Defaults
 Drawing
 Decompress
+DESC
 Life
 Logic
 Let
@@ -33989,6 +34002,8 @@ LISTENING
 LONG
 LIKE
 Links
+LESS
+LIMIT
 Cycle
 CONCEPTS
 CLASS
@@ -35499,6 +35514,8 @@ COMMANDS
 COMMAND
 CONFIGURE
 Constraint
+COMPARE
+CLAUSE
 devops
 default
 data
@@ -38920,6 +38937,7 @@ minikube
 mkdir
 multipart
 menu
+meets
 ACCESS
 Abstraction
 Angular
@@ -40390,6 +40408,7 @@ AMQPTEMPLATE
 ABOVE
 Archiving
 ACLs
+ASC
 MODIFIERS
 My
 Material
@@ -42009,6 +42028,8 @@ MASTER
 MFA
 Max
 MORE
+Many
+ManyToOne
 accessModifiers
 access
 around
@@ -49861,6 +49882,11 @@ OIK
 OqOJ
 Objects
 OPTIONS
+One
+Owning
+OFFICIAL
+OFFSET
+ORDER
 Powers
 Polymorphism
 Postgres
@@ -51364,6 +51390,9 @@ Policies
 Policy
 Password
 Physical
+PARAMETER
+PROPER
+PAGE
 Java
 JPA
 JCA
@@ -59152,6 +59181,7 @@ RAM
 Router
 RUN
 Role
+RANGE
 value
 void
 vanilla
@@ -71600,6 +71630,10 @@ WFPKB
 WyO
 WNx
 WORKER
+WANT
+WHERE
+WHICH
+WAY
 Generated
 Go
 Gv
@@ -73246,6 +73280,7 @@ GPß
 GIVEN
 General
 Global
+GREATER
 zf
 zq
 zt
@@ -81074,6 +81109,8 @@ Kkd
 KYX
 KSY
 Kubectl
+KEYWORD
+KEYWORDS
 XT
 XZ
 XJ

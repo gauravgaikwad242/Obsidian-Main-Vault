@@ -1,4 +1,4 @@
-```
+```java
 @Entity
 public class Employee {
     @Id

@@ -24,6 +24,8 @@ Explanation:
 - Only owner manages insert/update in join table
 ```
 
+![[Pasted image 20260509174020.png]]
+
 ```java
 @Entity
 @Table(name = "students")
